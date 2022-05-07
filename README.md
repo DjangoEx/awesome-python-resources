@@ -33,7 +33,7 @@ Choose a library according to your project requirements and do not get confused 
 ## Step 3: Operating System
 
 ## Hands-on Experience
-🎉 Congrats!
-👋  You have passed steps 1, 2, and 3, Now, Let's your hands get dirty!
-⚠️ The following steps are not in order and you do not need to learn in order. 
-✅ Choose a step that is **interesting for you** or is **essential for your project**, and let the path show you which step to choose.
+🎉 Congrats!\
+👋  You have passed steps 1, 2, and 3, Now, Let's your hands get dirty!\
+⚠️ The following steps are not in order and you do not need to learn in order.\
+✅ Choose a step that is **interesting for you** or is **essential for your project**.
