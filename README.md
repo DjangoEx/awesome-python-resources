@@ -14,7 +14,9 @@
   - **Book**
     - [System Design Interview by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) (English) (Paid)
     - [System Design Interview: Volume 2 by Alex Xu & Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119) (English) (Paid)
-
+- ### Git
+  - **Video**
+    - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian) (Free)
 ## Step 1: Python
   - **Beginner**
     - **Book**
@@ -69,3 +71,33 @@ Choose a library according to your project requirements and do not get confused 
 👋  You have passed steps 1, 2, and 3, Now, Let's your hands get dirty!\
 ⚠️ The following steps are not in order and you do not need to learn in order.\
 ✅ Choose a step that is **interesting for you** or is **essential for your project**.
+## Databases
+(In Progress)
+## Caching
+(In Progress)
+## Testing
+(In Progress)
+## Container Platforms
+(In Progress)
+## Programming Paradigms
+(In Progress)
+## Architectural Patterns
+(In Progress)
+## Design Priciples
+(In Progress)
+## Design Patterns
+(In Progress)
+## Message Brokers
+(In Progress)
+## Web Servers
+(In Progress)
+## Availability & Reliability
+(In Progress)
+## Distributed Systems
+(In Progress)
+## Reactive Systems
+(In Progress)
+## Security
+(In Progress)
+## Where to go next?
+(In Progress)
