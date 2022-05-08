@@ -98,7 +98,7 @@ Choose a library according to your project requirements and do not get confused 
 ## Reactive Systems
 (In Progress)
 ## Security
-(In Progress)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/) (English) (Free)
 ## Where to go next?
 (In Progress)
 ## Contribution
