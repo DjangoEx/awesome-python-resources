@@ -3,7 +3,6 @@
 ## Step 0: Prerequisites
 
 - ### Algorithms & Data Structures
-  
   - **Book**
     - [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) (English) (Paid)
     - [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) (English) (Paid)
@@ -16,16 +15,13 @@
     - [Quera](https://quera.org/) (Persian)
 
 - ### System Design
-  
   - **Book**
     - [System Design Interview by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) (English) (Paid)
     - [System Design Interview: Volume 2 by Alex Xu & Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119) (English) (Paid)
 
 - ### Git
-  
   - **Video**
     - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian) (Free)
-  
   - **Book**
     - [Pro Git](https://git-scm.com/book/en/) (English) (Free)
 
