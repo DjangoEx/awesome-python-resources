@@ -54,6 +54,9 @@ Choose a library according to your project requirements and do not get confused 
     - [Django Super Course by Shahrokh Kiumarsy](https://www.youtube.com/watch?v=UnP4DmFMAxc&list=PLT4Mhd4PhxKD5uBkjzXymKARtViXWtwb7) (Persian) (Free)
 - ### FastAPI
 - ### Flask
+  - **Book**
+    - [Flask Web Development: Developing Web Applications with Python](https://www.amazon.de/Flask-Web-Development-Developing-Applications/dp/1491991739/) (English) (Paid)
+    - [Flask Framework Cookbook](https://www.amazon.de/Flask-Framework-Cookbook-techniques-development/dp/1789951291/) (English) (Paid)
 - ### Sanic
 - ### AIOHTTP
 - ### Bottle
