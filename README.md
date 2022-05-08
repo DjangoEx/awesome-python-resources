@@ -91,7 +91,8 @@ Choose a library according to your project requirements and do not get confused 
 ## Message Brokers
 (In Progress)
 ## Web Servers
-(In Progress)
+- Nginx
+   - [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/) (English) (Free)
 ## Availability & Reliability
 (In Progress)
 ## Distributed Systems
