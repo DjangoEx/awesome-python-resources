@@ -25,6 +25,7 @@
       - [Learn Python the Hard Way by Zed Shaw](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) (English) (Paid)
   - **Intermediate**
     - **Book**
+      - [Beyond the Basic Stuff with Python Best Practices for Writing Clean Code by Sweigart, Al](https://www.amazon.de/-/en/Al-Sweigart/dp/1593279663) (English) (Paid)
       - [Fluent Python by Luciano Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) (English) (Paid)
       - [Effective Python by Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989) (English) (Paid)
       - [Python Cookbook by David Beazley & Brian Jones](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377) (English) (Paid)
@@ -92,7 +93,10 @@ Choose a library according to your project requirements and do not get confused 
 ## Message Brokers
 (In Progress)
 ## Web Servers
-(In Progress)
+- Nginx
+   - [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/) (English) (Free)
+- Apache
+  - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945) (English) (Paid)
 ## Availability & Reliability
 (In Progress)
 ## Distributed Systems
@@ -100,7 +104,7 @@ Choose a library according to your project requirements and do not get confused 
 ## Reactive Systems
 (In Progress)
 ## Security
-(In Progress)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/) (English) (Free)
 ## Where to go next?
 (In Progress)
 ## Contribution
