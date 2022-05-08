@@ -159,7 +159,7 @@
     
     (In Progress)
     
-    ## Design Priciples
+    ## Design Principles
     
     (In Progress)
     
