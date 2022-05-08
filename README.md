@@ -197,10 +197,16 @@ Choose a library according to your project requirements and do not get confused 
 
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) (English) (Free)
   
-## Where to go next?
+## Where to Go Next?
+
+(In Progress)
+
+## Who to Follow Then?
 
 (In Progress)
 
 ## Contribution
 
 Feel free to contribute and add more resources.
+
+First time contributing to a repository? For more information about the steps and guides, check out [this repository](https://github.com/firstcontributions/first-contributions). ([Also available in Persian](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.fa.md))
