@@ -57,6 +57,8 @@ Choose a library according to your project requirements and do not get confused 
   - **Book**
     - [Flask Web Development: Developing Web Applications with Python](https://www.amazon.de/Flask-Web-Development-Developing-Applications/dp/1491991739/) (English) (Paid)
     - [Flask Framework Cookbook](https://www.amazon.de/Flask-Framework-Cookbook-techniques-development/dp/1789951291/) (English) (Paid)
+  - **Document**
+    - [Flask Document](https://flask.palletsprojects.com/) (English) (Free)
 - ### Sanic
 - ### AIOHTTP
 - ### Bottle
