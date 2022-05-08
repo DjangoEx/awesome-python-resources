@@ -71,11 +71,13 @@ Choose a library according to your project requirements and do not get confused 
     - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86) (Persian) (Paid)
   - **Video**
     - [Django Web Framework - Full Course for Beginners by Justin Mitchel](https://www.youtube.com/watch?v=F5mRW0jo-U4) (English) (Free)
+    - [Django For Everybody - Full Course by Dr. Charles Severance] (English) (Free)
     - [Django From Beginner To Advanced by Mehran Tarif](https://www.youtube.com/watch?v=XVNnOa41jT0&list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) (Persian) (Free)
     - [Django All In One Course by BobyCloud](https://www.youtube.com/watch?v=5SXtOyOhk9M&list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr) (Persian) (Free)
     - [Django Celery Course by Shahriar Shariati](https://www.youtube.com/watch?v=Fr9PljpWOz0&list=PLRU2zoAmuzJ1MjnIueq8vkXwWojH04Dwx) (Persian) (Free)
     - [Django Channels Course by Shahriar Shariati](https://www.youtube.com/watch?v=8tBZtG2iTKM&list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) (Persian) (Free)
     - [Django Super Course by Shahrokh Kiumarsy](https://www.youtube.com/watch?v=UnP4DmFMAxc&list=PLT4Mhd4PhxKD5uBkjzXymKARtViXWtwb7) (Persian) (Free)
+    - [Django Beginner to Advanced Course by Amirhossein Amiri](https://codeyad.com/c/e8a7) (Persian) (Paid)
 
 - ### FastAPI
   
@@ -86,6 +88,7 @@ Choose a library according to your project requirements and do not get confused 
   - **Video**
     - [Python API Development - Comprehensive Course for Beginners by Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=0sOvCWFmrtA) (English) (Free)
     - [FastAPI course by testdriven.io & talkpython.fm](https://testdriven.io/talkpython/) (English) (Paid)
+    - [Free FastAPI course by Mohammad Javad Fadakar](https://youtube.com/playlist?list=PLVN7DLFGYaP46oDpQtSnOR6vguu_YpUM9) (Persian) (Free)
   - **Project Generator**
     - [Full-Stack FastAPI PostgresSQL project generator](https://github.com/tiangolo/full-stack-fastapi-postgresql) (English) (Free)
 
