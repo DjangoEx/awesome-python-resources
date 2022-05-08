@@ -24,24 +24,24 @@
 - ### Git
   
   - **Video**
-    
+
     - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian) (Free)
   
   - **Book**
-    
+
     - [Pro Git](https://git-scm.com/book/en/) (English) (Free)
-      
+
       ## Step 1: Python
   
   - **Beginner**
-    
+
     - **Book**
       - [Python Crash Course by Eric Matthes](https://www.amazon.co.uk/dp/1593276036/) (English) (Paid)
       - [Head First Python by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide/dp/1449382673) (English) (Paid)
       - [Learn Python the Hard Way by Zed Shaw](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) (English) (Paid)
   
   - **Intermediate**
-    
+
     - **Book**
       - [Beyond the Basic Stuff with Python Best Practices for Writing Clean Code by Sweigart, Al](https://www.amazon.de/-/en/Al-Sweigart/dp/1593279663) (English) (Paid)
       - [Fluent Python by Luciano Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) (English) (Paid)
@@ -49,21 +49,21 @@
       - [Python Cookbook by David Beazley & Brian Jones](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377) (English) (Paid)
   
   - **Advanced**
-    
+
     - **Book**
-      
+
       - [Architecture Patterns with Python by Harry Percival & Bob Gregory](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) (English) (Paid)
-      
+
       - [Practices of the Python Pro by Dane Hillard](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082) (English) (Paid)
-      
+
       - [Python Testing with pytest by Brian Okken](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409) (English) (Paid)
-      
+
       - [Python Tricks by Dan Bader](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (English) (Paid)
-      
+
       - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/) (Persian) (Paid)
-        
+
         ## Step 2: Python Web Frameworks
-        
+
         Choose a library according to your project requirements and do not get confused between multiple frameworks.
 
 - ### Django
@@ -120,57 +120,57 @@
   
   - [LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 102 by Roderick W. Smith](https://www.amazon.com/LPIC-1-Linux-Professional-Institute-Certification/dp/1118495632) (English) (Paid)
 
-- **Video** 
+- **Video**
   
   - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj) (English) (Free)
   
   - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2) (Persian) (Free)
   
   - [Linux Course by Morteza Bashsiz](https://sudoer.ir/) (Persian) (Free)
-    
+
     ## Hands-on Experience
-    
+
     🎉 Congrats!\
-    👋  You have passed steps 1, 2, and 3, Now, Let's get your hands dirty!
-    ⚠️ The following steps are not in order, and you do not need to learn in order.\
-    ✅ Choose a step that is **interesting for you** or is **essential for your project**.
-    
+    👋  You have passed steps 1, 2, and 3, Now, Let's get your hands dirty!\
+    ⚠️ The following topics don't have any order or priority of learning.\
+    ✅ Choose topics that you are **interested in** or **suit your needs**.
+
     ## Databases
-    
+
     (In Progress)
-    
+
     ## Caching
-    
+
     (In Progress)
-    
+
     ## Testing
-    
+
     (In Progress)
-    
+
     ## Container Platforms
-    
+
     (In Progress)
-    
+
     ## Programming Paradigms
-    
+
     (In Progress)
-    
+
     ## Architectural Patterns
-    
+
     (In Progress)
-    
+
     ## Design Principles
-    
+
     (In Progress)
-    
+
     ## Design Patterns
-    
+
     (In Progress)
-    
+
     ## Message Brokers
-    
+
     (In Progress)
-    
+
     ## Web Servers
   
   - Nginx
@@ -196,11 +196,11 @@
   ## Security
   
   - [OWASP Top 10](https://owasp.org/www-project-top-ten/) (English) (Free)
-    
+
     ## Where to go next?
-    
+
     (In Progress)
-    
+
     ## Contribution
-    
+
     Feel free to contribute and add more resources.
