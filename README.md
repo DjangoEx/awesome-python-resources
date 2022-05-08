@@ -93,6 +93,8 @@ Choose a library according to your project requirements and do not get confused 
 ## Web Servers
 - Nginx
    - [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/) (English) (Free)
+- Apache
+  - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945) (English) (Paid)
 ## Availability & Reliability
 (In Progress)
 ## Distributed Systems
