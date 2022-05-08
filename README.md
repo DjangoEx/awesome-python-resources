@@ -24,11 +24,9 @@
 - ### Git
   
   - **Video**
-
     - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian) (Free)
   
   - **Book**
-
     - [Pro Git](https://git-scm.com/book/en/) (English) (Free)
 
 ## Step 1: Python
@@ -53,13 +51,9 @@
   - **Book**
 
     - [Architecture Patterns with Python by Harry Percival & Bob Gregory](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) (English) (Paid)
-
     - [Practices of the Python Pro by Dane Hillard](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082) (English) (Paid)
-
     - [Python Testing with pytest by Brian Okken](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409) (English) (Paid)
-
     - [Python Tricks by Dan Bader](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (English) (Paid)
-
     - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/) (Persian) (Paid)
 
 ## Step 2: Python Web Frameworks
@@ -123,9 +117,7 @@ Choose a library according to your project requirements and do not get confused 
 - **Video**
   
   - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj) (English) (Free)
-  
   - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2) (Persian) (Free)
-  
   - [Linux Course by Morteza Bashsiz](https://sudoer.ir/) (Persian) (Free)
 
 ## Hands-on Experience
@@ -173,13 +165,13 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Web Servers
 
-- Nginx
+- ### Nginx
+  - **Book**
+    - [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/) (English) (Free)
 
-- [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/) (English) (Free)
-
-- Apache
-
-- [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945) (English) (Paid)
+- ### Apache
+  - **Book**
+    - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945) (English) (Paid)
 
 ## Availability & Reliability
 
