@@ -10,6 +10,8 @@
     - [HackerRank](https://www.hackerrank.com/) (English)
     - [CodeWars](https://www.codewars.com/) (English)
     - [TheAlgorithms](https://the-algorithms.com/) (English)
+    - [Codeforces](https://codeforces.com/) (English)
+    - [Quera](https://quera.org/) (Persian)
 - ### System Design
   - **Book**
     - [System Design Interview by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) (English) (Paid)
@@ -17,6 +19,8 @@
 - ### Git
   - **Video**
     - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian) (Free)
+  - **Book**
+    - [Pro Git](https://git-scm.com/book/en/) (English) (Free)
 ## Step 1: Python
   - **Beginner**
     - **Book**
