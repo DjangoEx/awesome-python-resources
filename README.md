@@ -71,6 +71,7 @@ Choose a library according to your project requirements and do not get confused 
   - **Book**
     - [Django for Beginners by William S. Vincent](https://www.amazon.com/gp/product/1735467200) (English) (Paid)
     - [Django for APIs by William S. Vincent](https://www.amazon.com/gp/product/1735467227/) (English) (Paid)
+    - [Two Scoops of Django by Daniel Roy Greenfeld](https://www.feldroy.com/books/two-scoops-of-django-3-x) (English) (Paid)
     - [Django for APIs by ftg-iran](https://github.com/ftg-iran/dfa-persian) (Persian) (Free)
     - [Django for Professionals by William S. Vincent](https://www.amazon.com/gp/product/1735467235) (English) (Paid)
     - [Django for Professionals by ftg-iran](https://github.com/ftg-iran/dfp-persian) (Persian) (Free)
