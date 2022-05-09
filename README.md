@@ -58,6 +58,7 @@
     - [Python Testing with pytest by Brian Okken](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409) (English) (Paid)
     - [Python Tricks by Dan Bader](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (English) (Paid)
     - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/) (Persian) (Paid)
+    - [Python Concurrency with asyncio by Matthew Fowler](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
 
 ## Step 2: Python Web Frameworks
 
@@ -146,17 +147,16 @@ Choose a library according to your project requirements and do not get confused 
 - ### PostgreSQL
 
   - **Video**
-      - [Database concepts by Alireza Morteza Amini](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/) (Persian) (Free)
-      - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M) (Persian) (Free)
+    - [Database concepts by Alireza Morteza Amini](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/) (Persian) (Free)
+    - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M) (Persian) (Free)
 
   - **Website**
     - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) (English) (Free)
 
 ## Clean Code
 
-  - **Book**
-     - [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214) (English) (Free)
-
+- **Book**
+  - [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214) (English) (Free)
 
 ## Caching
 
@@ -189,10 +189,10 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Design Patterns
 
-  - **Book**
-    - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (English) (Paid)
-    - [Django Design Patterns and Best Practices (by Arun Ravindran)](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349) (English) (Paid)
-    - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
+- **Book**
+  - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (English) (Paid)
+  - [Django Design Patterns and Best Practices (by Arun Ravindran)](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349) (English) (Paid)
+  - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
 
 ## Message Brokers
 
