@@ -1,5 +1,36 @@
 # Python Backend Engineer Roadmap
 
+<details><summary><i><b>Table of Contents</b></i></summary>
+
+- [Step 0: Prerequisites](#step-0-prerequisites)
+  - [Algorithms & Data Structures](#algorithms-&-data-structures)
+  - [System Design](#system-design)
+  - [Git](#git)
+- [Step 1: Python](#step-1-python)
+- [Step 2: Python Web Frameworks](#step-2-python-web-frameworks)
+- [Step 3: Operating System](#step-3-operating-system)
+- [Hands-on Experience](#hands-on-experience)
+  - [Databases](#databases)
+  - [Clean Code](#clean-code)
+  - [Caching](#caching)
+  - [Testing](#testing)
+  - [Container Platforms](#container-platforms)
+  - [Programming Paradigms](#programming-paradigms)
+  - [Architectural Patterns](#architectural-patterns)
+  - [Design Principles](#design-principles)
+  - [Design Patterns](#design-patterns)
+  - [Message Brokers](#message-brokers)
+  - [Web Servers](#web-servers)
+  - [Availability & Reliability](#availability-&-reliability)
+  - [Distributed Systems](#distributed-systems)
+  - [Reactive Systems](#reactive-systems)
+  - [Security](#security)
+- [Where to Go Next?](#where-to-go-next)
+- [Who to follow Then?](#who-to-follow-then)
+- [Contribution](#contribution)
+
+</details>
+
 ## Step 0: Prerequisites
 
 - ### Algorithms & Data Structures
@@ -53,12 +84,13 @@
 - **Advanced**
   
   - **Book**
-  
+    
     - [Architecture Patterns with Python by Harry Percival & Bob Gregory](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) (English) (Paid)
     - [Practices of the Python Pro by Dane Hillard](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082) (English) (Paid)
     - [Python Testing with pytest by Brian Okken](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409) (English) (Paid)
     - [Python Tricks by Dan Bader](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (English) (Paid)
     - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/) (Persian) (Paid)
+    - [Python Concurrency with asyncio by Matthew Fowler](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
 
 ## Step 2: Python Web Frameworks
 
@@ -140,24 +172,25 @@ Choose a library according to your project requirements and do not get confused 
 ## Databases
 
 - ### General
-
+  
   - **Book**
     - [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/) (English) (Paid)
 
 - ### PostgreSQL
-
+  
   - **Video**
-      - [Database concepts by Alireza Morteza Amini](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/) (Persian) (Free)
-      - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M) (Persian) (Free)
-
+    
+    - [Database concepts by Alireza Morteza Amini](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/) (Persian) (Free)
+    - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M) (Persian) (Free)
+  
   - **Website**
+    
     - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) (English) (Free)
 
 ## Clean Code
 
-  - **Book**
-     - [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214) (English) (Free)
-
+- **Book**
+  - [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214) (English) (Free)
 
 ## Caching
 
@@ -170,20 +203,22 @@ Choose a library according to your project requirements and do not get confused 
 ## Container Platforms
 
 - ### Docker
-
+  
   - **Book**
-     - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) (English) (Paid)
-     - [Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF) (English) (Paid)
+    - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) (English) (Paid)
+    - [Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF) (English) (Paid)
   - **Video**
     - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX) (Persian) (Free)
     - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/) (Persian) (Free)
     - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0) (Persian) (Free)
+
 - ### Kubernetes
+  
   - **Video**
-     - ["Just me and Opensource" YouTube channel](https://www.youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0) (English) (Free)
+    - ["Just me and Opensource" YouTube channel](https://www.youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0) (English) (Free)
   - **Book**
-     - [Kubernetes: Up and Running, 2nd Edition](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523) (English) (Paid)
-     - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) (English) (Paid)
+    - [Kubernetes: Up and Running, 2nd Edition](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523) (English) (Paid)
+    - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) (English) (Paid)
 
 ## Programming Paradigms
 
@@ -191,8 +226,8 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Architectural Patterns
 
-  - **Book**
-     - [Microservice Architecture](https://www.oreilly.com/library/view/microservice-architecture/9781491956328) (English) (Paid)
+- **Book**
+  - [Microservice Architecture](https://www.oreilly.com/library/view/microservice-architecture/9781491956328) (English) (Paid)
 
 ## Design Principles
 
@@ -200,10 +235,10 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Design Patterns
 
-  - **Book**
-    - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (English) (Paid)
-    - [Django Design Patterns and Best Practices (by Arun Ravindran)](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349) (English) (Paid)
-    - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
+- **Book**
+  - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (English) (Paid)
+  - [Django Design Patterns and Best Practices (by Arun Ravindran)](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349) (English) (Paid)
+  - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
 
 ## Message Brokers
 
