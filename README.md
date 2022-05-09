@@ -7,6 +7,7 @@
   - **Book**
     - [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) (English) (Paid)
     - [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) (English) (Paid)
+    - [Data Structure and Algorithmic Thinking with Python: Data Structure and Algorithmic Puzzles by Narasimha Karumanchi](https://www.amazon.com/Data-Structure-Algorithmic-Thinking-Python/dp/8192107590) (English) (Paid)
   - **Platform**
     - [LeetCode](https://leetcode.com/) (English)
     - [HackerRank](https://www.hackerrank.com/) (English)
