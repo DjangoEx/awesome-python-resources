@@ -135,6 +135,12 @@ Choose a library according to your project requirements and do not get confused 
   - **Video**
       - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M) (Persian) (Free)
 
+## Clean Code
+
+  - **Book**
+     - [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214) (English) (Free)
+
+
 ## Caching
 
 (In Progress)
