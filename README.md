@@ -202,6 +202,10 @@ Choose a library according to your project requirements and do not get confused 
   - **Book**
     - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945) (English) (Paid)
 
+## Monitoring
+- ### Zabbix
+  (In Progress)
+
 ## Availability & Reliability
 
 (In Progress)
