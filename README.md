@@ -176,6 +176,12 @@ Choose a library according to your project requirements and do not get confused 
     - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX) (Persian) (Free)
     - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/) (Persian) (Free)
     - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0) (Persian) (Free)
+- ### Kubernetes
+  - **Video**
+     - ["Just me and Opensource" YouTube channel](https://www.youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0) (English) (Free)
+  - **Book**
+     - [Kubernetes: Up and Running, 2nd Edition](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523) (English) (Paid)
+     - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) (English) (Paid)
 
 ## Programming Paradigms
 
