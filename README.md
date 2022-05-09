@@ -84,8 +84,9 @@ Choose a library according to your project requirements and do not get confused 
   
   - **Documentation**
     - [FastAPI documentation](https://fastapi.tiangolo.com) (English) (Free)
+    - [FastAPI Utilities documentation](https://fastapi-utils.davidmontague.xyz/) (English) (Free)
   - **List of awesome things**
-    - [FastAPI awesome things](https://fastapi.tiangolo.com/awesome-things) (English) (Free)
+    - [FastAPI awesome things](https://project-awesome.org/mjhea0/awesome-fastapi) (English) (Free)
   - **Video**
     - [Python API Development - Comprehensive Course for Beginners by Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=0sOvCWFmrtA) (English) (Free)
     - [FastAPI course by testdriven.io & talkpython.fm](https://testdriven.io/talkpython/) (English) (Paid)
