@@ -172,7 +172,8 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Design Patterns
 
-(In Progress)
+- **Book**
+  - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
 
 ## Message Brokers
 
