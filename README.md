@@ -82,6 +82,7 @@ Choose a library according to your project requirements and do not get confused 
   
   - **Documentation**
     - [FastAPI documentation](https://fastapi.tiangolo.com) (English) (Free)
+    - [FastAPI Utilities documentation](https://fastapi-utils.davidmontague.xyz/) (English) (Free)
   - **List of awesome things**
     - [FastAPI awesome things](https://project-awesome.org/mjhea0/awesome-fastapi) (English) (Free)
   - **Video**
