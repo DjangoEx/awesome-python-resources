@@ -25,6 +25,8 @@
   - [Distributed Systems](#distributed-systems)
   - [Reactive Systems](#reactive-systems)
   - [Security](#security)
+- [Podcasts](#podcasts)
+- [International Conferences](#international-conferences)
 - [Where to Go Next?](#where-to-go-next)
 - [Who to follow Then?](#who-to-follow-then)
 - [Contribution](#contribution)
