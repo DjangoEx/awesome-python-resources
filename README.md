@@ -31,7 +31,9 @@
 ## Step 1: Python
 
 - **Beginner**
-  
+
+  - **Documentation**
+    - [python coderz](https://python.coderz.ir/index.html) (Persian) (Free)
   - **Book**
     - [Python Crash Course by Eric Matthes](https://www.amazon.co.uk/dp/1593276036/) (English) (Paid)
     - [Head First Python by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide/dp/1449382673) (English) (Paid)
