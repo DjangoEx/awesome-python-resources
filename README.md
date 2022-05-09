@@ -3,7 +3,7 @@
 ## Step 0: Prerequisites
 
 - ### Algorithms & Data Structures
-
+  
   - **Book**
     - [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) (English) (Paid)
     - [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) (English) (Paid)
@@ -16,7 +16,7 @@
     - [Quera](https://quera.org/) (Persian)
 
 - ### System Design
-
+  
   - **Book**
     - [System Design Interview by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) (English) (Paid)
     - [System Design Interview: Volume 2 by Alex Xu & Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119) (English) (Paid)
@@ -24,14 +24,14 @@
     - [Educative - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) (English) (Paid)
 
 - ### Git
-
+  
   - **Video**
     - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian) (Free)
   - **Book**
     - [Pro Git](https://git-scm.com/book/en/) (English) (Free)
 
 ## Step 1: Python
-  
+
 - **Beginner**
   
   - **Book**
@@ -50,7 +50,7 @@
 - **Advanced**
   
   - **Book**
-
+  
     - [Architecture Patterns with Python by Harry Percival & Bob Gregory](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) (English) (Paid)
     - [Practices of the Python Pro by Dane Hillard](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082) (English) (Paid)
     - [Python Testing with pytest by Brian Okken](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409) (English) (Paid)
@@ -100,6 +100,7 @@ Choose a library according to your project requirements and do not get confused 
     - [Flask Framework Cookbook](https://www.amazon.de/Flask-Framework-Cookbook-techniques-development/dp/1789951291/) (English) (Paid)
   - **Video**
     - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) (Persian) (Free)
+    - [REST APIs with Flask and Python by Jose Salvatierra](https://www.udemy.com/course/rest-api-flask-and-python/) (English) (Paid)
   - **Document**
     - [Flask Document](https://flask.palletsprojects.com/) (English) (Free)
 
@@ -126,16 +127,33 @@ Choose a library according to your project requirements and do not get confused 
   - [Linux Course by Morteza Bashsiz](https://sudoer.ir/) (Persian) (Free)
 
 ## Hands-on Experience
-  
+
   🎉 Congrats!\
   👋  You have passed steps 1, 2, and 3, Now, Let's get your hands dirty!\
   ⚠️ The following topics don't have any order or priority of learning.\
   ✅ Choose topics that you are **interested in** or **suit your needs**.
-  
+
 ## Databases
 
+- ### General
+
+  - **Book**
+    - [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/) (English) (Paid)
+
+- ### PostgreSQL
+
   - **Video**
+      - [Database concepts by Alireza Morteza Amini](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/) (Persian) (Free)
       - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M) (Persian) (Free)
+
+  - **Website**
+    - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) (English) (Free)
+
+## Clean Code
+
+  - **Book**
+     - [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214) (English) (Free)
+
 
 ## Caching
 
@@ -147,7 +165,12 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Container Platforms
 
-(In Progress)
+- ### Docker
+
+  - **Video**
+    - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX) (Persian) (Free)
+    - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/) (Persian) (Free)
+    - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0) (Persian) (Free)
 
 ## Programming Paradigms
 
@@ -165,7 +188,8 @@ Choose a library according to your project requirements and do not get confused 
 
   - **Book**
     - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (English) (Paid)
-
+    - [Django Design Patterns and Best Practices (by Arun Ravindran)](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349) (English) (Paid)
+    - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
 
 ## Message Brokers
 
@@ -174,12 +198,12 @@ Choose a library according to your project requirements and do not get confused 
 ## Web Servers
 
 - ### Nginx
-
+  
   - **Book**
     - [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/) (English) (Free)
 
 - ### Apache
-
+  
   - **Book**
     - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945) (English) (Paid)
 
@@ -198,7 +222,7 @@ Choose a library according to your project requirements and do not get confused 
 ## Security
 
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) (English) (Free)
-  
+
 ## Where to Go Next?
 
 (In Progress)
