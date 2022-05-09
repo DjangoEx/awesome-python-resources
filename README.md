@@ -48,6 +48,7 @@
     - [Fluent Python by Luciano Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) (English) (Paid)
     - [Effective Python by Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989) (English) (Paid)
     - [Python Cookbook by David Beazley & Brian Jones](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377) (English) (Paid)
+    - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
 
 - **Advanced**
   
@@ -170,10 +171,19 @@ Choose a library according to your project requirements and do not get confused 
 
 - ### Docker
 
+  - **Book**
+     - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) (English) (Paid)
+     - [Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF) (English) (Paid)
   - **Video**
     - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX) (Persian) (Free)
     - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/) (Persian) (Free)
     - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0) (Persian) (Free)
+- ### Kubernetes
+  - **Video**
+     - ["Just me and Opensource" YouTube channel](https://www.youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0) (English) (Free)
+  - **Book**
+     - [Kubernetes: Up and Running, 2nd Edition](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523) (English) (Paid)
+     - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) (English) (Paid)
 
 ## Programming Paradigms
 
@@ -181,7 +191,8 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Architectural Patterns
 
-(In Progress)
+  - **Book**
+     - [Microservice Architecture](https://www.oreilly.com/library/view/microservice-architecture/9781491956328) (English) (Paid)
 
 ## Design Principles
 
