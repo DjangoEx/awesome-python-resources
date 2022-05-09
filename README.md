@@ -151,7 +151,11 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Container Platforms
 
-(In Progress)
+- ### Docker
+
+    - **Video**
+        - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX) (Persian) (Free)
+        - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/) (Persian) (Free)
 
 ## Programming Paradigms
 
