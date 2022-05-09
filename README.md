@@ -91,6 +91,7 @@
     - [Python Tricks by Dan Bader](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (English) (Paid)
     - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/) (Persian) (Paid)
     - [Python Concurrency with asyncio by Matthew Fowler](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
+    - [Python for Programmers by Deitel Developer Series](https://deitel.com/python-for-programmers-book/) (English) (Paid)
 
 ## Step 2: Python Web Frameworks
 
