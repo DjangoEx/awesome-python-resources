@@ -25,9 +25,9 @@
   - [Distributed Systems](#distributed-systems)
   - [Reactive Systems](#reactive-systems)
   - [Security](#security)
-  - [Where to Go Next?](#where-to-go-next)
-  - [Who to follow Then?](#who-to-follow-then)
-  - [Contribution](#contribution)
+- [Where to Go Next?](#where-to-go-next)
+- [Who to follow Then?](#who-to-follow-then)
+- [Contribution](#contribution)
 
 </details>
 
