@@ -46,6 +46,7 @@
     - [Fluent Python by Luciano Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) (English) (Paid)
     - [Effective Python by Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989) (English) (Paid)
     - [Python Cookbook by David Beazley & Brian Jones](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377) (English) (Paid)
+    - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
 
 - **Advanced**
   
