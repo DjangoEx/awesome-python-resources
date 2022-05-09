@@ -165,9 +165,10 @@ Choose a library according to your project requirements and do not get confused 
 
 - ### Docker
 
-    - **Video**
-        - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX) (Persian) (Free)
-        - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/) (Persian) (Free)
+  - **Video**
+    - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX) (Persian) (Free)
+    - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/) (Persian) (Free)
+    - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0) (Persian) (Free)
 
 ## Programming Paradigms
 
@@ -183,8 +184,9 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Design Patterns
 
-- **Book**
-  - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
+  - **Book**
+    - [Django Design Patterns and Best Practices (by Arun Ravindran)](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349) (English) (Paid)
+    - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
 
 ## Message Brokers
 
