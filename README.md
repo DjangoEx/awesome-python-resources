@@ -20,6 +20,8 @@
   - **Book**
     - [System Design Interview by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) (English) (Paid)
     - [System Design Interview: Volume 2 by Alex Xu & Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119) (English) (Paid)
+  - **Course**
+    - [Educative - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) (English) (Paid)
 
 - ### Git
 
@@ -161,7 +163,9 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Design Patterns
 
-(In Progress)
+  - **Book**
+    - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (English) (Paid)
+
 
 ## Message Brokers
 
