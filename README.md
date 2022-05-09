@@ -189,7 +189,8 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Architectural Patterns
 
-(In Progress)
+  - **Book**
+     - [Microservice Architecture](https://www.oreilly.com/library/view/microservice-architecture/9781491956328) (English) (Paid)
 
 ## Design Principles
 
