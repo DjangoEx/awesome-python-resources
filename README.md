@@ -164,7 +164,8 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Design Patterns
 
-(In Progress)
+  - **Book**
+    - [Django Design Patterns and Best Practices (by Arun Ravindran)](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349) (English) (Paid)
 
 ## Message Brokers
 
