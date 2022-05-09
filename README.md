@@ -197,6 +197,16 @@ Choose a library according to your project requirements and do not get confused 
 ## Security
 
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) (English) (Free)
+
+## Podcasts
+
+- [Django Chat](https://djangochat.com/)
+- [Talk Python To Me](https://talkpython.fm/)
+
+## International Conferences
+
+- [PyCon](https://pycon.org/)
+- [DjangoCon EU](https://djangocon.eu)
   
 ## Where to Go Next?
 
