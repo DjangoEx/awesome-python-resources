@@ -169,6 +169,9 @@ Choose a library according to your project requirements and do not get confused 
 
 - ### Docker
 
+  - **Book**
+     - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) (English) (Paid)
+     - [Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF) (English) (Paid)
   - **Video**
     - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX) (Persian) (Free)
     - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/) (Persian) (Free)
