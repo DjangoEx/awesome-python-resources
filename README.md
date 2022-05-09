@@ -204,7 +204,7 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Monitoring
 - ### Zabbix
-  (In Progress)
+    - [Zabbix 6 IT Infrastructure Monitoring Cookbook](https://www.amazon.com/Zabbix-Infrastructure-Monitoring-Cookbook-maintaining/dp/180324691X) (English) (Paid)
 
 ## Availability & Reliability
 
