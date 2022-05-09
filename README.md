@@ -91,6 +91,7 @@
     - [Python Tricks by Dan Bader](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (English) (Paid)
     - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/) (Persian) (Paid)
     - [Python Concurrency with asyncio by Matthew Fowler](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
+    - [Serious Python by Julien Danjou](https://serious-python.com/) (English) (Paid)
 
 ## Step 2: Python Web Frameworks
 
@@ -106,6 +107,7 @@ Choose a library according to your project requirements and do not get confused 
     - [Django for Professionals by ftg-iran](https://github.com/ftg-iran/dfp-persian) (Persian) (Free)
     - [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by Harry Percival](https://www.obeythetestinggoat.com/book/praise.harry.html) (English) (Free)
     - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86) (Persian) (Paid)
+    - [Django 3 by Example](https://www.packtpub.com/product/django-3-by-example-third-edition/9781838981952) (English) (Paid)
   - **Video**
     - [Django Web Framework - Full Course for Beginners by Justin Mitchel](https://www.youtube.com/watch?v=F5mRW0jo-U4) (English) (Free)
     - [Django For Everybody - Full Course by Dr. Charles Severance](https://youtu.be/o0XbHvKxw7Y) (English) (Free)
@@ -228,6 +230,7 @@ Choose a library according to your project requirements and do not get confused 
 
 - **Book**
   - [Microservice Architecture](https://www.oreilly.com/library/view/microservice-architecture/9781491956328) (English) (Paid)
+  - [Building Microservices, 2nd Edition](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/) (English) (Paid)
 
 ## Design Principles
 
