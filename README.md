@@ -77,7 +77,6 @@ Choose a library according to your project requirements and do not get confused 
     - [Django Celery Course by Shahriar Shariati](https://www.youtube.com/watch?v=Fr9PljpWOz0&list=PLRU2zoAmuzJ1MjnIueq8vkXwWojH04Dwx) (Persian) (Free)
     - [Django Channels Course by Shahriar Shariati](https://www.youtube.com/watch?v=8tBZtG2iTKM&list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) (Persian) (Free)
     - [Django Super Course by Shahrokh Kiumarsy](https://www.youtube.com/watch?v=UnP4DmFMAxc&list=PLT4Mhd4PhxKD5uBkjzXymKARtViXWtwb7) (Persian) (Free)
-    - [Django Beginner to Advanced Course by Amirhossein Amiri](https://codeyad.com/c/e8a7) (Persian) (Paid)
 
 - ### FastAPI
   
