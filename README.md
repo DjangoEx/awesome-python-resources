@@ -187,7 +187,9 @@ Choose a library according to your project requirements and do not get confused 
      - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) (English) (Paid)
 
 ## Programming Paradigms
-
+ - **Book** 
+    -[python3 object-oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)
+ 
 (In Progress)
 
 ## Architectural Patterns
