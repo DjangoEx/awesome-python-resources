@@ -71,6 +71,11 @@
     - [Python Crash Course by Eric Matthes](https://www.amazon.co.uk/dp/1593276036/) (English) (Paid)
     - [Head First Python by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide/dp/1449382673) (English) (Paid)
     - [Learn Python the Hard Way by Zed Shaw](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) (English) (Paid)
+  - **Platform**
+    - [w3schools](https://www.w3schools.com/python/default.asp) (English) (Free)
+    - [codecademy Python 2](https://www.codecademy.com/learn/learn-python) (English) (Free)
+    - [codecademy Python 3](https://www.codecademy.com/learn/learn-python-3) (English) (Paid)
+    
 
 - **Intermediate**
   
@@ -80,6 +85,9 @@
     - [Effective Python by Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989) (English) (Paid)
     - [Python Cookbook by David Beazley & Brian Jones](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377) (English) (Paid)
     - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
+  - **Platform**
+    - [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language) (English) (Free)
+    - [programiz](https://www.programiz.com/python-programming) (English) (Free)
 
 - **Advanced**
   
@@ -92,6 +100,10 @@
     - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/) (Persian) (Paid)
     - [Python Concurrency with asyncio by Matthew Fowler](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
 
+  - **Platform**
+    - [realpython](https://realpython.com/) (English) (Free)
+    - [python-course](https://python-course.eu/) (English) (Free)
+  
 ## Step 2: Python Web Frameworks
 
 Choose a library according to your project requirements and do not get confused between multiple frameworks.
