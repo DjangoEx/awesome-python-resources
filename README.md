@@ -128,6 +128,7 @@ Choose a library according to your project requirements and do not get confused 
     - [Django Celery Course by Shahriar Shariati](https://www.youtube.com/watch?v=Fr9PljpWOz0&list=PLRU2zoAmuzJ1MjnIueq8vkXwWojH04Dwx) (Persian) (Free)
     - [Django Channels Course by Shahriar Shariati](https://www.youtube.com/watch?v=8tBZtG2iTKM&list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) (Persian) (Free)
     - [Django Super Course by Shahrokh Kiumarsy](https://www.youtube.com/watch?v=UnP4DmFMAxc&list=PLT4Mhd4PhxKD5uBkjzXymKARtViXWtwb7) (Persian) (Free)
+    - [Django Course by Hêmn Hosseinpana](https://www.youtube.com/watch?v=VVbznmQ5YbE&list=PLJ9zDGwhhsByH5tcpM9H3VzdHYpne3bSa) (Persian) (Free)
 
 - ### FastAPI
   
@@ -245,6 +246,9 @@ Choose a library according to your project requirements and do not get confused 
 
 - **Book**
   - [Microservice Architecture](https://www.oreilly.com/library/view/microservice-architecture/9781491956328) (English) (Paid)
+  - [Patterns of Enterprise Application Architecture](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) (English) (Paid)
+  - [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.de/-/en/Gregor-Hohpe/dp/0321200683/) (English) (Paid)
+
 
 ## Design Principles
 
@@ -256,6 +260,7 @@ Choose a library according to your project requirements and do not get confused 
   - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (English) (Paid)
   - [Django Design Patterns and Best Practices (by Arun Ravindran)](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349) (English) (Paid)
   - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
+  
 
 ## Message Brokers
 
