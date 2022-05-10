@@ -41,6 +41,8 @@
     - [Python Crash Course by Eric Matthes](https://www.amazon.co.uk/dp/1593276036/) (English) (Paid)
     - [Head First Python by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide/dp/1449382673) (English) (Paid)
     - [Learn Python the Hard Way by Zed Shaw](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) (English) (Paid)
+  - **Video**
+    - [Python tutorial by jadi](https://gotoclass.ir/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/) (Persian) (Free) 
 
 - **Intermediate**
   
@@ -50,16 +52,19 @@
     - [Effective Python by Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989) (English) (Paid)
     - [Python Cookbook by David Beazley & Brian Jones](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377) (English) (Paid)
     - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
+  - **Video**
+    - [Free Python Tutorial](https://toplearn.com/c/o2V3) (Persian) (Free)
 
 - **Advanced**
   
   - **Book**
-  
     - [Architecture Patterns with Python by Harry Percival & Bob Gregory](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) (English) (Paid)
     - [Practices of the Python Pro by Dane Hillard](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082) (English) (Paid)
     - [Python Testing with pytest by Brian Okken](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409) (English) (Paid)
     - [Python Tricks by Dan Bader](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (English) (Paid)
     - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/) (Persian) (Paid)
+  - **Video**
+    - [Python3: Deep Dive (4 parts)](https://www.udemy.com/course/python-3-deep-dive-part-1/) (English) (Paid)
 
 ## Step 2: Python Web Frameworks
 
