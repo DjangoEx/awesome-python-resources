@@ -82,10 +82,11 @@
     - [Python Crash Course by Eric Matthes](https://www.amazon.co.uk/dp/1593276036/) (English) (Paid)
     - [Head First Python by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide/dp/1449382673) (English) (Paid)
     - [Learn Python the Hard Way by Zed Shaw](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) (English) (Paid)
+
   - **Platform**
-    - [w3schools](https://www.w3schools.com/python/default.asp) (English) (Free)
-    - [codecademy Python 2](https://www.codecademy.com/learn/learn-python) (English) (Free)
-    - [codecademy Python 3](https://www.codecademy.com/learn/learn-python-3) (English) (Paid)
+    - [W3schools](https://www.w3schools.com/python/default.asp) (English) (Free)
+    - [Codecademy Python 2](https://www.codecademy.com/learn/learn-python) (English) (Free)
+    - [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3) (English) (Paid)
     
 
 - **Intermediate**
@@ -96,9 +97,10 @@
     - [Effective Python by Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989) (English) (Paid)
     - [Python Cookbook by David Beazley & Brian Jones](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377) (English) (Paid)
     - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
+  - 
   - **Platform**
-    - [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language) (English) (Free)
-    - [programiz](https://www.programiz.com/python-programming) (English) (Free)
+    - [GeeksForGeeks](https://www.geeksforgeeks.org/python-programming-language) (English) (Free)
+    - [Programiz](https://www.programiz.com/python-programming) (English) (Free)
 
 - **Advanced**
   
@@ -114,8 +116,8 @@
     - [Serious Python by Julien Danjou](https://serious-python.com/) (English) (Paid)
 
   - **Platform**
-    - [realpython](https://realpython.com/) (English) (Free)
-    - [python-course](https://python-course.eu/) (English) (Free)
+    - [RealPython](https://realpython.com/) (English) (Free)
+    - [Python-Course](https://python-course.eu/) (English) (Free)
   
 ## Step 2: Python Web Frameworks
 
@@ -260,9 +262,13 @@ Choose a library according to your project requirements and do not get confused 
     - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) (English) (Paid)
 
 ## Programming Paradigms
- - **Book** 
-    -[python3 object-oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)(English)(paid)
- 
+
+- **Book**
+  - [Python3 Object-Oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1) (English) (paid)
+
+- **Article**
+  - [Functional Programming in Python](https://realpython.com/python-functional-programming/) (English) (Free)
+
 (In Progress)
 
 ## Architectural Patterns
