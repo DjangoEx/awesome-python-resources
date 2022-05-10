@@ -99,6 +99,7 @@
     - [Python Tricks by Dan Bader](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (English) (Paid)
     - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/) (Persian) (Paid)
     - [Python Concurrency with asyncio by Matthew Fowler](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
+    - [Serious Python by Julien Danjou](https://serious-python.com/) (English) (Paid)
 
   - **Platform**
     - [realpython](https://realpython.com/) (English) (Free)
@@ -247,9 +248,9 @@ Choose a library according to your project requirements and do not get confused 
 
 - **Book**
   - [Microservice Architecture](https://www.oreilly.com/library/view/microservice-architecture/9781491956328) (English) (Paid)
+  - [Building Microservices, 2nd Edition](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/) (English) (Paid)
   - [Patterns of Enterprise Application Architecture](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) (English) (Paid)
   - [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.de/-/en/Gregor-Hohpe/dp/0321200683/) (English) (Paid)
-
 
 ## Design Principles
 
