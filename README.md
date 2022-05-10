@@ -52,8 +52,6 @@
     - [Effective Python by Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989) (English) (Paid)
     - [Python Cookbook by David Beazley & Brian Jones](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377) (English) (Paid)
     - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
-  - **Video**
-    - [Free Python Tutorial by Ordookhani](https://toplearn.com/c/o2V3) (Persian) (Free)
 
 - **Advanced**
   
