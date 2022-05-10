@@ -71,6 +71,11 @@
     - [Python Crash Course by Eric Matthes](https://www.amazon.co.uk/dp/1593276036/) (English) (Paid)
     - [Head First Python by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide/dp/1449382673) (English) (Paid)
     - [Learn Python the Hard Way by Zed Shaw](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) (English) (Paid)
+  - **Platform**
+    - [w3schools](https://www.w3schools.com/python/default.asp) (English) (Free)
+    - [codecademy Python 2](https://www.codecademy.com/learn/learn-python) (English) (Free)
+    - [codecademy Python 3](https://www.codecademy.com/learn/learn-python-3) (English) (Paid)
+    
 
 - **Intermediate**
   
@@ -80,6 +85,9 @@
     - [Effective Python by Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989) (English) (Paid)
     - [Python Cookbook by David Beazley & Brian Jones](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377) (English) (Paid)
     - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
+  - **Platform**
+    - [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language) (English) (Free)
+    - [programiz](https://www.programiz.com/python-programming) (English) (Free)
 
 - **Advanced**
   
@@ -92,6 +100,10 @@
     - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/) (Persian) (Paid)
     - [Python Concurrency with asyncio by Matthew Fowler](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
 
+  - **Platform**
+    - [realpython](https://realpython.com/) (English) (Free)
+    - [python-course](https://python-course.eu/) (English) (Free)
+  
 ## Step 2: Python Web Frameworks
 
 Choose a library according to your project requirements and do not get confused between multiple frameworks.
@@ -104,9 +116,10 @@ Choose a library according to your project requirements and do not get confused 
     - [Django for APIs by ftg-iran](https://github.com/ftg-iran/dfa-persian) (Persian) (Free)
     - [Django for Professionals by William S. Vincent](https://www.amazon.com/gp/product/1735467235) (English) (Paid)
     - [Django for Professionals by ftg-iran](https://github.com/ftg-iran/dfp-persian) (Persian) (Free)
-    - [Two Scoops of Django 3.x](https://www.feldroy.com/books/two-scoops-of-django-3-x) (English) (Paid)
+    - [Two Scoops of Django 3.x by Daniel Roy Greenfeld, Audrey Roy Greenfeld](https://www.feldroy.com/books/two-scoops-of-django-3-x) (English) (Paid)
     - [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by Harry Percival](https://www.obeythetestinggoat.com/book/praise.harry.html) (English) (Free)
     - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86) (Persian) (Paid)
+    - [Django3 by example by antonio mele](https://www.amazon.com/Django-Example-powerful-reliable-applications-dp-1838981950/dp/1838981950/ref=mt_other?_encoding=UTF8&me=&qid=)(English)(paid)
   - **Video**
     - [Django Web Framework - Full Course for Beginners by Justin Mitchel](https://www.youtube.com/watch?v=F5mRW0jo-U4) (English) (Free)
     - [Build REST APIs with Django REST Framework and Python By Shubham Sarda](https://www.packtpub.com/product/build-rest-apis-with-django-rest-framework-and-python-video/9781801819022) (English) (Paid)
@@ -116,6 +129,7 @@ Choose a library according to your project requirements and do not get confused 
     - [Django Celery Course by Shahriar Shariati](https://www.youtube.com/watch?v=Fr9PljpWOz0&list=PLRU2zoAmuzJ1MjnIueq8vkXwWojH04Dwx) (Persian) (Free)
     - [Django Channels Course by Shahriar Shariati](https://www.youtube.com/watch?v=8tBZtG2iTKM&list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) (Persian) (Free)
     - [Django Super Course by Shahrokh Kiumarsy](https://www.youtube.com/watch?v=UnP4DmFMAxc&list=PLT4Mhd4PhxKD5uBkjzXymKARtViXWtwb7) (Persian) (Free)
+    - [Django Course by Hêmn Hosseinpana](https://www.youtube.com/watch?v=VVbznmQ5YbE&list=PLJ9zDGwhhsByH5tcpM9H3VzdHYpne3bSa) (Persian) (Free)
 
 - ### FastAPI
   
@@ -138,6 +152,7 @@ Choose a library according to your project requirements and do not get confused 
     - [Flask Framework Cookbook](https://www.amazon.de/Flask-Framework-Cookbook-techniques-development/dp/1789951291/) (English) (Paid)
   - **Video**
     - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) (Persian) (Free)
+    - [Flask Tutorial by Tech With Tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) (English) (Paid)
     - [REST APIs with Flask and Python by Jose Salvatierra](https://www.udemy.com/course/rest-api-flask-and-python/) (English) (Paid)
   - **Document**
     - [Flask Document](https://flask.palletsprojects.com/) (English) (Free)
@@ -223,13 +238,18 @@ Choose a library according to your project requirements and do not get confused 
     - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) (English) (Paid)
 
 ## Programming Paradigms
-
+ - **Book** 
+    -[python3 object-oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)(English)(paid)
+ 
 (In Progress)
 
 ## Architectural Patterns
 
 - **Book**
   - [Microservice Architecture](https://www.oreilly.com/library/view/microservice-architecture/9781491956328) (English) (Paid)
+  - [Patterns of Enterprise Application Architecture](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) (English) (Paid)
+  - [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.de/-/en/Gregor-Hohpe/dp/0321200683/) (English) (Paid)
+
 
 ## Design Principles
 
@@ -241,6 +261,7 @@ Choose a library according to your project requirements and do not get confused 
   - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (English) (Paid)
   - [Django Design Patterns and Best Practices (by Arun Ravindran)](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349) (English) (Paid)
   - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
+  
 
 ## Message Brokers
 
