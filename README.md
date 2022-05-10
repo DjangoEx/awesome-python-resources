@@ -39,6 +39,10 @@
     - [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) (English) (Paid)
     - [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) (English) (Paid)
     - [Data Structure and Algorithmic Thinking with Python: Data Structure and Algorithmic Puzzles by Narasimha Karumanchi](https://www.amazon.com/Data-Structure-Algorithmic-Thinking-Python/dp/8192107590) (English) (Paid)
+    
+  - **Video**
+    - [Data Structures And Algorithms Course by Mosh Hamedani](https://codewithmosh.com/p/data-structures-algorithms) (English) (Paid)
+
   - **Platform**
     - [LeetCode](https://leetcode.com/) (English)
     - [HackerRank](https://www.hackerrank.com/) (English)
@@ -59,6 +63,7 @@
   
   - **Video**
     - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian) (Free)
+    - [Git Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-git-course) (English) (Paid)
   - **Book**
     - [Pro Git](https://git-scm.com/book/en/) (English) (Free)
 
@@ -81,7 +86,7 @@
   
   - **Book**
     - [Beyond the Basic Stuff with Python Best Practices for Writing Clean Code by Sweigart, Al](https://www.amazon.de/-/en/Al-Sweigart/dp/1593279663) (English) (Paid)
-    - [Fluent Python by Luciano Ramalho 2nd Edition](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359) (English) (Paid)
+    - [Fluent Python by Luciano Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) (English) (Paid)
     - [Effective Python by Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989) (English) (Paid)
     - [Python Cookbook by David Beazley & Brian Jones](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377) (English) (Paid)
     - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
@@ -99,7 +104,6 @@
     - [Python Tricks by Dan Bader](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (English) (Paid)
     - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/) (Persian) (Paid)
     - [Python Concurrency with asyncio by Matthew Fowler](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
-    - [Python for Programmers by Deitel Developer Series](https://deitel.com/python-for-programmers-book/) (English) (Paid)
     - [Serious Python by Julien Danjou](https://serious-python.com/) (English) (Paid)
 
   - **Platform**
@@ -121,20 +125,18 @@ Choose a library according to your project requirements and do not get confused 
     - [Two Scoops of Django 3.x by Daniel Roy Greenfeld, Audrey Roy Greenfeld](https://www.feldroy.com/books/two-scoops-of-django-3-x) (English) (Paid)
     - [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by Harry Percival](https://www.obeythetestinggoat.com/book/praise.harry.html) (English) (Free)
     - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86) (Persian) (Paid)
-    - [Test-Driven Development with Django by Kevin Harvey](https://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey/dp/178528116X) (English) (Paid)
     - [Django3 by example by antonio mele](https://www.amazon.com/Django-Example-powerful-reliable-applications-dp-1838981950/dp/1838981950/ref=mt_other?_encoding=UTF8&me=&qid=)(English)(paid)
   - **Video**
     - [Django Web Framework - Full Course for Beginners by Justin Mitchel](https://www.youtube.com/watch?v=F5mRW0jo-U4) (English) (Free)
     - [Build REST APIs with Django REST Framework and Python By Shubham Sarda](https://www.packtpub.com/product/build-rest-apis-with-django-rest-framework-and-python-video/9781801819022) (English) (Paid)
     - [Django For Everybody - Full Course by Dr. Charles Severance](https://youtu.be/o0XbHvKxw7Y) (English) (Free)
-    - [Django ORM Mastery - Very Academy](https://www.youtube.com/watch?v=iQF6pln3Gog&list=PLOLrQ9Pn6cazjoDEnwzcdWWf4SNS0QZml) (English) (Free)
-    - [Learn Django Class Base View - Very Academy](https://www.youtube.com/watch?v=GxA2I-n8NR8&list=PLOLrQ9Pn6caxNb9eFZJ6LfY29nZkKmmXT) (English) (Free)
     - [Django From Beginner To Advanced by Mehran Tarif](https://www.youtube.com/watch?v=XVNnOa41jT0&list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) (Persian) (Free)
     - [Django All In One Course by BobyCloud](https://www.youtube.com/watch?v=5SXtOyOhk9M&list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr) (Persian) (Free)
     - [Django Celery Course by Shahriar Shariati](https://www.youtube.com/watch?v=Fr9PljpWOz0&list=PLRU2zoAmuzJ1MjnIueq8vkXwWojH04Dwx) (Persian) (Free)
     - [Django Channels Course by Shahriar Shariati](https://www.youtube.com/watch?v=8tBZtG2iTKM&list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) (Persian) (Free)
     - [Django Super Course by Shahrokh Kiumarsy](https://www.youtube.com/watch?v=UnP4DmFMAxc&list=PLT4Mhd4PhxKD5uBkjzXymKARtViXWtwb7) (Persian) (Free)
     - [Django Course by Hêmn Hosseinpana](https://www.youtube.com/watch?v=VVbznmQ5YbE&list=PLJ9zDGwhhsByH5tcpM9H3VzdHYpne3bSa) (Persian) (Free)
+    - [Django Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-django-series) (English) (Paid)
 
 - ### FastAPI
   
@@ -198,6 +200,9 @@ Choose a library according to your project requirements and do not get confused 
   - **Book**
     - [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/) (English) (Paid)
 
+  - **Video**
+    - [SQL Course by Mosh Hamedani](https://codewithmosh.com/p/complete-sql-mastery) (English) (Paid)
+
 - ### PostgreSQL
   
   - **Video**
@@ -233,7 +238,7 @@ Choose a library according to your project requirements and do not get confused 
     - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX) (Persian) (Free)
     - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/) (Persian) (Free)
     - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0) (Persian) (Free)
-    - [Docker Mastery With Django - very academy](https://www.youtube.com/watch?v=W5Ov0H7E_o4&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C) (English) (Free)
+    - [Docker Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-docker-course) (English) (Paid)
 
 - ### Kubernetes
   
@@ -263,11 +268,13 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Design Patterns
 
-- **Book**
-  - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (English) (Paid)
-  - [Django Design Patterns and Best Practices (by Arun Ravindran)](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349) (English) (Paid)
-  - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
-  
+  - **Book**
+    - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (English) (Paid)
+    - [Django Design Patterns and Best Practices (by Arun Ravindran)](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349) (English) (Paid)
+    - [Dive Into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterns/book) (English) (Paid)
+
+  - **Video**
+    - [Design Patterns Course by Mosh Hamedani](https://codewithmosh.com/p/design-patterns) (English) (Paid)
 
 ## Message Brokers
 
