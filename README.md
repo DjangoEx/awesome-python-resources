@@ -48,7 +48,7 @@
     - [Quera](https://quera.org/) (Persian)
 
   - **Repository**
-   - [Coding University](https://github.com/jwasham/coding-interview-university) (English)
+    - [Coding University](https://github.com/jwasham/coding-interview-university) (English)
 
 - ### System Design
   
