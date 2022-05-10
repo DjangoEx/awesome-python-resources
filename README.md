@@ -150,6 +150,7 @@ Choose a library according to your project requirements and do not get confused 
     - [Flask Framework Cookbook](https://www.amazon.de/Flask-Framework-Cookbook-techniques-development/dp/1789951291/) (English) (Paid)
   - **Video**
     - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) (Persian) (Free)
+    - [Flask Tutorial by Tech With Tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) (English) (Paid)
     - [REST APIs with Flask and Python by Jose Salvatierra](https://www.udemy.com/course/rest-api-flask-and-python/) (English) (Paid)
   - **Document**
     - [Flask Document](https://flask.palletsprojects.com/) (English) (Free)
