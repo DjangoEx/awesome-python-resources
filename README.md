@@ -64,6 +64,8 @@
     - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian) (Free)
   - **Book**
     - [Pro Git](https://git-scm.com/book/en/) (English) (Free)
+  - **Website**
+    - [Learn Git Branching](https://learngitbranching.js.org/) (English) (Free)
 
 ## Step 1: Python
 
