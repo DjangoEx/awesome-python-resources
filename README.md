@@ -118,6 +118,7 @@ Choose a library according to your project requirements and do not get confused 
     - [Django for Professionals by ftg-iran](https://github.com/ftg-iran/dfp-persian) (Persian) (Free)
     - [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by Harry Percival](https://www.obeythetestinggoat.com/book/praise.harry.html) (English) (Free)
     - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86) (Persian) (Paid)
+    - [Django3 by example by antonio mele](https://www.amazon.com/Django-Example-powerful-reliable-applications-dp-1838981950/dp/1838981950/ref=mt_other?_encoding=UTF8&me=&qid=)(English)(paid)
   - **Video**
     - [Django Web Framework - Full Course for Beginners by Justin Mitchel](https://www.youtube.com/watch?v=F5mRW0jo-U4) (English) (Free)
     - [Django For Everybody - Full Course by Dr. Charles Severance](https://youtu.be/o0XbHvKxw7Y) (English) (Free)
@@ -233,7 +234,9 @@ Choose a library according to your project requirements and do not get confused 
     - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) (English) (Paid)
 
 ## Programming Paradigms
-
+ - **Book** 
+    -[python3 object-oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)(English)(paid)
+ 
 (In Progress)
 
 ## Architectural Patterns
