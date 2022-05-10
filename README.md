@@ -116,6 +116,7 @@ Choose a library according to your project requirements and do not get confused 
     - [Django for APIs by ftg-iran](https://github.com/ftg-iran/dfa-persian) (Persian) (Free)
     - [Django for Professionals by William S. Vincent](https://www.amazon.com/gp/product/1735467235) (English) (Paid)
     - [Django for Professionals by ftg-iran](https://github.com/ftg-iran/dfp-persian) (Persian) (Free)
+    - [Two Scoops of Django 3.x by Daniel Roy Greenfeld, Audrey Roy Greenfeld](https://www.feldroy.com/books/two-scoops-of-django-3-x) (English) (Paid)
     - [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by Harry Percival](https://www.obeythetestinggoat.com/book/praise.harry.html) (English) (Free)
     - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86) (Persian) (Paid)
     - [Django3 by example by antonio mele](https://www.amazon.com/Django-Example-powerful-reliable-applications-dp-1838981950/dp/1838981950/ref=mt_other?_encoding=UTF8&me=&qid=)(English)(paid)
