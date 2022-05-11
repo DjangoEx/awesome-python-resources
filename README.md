@@ -240,11 +240,11 @@ Choose a library according to your project requirements and do not get confused 
     - [Getting Started With Testing in Python](https://realpython.com/python-testing/) (English) (Free)
   ### 2. DRF test framework
   - Document
-    - [Testing - Django REST framework](https://www.django-rest-framework.org/api-guide/testing/)
-  - Video
-    - [Pytest Django and Django Rest Framework](https://www.youtube.com/watch?v=KIIdbVs7e8I&list=PLP1DxoSC17LZTTzgfq0Dimkm6eWJQC9ki)
+    - [Testing - Django REST framework](https://www.django-rest-framework.org/api-guide/testing/) (English) (Free) 
 
-(In Progress)
+  - Video
+    - [Pytest Django and Django Rest Framework](https://www.youtube.com/watch?v=KIIdbVs7e8I&list=PLP1DxoSC17LZTTzgfq0Dimkm6eWJQC9ki) (English) (Free)
+
 
 ## Container Platforms
 
