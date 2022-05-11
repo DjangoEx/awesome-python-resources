@@ -75,6 +75,7 @@
     - [w3schools](https://www.w3schools.com/python/default.asp) (English) (Free)
     - [codecademy Python 2](https://www.codecademy.com/learn/learn-python) (English) (Free)
     - [codecademy Python 3](https://www.codecademy.com/learn/learn-python-3) (English) (Paid)
+    - [Sololearn Python](https://www.sololearn.com/learning/1073) (English) (Free)
     
 
 - **Intermediate**
