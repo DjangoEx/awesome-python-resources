@@ -91,6 +91,7 @@
     - [w3schools](https://www.w3schools.com/python/default.asp) (English) (Free)
     - [codecademy Python 2](https://www.codecademy.com/learn/learn-python) (English) (Free)
     - [codecademy Python 3](https://www.codecademy.com/learn/learn-python-3) (English) (Paid)
+    - [Sololearn Python](https://www.sololearn.com/learning/1073) (English) (Free)
     
 - **Intermediate**
   
@@ -234,6 +235,7 @@ Choose a library according to your project requirements and do not get confused 
 
 - **Book**
   - [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214) (English) (Free)
+  - [Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve Mcconnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) (English) (Paid)
 
 ## Caching
 
