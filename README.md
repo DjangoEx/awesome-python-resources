@@ -39,6 +39,7 @@
     - [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) (English) (Paid)
     - [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) (English) (Paid)
     - [Data Structure and Algorithmic Thinking with Python: Data Structure and Algorithmic Puzzles by Narasimha Karumanchi](https://www.amazon.com/Data-Structure-Algorithmic-Thinking-Python/dp/8192107590) (English) (Paid)
+    - [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) (English) (Paid)
 
   - **Video**
     - [Data Structures And Algorithms Course by Mosh Hamedani](https://codewithmosh.com/p/data-structures-algorithms) (English) (Paid)
@@ -82,12 +83,15 @@
     - [Python Crash Course by Eric Matthes](https://www.amazon.co.uk/dp/1593276036/) (English) (Paid)
     - [Head First Python by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide/dp/1449382673) (English) (Paid)
     - [Learn Python the Hard Way by Zed Shaw](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) (English) (Paid)
-  - **Platform**
+
+- **Video**
+    - [Python tutorial by jadi](https://gotoclass.ir/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/) (Persian) (Free) 
+
+- **Platform**
     - [w3schools](https://www.w3schools.com/python/default.asp) (English) (Free)
     - [codecademy Python 2](https://www.codecademy.com/learn/learn-python) (English) (Free)
     - [codecademy Python 3](https://www.codecademy.com/learn/learn-python-3) (English) (Paid)
     
-
 - **Intermediate**
   
   - **Book**
@@ -103,7 +107,6 @@
 - **Advanced**
   
   - **Book**
-    
     - [Architecture Patterns with Python by Harry Percival & Bob Gregory](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205) (English) (Paid)
     - [Practices of the Python Pro by Dane Hillard](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082) (English) (Paid)
     - [Python Testing with pytest by Brian Okken](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409) (English) (Paid)
@@ -112,6 +115,9 @@
     - [Python Concurrency with asyncio by Matthew Fowler](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
     - [Python for Programmers by Deitel Developer Series](https://deitel.com/python-for-programmers-book/) (English) (Paid)
     - [Serious Python by Julien Danjou](https://serious-python.com/) (English) (Paid)
+
+- **Video**
+    - [Python3: Deep Dive (4 parts)](https://www.udemy.com/course/python-3-deep-dive-part-1/) (English) (Paid)
 
   - **Platform**
     - [realpython](https://realpython.com/) (English) (Free)
