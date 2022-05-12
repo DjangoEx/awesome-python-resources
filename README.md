@@ -204,6 +204,10 @@ Choose a library according to your project requirements and do not get confused 
   - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2) (Persian) (Free)
   - [Linux Course by Morteza Bashsiz](https://sudoer.ir/) (Persian) (Free)
 
+
+ - **Platform**
+    - [Linux Journey](https://linuxjourney.com/) (English)
+
 ## Hands-on Experience
 
   🎉 Congrats!\
