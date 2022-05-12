@@ -71,6 +71,7 @@
 
   - **Book**
     - [Pro Git](https://git-scm.com/book/en/) (English) (Free)
+    - [Git Notes for Professionals](https://books.goalkicker.com/GitBook/) (English) (Free)
   - **Website**
     - [Learn Git Branching](https://learngitbranching.js.org/) (English) (Free)
 
@@ -117,6 +118,7 @@
     - [Python Concurrency with asyncio by Matthew Fowler](https://www.manning.com/books/python-concurrency-with-asyncio) (English) (Paid)
     - [Python for Programmers by Deitel Developer Series](https://deitel.com/python-for-programmers-book/) (English) (Paid)
     - [Serious Python by Julien Danjou](https://serious-python.com/) (English) (Paid)
+    - [Python Notes for Professionals](https://books.goalkicker.com/PythonBook/) (English) (Free)
 
 - **Video**
     - [Python3: Deep Dive (4 parts)](https://www.udemy.com/course/python-3-deep-dive-part-1/) (English) (Paid)
