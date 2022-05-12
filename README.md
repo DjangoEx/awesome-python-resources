@@ -244,7 +244,8 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Caching
 
-(In Progress)
+  - **Video**
+    - [Redis Course - In-Memory Database Tutorial](https://www.youtube.com/watch?v=XCsS_NVAa1g) (English) (Free)
 
 ## Testing
  ### 1. Python unittest package
