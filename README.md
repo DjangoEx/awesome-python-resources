@@ -318,7 +318,16 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Message Brokers
 
-(In Progress)
+- ### RabbitMQ
+
+  - **Tutorial**
+    - [RabbitMQ Hello World](https://www.rabbitmq.com/tutorials/tutorial-one-python.html) (English) (Free)
+    - [RabbitMQ Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html) (English) (Free)
+    - [RabbitMQ Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-python.html) (English) (Free)
+    - [RabbitMQ Routing](https://www.rabbitmq.com/tutorials/tutorial-four-python.html) (English) (Free)
+    - [RabbitMQ Topics](https://www.rabbitmq.com/tutorials/tutorial-five-python.html) (English) (Free)
+    - [RabbitMQ Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-python.html) (English) (Free)
+    
 
 ## Web Servers
 
