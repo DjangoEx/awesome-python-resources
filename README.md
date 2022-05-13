@@ -1,20 +1,79 @@
 # Python Engineer Roadmap
 
+## Table of Contents
+
+💡 To navigate easily through the roadmap, use the table of contents below.
+
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+  - [Algorithms & Data Structures](#algorithms-&-data-structures)
+  - [System Design](#system-design)
+  - [Git](#git)
+  - [Operating System](#operating-system)
+  - [Python](#python)
+- [Career Path](#career-path)
+  - [Backend](#backend)
+    - [Django](#django)
+    - [FastAPI](#fastapi)
+    - [Flask](#flask)
+    - [Sanic](#sanic)
+    - [AIOHTTP](#aiohttp)
+    - [Bottle](#bottle)
+    - [Dash](#dash)
+  - [Data Science](#data-science)
+  - [Machine Learning](#machine-learning)
+  - [Deep Learning](#deep-learning)
+  - [DevOps](#devops)
+  - [Hacking](#hacking)
+  - [Algorithmic Trading](#algorithmic-trading)
+- [Advanced Topics](#advanced-topics)
+  - [Databases](#databases)
+    - [General](#general)
+    - [PostgreSQL](#postgresql)
+    - [MongoDB](#mongodb)
+    - [Redis](#redis)
+    - [MemCached](#memcached)
+    - [Apache Cassandra](#apache-cassandra)
+  - [Clean Code](#clean-code)
+  - [Clean Architecture](#clean-architecture)
+  - [Caching](#caching)
+  - [Testing](#testing)
+    - [Python unittest package](#python-unittest-package)
+    - [DRF Test Framework](#drf-test-framework)
+  - [Container Platforms](#container-platforms)
+    - [Docker](#docker)
+    - [Kubernetes](#kubernetes)
+  - [Programming Paradigms](#programming-paradigms)
+    - [Object-Oriented Programming](#object-oriented-programming)
+    - [Functional Programming](#functional-programming)
+  - [Architectural Patterns](#architectural-patterns)
+    - [Microservice](#microservice)
+    - [Enterprise Applications](#enterprise-applications)
+  - [Design Principles](#design-principles)
+    - [SOLID](#solid)
+    - [KISS](#kiss)
+    - [DRY](#dry)
+  - [Design Patterns](#design-patterns)
+  - [Message Brokers](#message-brokers)
+    - [RabbitMQ](#rabbitmq)
+  - [Web Servers](#web-servers)
+    - [Nginx](#nginx)
+    - [Apache](#apache)
+  - [Availability & Reliability](#availability-&-reliability)
+  - [Distributed Systems](#distributed-systems)
+  - [Reactive Systems](#reactive-systems)
+  - [Refactoring](#refactoring)
+  - [Security](#security)
+  - [Monitoring](#monitoring)
+  - [Soft Skill](#soft-skill)
+  - [Public Cloud](#public-cloud)
+  - [Where to Go Next?](#where-to-go-next)
+- [Contribution](#contribution)
+
 ## Introduction
 
 Python can be used in a lot of computer science fields. In this repository, we have put together resources for each field of computer science that are related to Python.\
-**Not sure which source to choose?** Follow ✅ mark, resources with ✅ mark are highly recommended by us.
-
-<details><summary><i><b>Table of Contents</b></i></summary>
-
-- [Python Engineer Roadmap](#python-engineer-roadmap)
-  - [Introduction](#introduction)
-  - [Prerequisites](#prerequisites)
-  - [Career Path](#career-path)
-  - [Advanced Topics](#advanced-topics)
-  - [Contribution](#contribution)
-
-</details>
+**Not sure which source to choose?** You can follow the resources marked with a ✅ symbol, they are highly recommended by the community.
 
 ## Prerequisites
 
@@ -262,7 +321,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
 - ### Programming Paradigms
 
-  - #### Object Oriented Design & Analysis
+  - #### Object-Oriented Programming
 
     - **Book**
       - [Python3 Object-Oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)
