@@ -140,6 +140,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Essential Python Tools](https://books.agiliq.com/projects/essential-python-tools/en/latest/)
 
     - **Video**
+      - [Python Beginner Tutorial((NeuralNine))](https://www.youtube.com/playlist?list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc)
+      - [Python Programming Tutorials((Tech with Tim))](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)
 
     - **Platform**
       - [W3schools](https://www.w3schools.com/python/default.asp)
@@ -155,6 +157,10 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Fluent Python by Luciano Ramalho 2nd Edition](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359)
       - [Effective Python by Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989)
       - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio)
+
+    - **Video**
+      - [Python Intermediate Tutorial((NeuralNine))](https://www.youtube.com/playlist?list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1)
+      - [Intermediate Python Tutorials((Tech with Tim))](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv) 
   
     - **Platform**
       - [GeeksForGeeks](https://www.geeksforgeeks.org/python-programming-language)
