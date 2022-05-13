@@ -225,6 +225,16 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - **Documentation**
       - [Flask Document](https://flask.palletsprojects.com/)
 
+  - #### Tornado
+    - **Book**
+      - [Introduction to Tornado by Michael Dory](https://www.amazon.com/Introduction-Tornado-Michael-Dory-2012-03-31/dp/B01FEK31OM)
+    - **Video**
+      - [Tornado, Coroutines and Concurrency by Bek Brace](https://www.youtube.com/watch?v=-gJ21qzpieA)
+      - [Tornado in Depth by Oscar Vilaplana](https://www.youtube.com/watch?v=4Ztq-Yz1ero)
+      - [More than just a pretty web framework, the Tornado IOLoop by Gavin M.Roy](https://www.youtube.com/watch?v=3BYN3ouwkRA)
+    - **Documentation**
+      - [Tornado Document](https://www.tornadoweb.org/en/stable/)
+
   - #### Sanic
 
   - #### AIOHTTP
