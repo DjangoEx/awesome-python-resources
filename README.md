@@ -358,6 +358,7 @@ Choose a library according to your project requirements and do not get confused 
   - [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) (English) (Paid)
 - **WebSite**
   - [OWASP Top 10](https://owasp.org/www-project-top-ten/) (English) (Free)
+  - [OWASP Top 10 for Web with live training](https://application.security/free/owasp-top-10) (English) (Free)
 
 
 ## Where to Go Next?
