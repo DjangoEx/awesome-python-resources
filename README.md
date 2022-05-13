@@ -108,6 +108,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
 - ### Git
   
+  - **Documentation**
+    - [Git Documentation](https://git-scm.com/docs)
   - **Video**
     - ✅ [Git Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-git-course)
 
@@ -130,6 +132,9 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - [Linux Journey](https://linuxjourney.com/)
 
 - ### Python
+
+  - **Documentation**
+    - [Python Documentation](https://docs.python.org/3/)
 
   - **Beginner**
   
@@ -185,6 +190,9 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
   - #### Django
   
+    - **Documentation**
+      - [Django Documentation](https://www.djangoproject.com/) 
+
     - **Book**
       - [Django for Beginners by William S. Vincent](https://www.amazon.com/gp/product/1735467200)
       - [Django for APIs by William S. Vincent](https://www.amazon.com/gp/product/1735467227/)
@@ -261,10 +269,16 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/)
 
   - #### PostgreSQL
+    
+    - **Documentation**
+      - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
   
   - #### MongoDB
 
   - #### Redis
+
+    - **Documentation**
+      - [Redis Documentation](https://redis.io/docs/)
 
   - #### MemCached
 
@@ -305,6 +319,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
   - #### Docker
   
+    - **Documentation**
+      - [Docker Documentation](https://docs.docker.com/)
     - **Book**
       - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
       - [Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF)
@@ -314,6 +330,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
   - #### Kubernetes
   
+    - **Documentation**
+      - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
     - **Video**
       - ["Just me and Opensource" YouTube channel](https://www.youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0)
     - **Book**
@@ -382,11 +400,15 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
   - #### Nginx
   
+    - **Documentation**
+      - [NGINX Documentation](http://nginx.org/en/docs/)
     - **Book**
       - [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/)
 
   - #### Apache
   
+    - **Documentation**
+      - [Apache Documentation](https://httpd.apache.org/docs/)
     - **Book**
       - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945)
 
