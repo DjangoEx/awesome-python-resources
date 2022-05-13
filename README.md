@@ -140,7 +140,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
       ay-Introduction/dp/0321884914)
 
     - **Video**
-      - [Python Beginner Tutorial](https://www.youtube.com/playlist?list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc)
+      - [Python Beginner Tutorial((NeuralNine))](https://www.youtube.com/playlist?list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc)
       - [Python Programming Tutorials((Tech with Tim))](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)
 
     - **Platform**
@@ -161,6 +161,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - **Platform**
       - [GeeksForGeeks](https://www.geeksforgeeks.org/python-programming-language)
       - [Programiz](https://www.programiz.com/python-programming)
+      - [Python Intermediate Tutorial((NeuralNine))](https://www.youtube.com/playlist?list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1)
+      - [Intermediate Python Tutorials((Tech with Tim))](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv)
 
   - **Advanced**
   
