@@ -142,7 +142,6 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - **Video**
       - [Python Beginner Tutorial](https://www.youtube.com/playlist?list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc)
       - [Python Programming Tutorials((Tech with Tim))](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)
-      - 
 
     - **Platform**
       - [W3schools](https://www.w3schools.com/python/default.asp)
