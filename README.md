@@ -137,8 +137,12 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - ✅ [Python Crash Course by Eric Matthes](https://www.amazon.co.uk/dp/1593276036/)
       - [Head First Python by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide/dp/1449382673)
       - [Learn Python the Hard Way by Zed Shaw](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914)
+      ay-Introduction/dp/0321884914)
 
     - **Video**
+      - [Python Beginner Tutorial](https://www.youtube.com/playlist?list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc)
+      - [Python Programming Tutorials((Tech with Tim))](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)
+      - 
 
     - **Platform**
       - [W3schools](https://www.w3schools.com/python/default.asp)
