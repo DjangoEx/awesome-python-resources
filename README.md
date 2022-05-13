@@ -194,21 +194,21 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
 - ### Databases
 
-- #### General
+  - #### General
   
     - **Book**
       - ✅ [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
       - [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/)
 
-- #### PostgreSQL
+  - #### PostgreSQL
   
-- #### MongoDB
+  - #### MongoDB
 
-- #### Redis
+  - #### Redis
 
-- #### MemCached
+  - #### MemCached
 
-- #### Apache Cassandra
+  - #### Apache Cassandra
 
 - ### Clean Code
 
@@ -216,7 +216,9 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - ✅ [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214)
     - [Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve Mcconnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 
-- ### Clean Architecture 
+- ### Clean Architecture
+
+  (In Progress)
 
 - ### Caching
 
