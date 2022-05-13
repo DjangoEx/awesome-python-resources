@@ -16,6 +16,7 @@
     - [Django](#django)
     - [FastAPI](#fastapi)
     - [Flask](#flask)
+    - [Tornado](#tornado)
     - [Sanic](#sanic)
     - [AIOHTTP](#aiohttp)
     - [Bottle](#bottle)
