@@ -193,7 +193,6 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by Harry Percival](https://www.obeythetestinggoat.com/book/praise.harry.html)
       - [Test-Driven Development with Django by Kevin Harvey](https://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey/dp/178528116X)
       - [Django3 by example by antonio mele](https://www.amazon.com/Django-Example-powerful-reliable-applications-dp-1838981950/dp/1838981950/ref=mt_other?_encoding=UTF8&me=&qid=)
-  
     - **Video**
       - [Django Web Framework - Full Course for Beginners by Justin Mitchel](https://www.youtube.com/watch?v=F5mRW0jo-U4)
       - [Build REST APIs with Django REST Framework and Python By Shubham Sarda](https://www.packtpub.com/product/build-rest-apis-with-django-rest-framework-and-python-video/9781801819022)
@@ -201,7 +200,9 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Django ORM Mastery - Very Academy](https://www.youtube.com/watch?v=iQF6pln3Gog&list=PLOLrQ9Pn6cazjoDEnwzcdWWf4SNS0QZml)
       - [Learn Django Class Base View - Very Academy](https://www.youtube.com/watch?v=GxA2I-n8NR8&list=PLOLrQ9Pn6caxNb9eFZJ6LfY29nZkKmmXT)
       - [Django Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-django-series)
-
+    - **Awesome Django**
+      - [Awesome Django](https://github.com/wsvincent/awesome-django#readme)
+  
   - #### FastAPI
 
     - **Book**
