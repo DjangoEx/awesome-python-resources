@@ -123,55 +123,55 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
 - ### Backend
 
-- #### Django
+  - #### Django
   
-  - **Book**
-    - [Django for Beginners by William S. Vincent](https://www.amazon.com/gp/product/1735467200)
-    - [Django for APIs by William S. Vincent](https://www.amazon.com/gp/product/1735467227/)
-    - [Django for Professionals by William S. Vincent](https://www.amazon.com/gp/product/1735467235)
-    - [Two Scoops of Django 3.x by Daniel Roy Greenfeld, Audrey Roy Greenfeld](https://www.feldroy.com/books/two-scoops-of-django-3-x)
-    - [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by Harry Percival](https://www.obeythetestinggoat.com/book/praise.harry.html)
-    - [Test-Driven Development with Django by Kevin Harvey](https://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey/dp/178528116X)
-    - [Django3 by example by antonio mele](https://www.amazon.com/Django-Example-powerful-reliable-applications-dp-1838981950/dp/1838981950/ref=mt_other?_encoding=UTF8&me=&qid=)
+    - **Book**
+      - [Django for Beginners by William S. Vincent](https://www.amazon.com/gp/product/1735467200)
+      - [Django for APIs by William S. Vincent](https://www.amazon.com/gp/product/1735467227/)
+      - [Django for Professionals by William S. Vincent](https://www.amazon.com/gp/product/1735467235)
+      - [Two Scoops of Django 3.x by Daniel Roy Greenfeld, Audrey Roy Greenfeld](https://www.feldroy.com/books/two-scoops-of-django-3-x)
+      - [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by Harry Percival](https://www.obeythetestinggoat.com/book/praise.harry.html)
+      - [Test-Driven Development with Django by Kevin Harvey](https://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey/dp/178528116X)
+      - [Django3 by example by antonio mele](https://www.amazon.com/Django-Example-powerful-reliable-applications-dp-1838981950/dp/1838981950/ref=mt_other?_encoding=UTF8&me=&qid=)
   
-  - **Video**
-    - [Django Web Framework - Full Course for Beginners by Justin Mitchel](https://www.youtube.com/watch?v=F5mRW0jo-U4)
-    - [Build REST APIs with Django REST Framework and Python By Shubham Sarda](https://www.packtpub.com/product/build-rest-apis-with-django-rest-framework-and-python-video/9781801819022)
-    - [Django For Everybody - Full Course by Dr. Charles Severance](https://youtu.be/o0XbHvKxw7Y)
-    - [Django ORM Mastery - Very Academy](https://www.youtube.com/watch?v=iQF6pln3Gog&list=PLOLrQ9Pn6cazjoDEnwzcdWWf4SNS0QZml)
-    - [Learn Django Class Base View - Very Academy](https://www.youtube.com/watch?v=GxA2I-n8NR8&list=PLOLrQ9Pn6caxNb9eFZJ6LfY29nZkKmmXT)
-    - [Django Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-django-series)
+    - **Video**
+      - [Django Web Framework - Full Course for Beginners by Justin Mitchel](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+      - [Build REST APIs with Django REST Framework and Python By Shubham Sarda](https://www.packtpub.com/product/build-rest-apis-with-django-rest-framework-and-python-video/9781801819022)
+      - [Django For Everybody - Full Course by Dr. Charles Severance](https://youtu.be/o0XbHvKxw7Y)
+      - [Django ORM Mastery - Very Academy](https://www.youtube.com/watch?v=iQF6pln3Gog&list=PLOLrQ9Pn6cazjoDEnwzcdWWf4SNS0QZml)
+      - [Learn Django Class Base View - Very Academy](https://www.youtube.com/watch?v=GxA2I-n8NR8&list=PLOLrQ9Pn6caxNb9eFZJ6LfY29nZkKmmXT)
+      - [Django Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-django-series)
 
-- #### FastAPI
+  - #### FastAPI
 
-  - **Book**
-  - **Video**
-    - [Python API Development - Comprehensive Course for Beginners by Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=0sOvCWFmrtA)
-    - [FastAPI course by testdriven.io & talkpython.fm](https://testdriven.io/talkpython/)
-  - **Documentation**
-    - [FastAPI documentation](https://fastapi.tiangolo.com)
-    - [FastAPI Utilities documentation](https://fastapi-utils.davidmontague.xyz/)
-  - **Awesome FastAPI**
-    - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme)
+    - **Book**
+    - **Video**
+      - [Python API Development - Comprehensive Course for Beginners by Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=0sOvCWFmrtA)
+      - [FastAPI course by testdriven.io & talkpython.fm](https://testdriven.io/talkpython/)
+    - **Documentation**
+      - [FastAPI documentation](https://fastapi.tiangolo.com)
+      - [FastAPI Utilities documentation](https://fastapi-utils.davidmontague.xyz/)
+    - **Awesome FastAPI**
+      - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme)
   
-- #### Flask
+  - #### Flask
   
-  - **Book**
-    - [Flask Web Development: Developing Web Applications with Python](https://www.amazon.de/Flask-Web-Development-Developing-Applications/dp/1491991739/)
-    - [Flask Framework Cookbook](https://www.amazon.de/Flask-Framework-Cookbook-techniques-development/dp/1789951291/)
-  - **Video**
-    - [Flask Tutorial by Tech With Tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
-    - [REST APIs with Flask and Python by Jose Salvatierra](https://www.udemy.com/course/rest-api-flask-and-python/)
-  - **Documentation**
-    - [Flask Document](https://flask.palletsprojects.com/)
+    - **Book**
+      - [Flask Web Development: Developing Web Applications with Python](https://www.amazon.de/Flask-Web-Development-Developing-Applications/dp/1491991739/)
+      - [Flask Framework Cookbook](https://www.amazon.de/Flask-Framework-Cookbook-techniques-development/dp/1789951291/)
+    - **Video**
+      - [Flask Tutorial by Tech With Tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+      - [REST APIs with Flask and Python by Jose Salvatierra](https://www.udemy.com/course/rest-api-flask-and-python/)
+    - **Documentation**
+      - [Flask Document](https://flask.palletsprojects.com/)
 
-- #### Sanic
+  - #### Sanic
 
-- #### AIOHTTP
+  - #### AIOHTTP
 
-- #### Bottle
+  - #### Bottle
 
-- #### Dash
+  - #### Dash
 
   - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
 
