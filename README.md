@@ -6,7 +6,7 @@
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-  - [Algorithms & Data Structures](#algorithms-&-data-structures)
+  - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [System Design](#system-design)
   - [Git](#git)
   - [Operating System](#operating-system)
@@ -60,7 +60,7 @@
   - [Web Servers](#web-servers)
     - [Nginx](#nginx)
     - [Apache](#apache)
-  - [Availability & Reliability](#availability-&-reliability)
+  - [Availability and Reliability](#availability-and-reliability)
   - [Distributed Systems](#distributed-systems)
   - [Reactive Systems](#reactive-systems)
   - [Refactoring](#refactoring)
@@ -78,7 +78,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
 ## Prerequisites
 
-- ### Algorithms & Data Structures
+- ### Algorithms and Data Structures
   
   - **Book**
     - ✅ [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
@@ -428,7 +428,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - **Book**
       - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945)
 
-- ### Availability & Reliability
+- ### Availability and Reliability
 
   (In Progress)
 
