@@ -291,6 +291,12 @@ Python can be used in a lot of computer science fields. In this repository, we h
   
   - #### MongoDB
 
+    - **Documentation**
+      - [MongoDB Documentation](https://www.mongodb.com/docs/)
+    
+    - **Tutorial**
+      - [Python MongoDB](https://www.w3schools.com/python/python_mongodb_getstarted.asp)
+
   - #### Redis
 
     - **Documentation**
