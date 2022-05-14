@@ -253,6 +253,10 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
 - ### Hacking
 
+  - **Book**
+
+    - [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129)
+
 - ### Algorithmic Trading
 
 ## Advanced Topics
