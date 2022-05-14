@@ -131,6 +131,9 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj)
   - **Platform**
     - [Linux Journey](https://linuxjourney.com/)
+  - **Community**
+    - [Linux For Everyone Community](https://openforeveryone.net)
+    - [DLeX: Python + Linux Experts](https://t.me/PythonLinuxExperts)
 
 - ### Python
 
@@ -185,6 +188,10 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - ✅ [RealPython](https://realpython.com/)
       - [Python-Course](https://python-course.eu/)
   
+  - **Community**
+    - [Python](https://t.me/Python)
+    - [Persian Python Workers](https://t.me/PyFarsi)
+  
 ## Career Path
 
 - ### Backend
@@ -211,7 +218,13 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Django Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-django-series)
     - **Awesome Django**
       - [Awesome Django](https://github.com/wsvincent/awesome-django#readme)
-  
+    - **Community**
+      - [Django](https://t.me/django)
+      - [Django Expert General Group](https://t.me/djangoir)
+      - [Django Community](https://t.me/django_community)
+      - [Django Persian](https://t.me/django2)
+
+
   - #### FastAPI
 
     - **Book**
@@ -223,6 +236,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [FastAPI Utilities documentation](https://fastapi-utils.davidmontague.xyz/)
     - **Awesome FastAPI**
       - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme)
+    - **Community**
+      - [FastAPI Chat](https://t.me/fastapi)
   
   - #### Flask
   
@@ -234,6 +249,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [REST APIs with Flask and Python by Jose Salvatierra](https://www.udemy.com/course/rest-api-flask-and-python/)
     - **Documentation**
       - [Flask Document](https://flask.palletsprojects.com/)
+    - **Community**
+      - [Python flask](https://t.me/irflask)
 
   - #### Tornado
     - **Book**
@@ -258,10 +275,14 @@ Python can be used in a lot of computer science fields. In this repository, we h
 - ### Data Science
 
 - ### Machine Learning
+  - **Community**
+    - [DLeX: Deep Learning Experts](https://t.me/DeepLearningAIExperts)
 
 - ### Deep Learning
 
 - ### DevOps
+  - **Community**
+    - [DevOps Expert General Group](https://t.me/DevOpsExpertGroup)
 
 - ### Hacking
 
@@ -288,6 +309,9 @@ Python can be used in a lot of computer science fields. In this repository, we h
     
     - **Documentation**
       - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+
+    - **Community**
+      - [PostgreSQL](https://t.me/pg_sql)
   
   - #### MongoDB
 
@@ -343,6 +367,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - **Video**
       - [Docker Mastery With Django - very academy](https://www.youtube.com/watch?v=W5Ov0H7E_o4&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
       - [Docker Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-docker-course)
+    - **Community**
+      - [Docker Group](https://t.me/dockerGp)
 
   - #### Kubernetes
   
@@ -353,6 +379,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - **Book**
       - [Kubernetes: Up and Running, 2nd Edition](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523)
       - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)
+    - **Community**
+      - [Kubernetes Community](https://t.me/kubernetes_forum)
 
 - ### Programming Paradigms
 
