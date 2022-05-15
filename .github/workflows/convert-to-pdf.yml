@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: baileyjm02/markdown-to-pdf@v1
+      - uses: baileyjm02/markdown-to-pdf@v1.1.0
         with:
-          input_dir: 
-          output_dir: 
+          input_dir: .
+          output_dir: .
           build_html: false
           table_of_contents: true
       - uses: actions/upload-artifact@v2
