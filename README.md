@@ -124,11 +124,9 @@ Python can be used in a lot of computer science fields. In this repository, we h
 - ### Operating System
 
   - **Book**
-  
     - ✅ [LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 102 by Roderick W. Smith](https://www.amazon.com/LPIC-1-Linux-Professional-Institute-Certification/dp/1118495632)
 
   - **Video**
-  
     - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj)
   - **Platform**
     - [Linux Journey](https://linuxjourney.com/)
@@ -136,7 +134,6 @@ Python can be used in a lot of computer science fields. In this repository, we h
 - ### Virtual Environment
 
   - **Documentation**
-
     - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
 
 - ### Python
@@ -145,7 +142,6 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - [Python Documentation](https://docs.python.org/3/)
 
   - **Beginner**
-  
     - **Book**
       - ✅ [Python Crash Course by Eric Matthes](https://www.amazon.co.uk/dp/1593276036/)
       - [Head First Python by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide/dp/1449382673)
@@ -215,6 +211,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by Harry Percival](https://www.obeythetestinggoat.com/book/praise.harry.html)
       - [Test-Driven Development with Django by Kevin Harvey](https://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey/dp/178528116X)
       - [Django3 by example by antonio mele](https://www.amazon.com/Django-Example-powerful-reliable-applications-dp-1838981950/dp/1838981950/ref=mt_other?_encoding=UTF8&me=&qid=)
+
     - **Video**
       - [Django Web Framework - Full Course for Beginners by Justin Mitchel](https://www.youtube.com/watch?v=F5mRW0jo-U4)
       - [Build REST APIs with Django REST Framework and Python By Shubham Sarda](https://www.packtpub.com/product/build-rest-apis-with-django-rest-framework-and-python-video/9781801819022)
@@ -222,18 +219,22 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Django ORM Mastery - Very Academy](https://www.youtube.com/watch?v=iQF6pln3Gog&list=PLOLrQ9Pn6cazjoDEnwzcdWWf4SNS0QZml)
       - [Learn Django Class Base View - Very Academy](https://www.youtube.com/watch?v=GxA2I-n8NR8&list=PLOLrQ9Pn6caxNb9eFZJ6LfY29nZkKmmXT)
       - [Django Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-django-series)
+
     - **Awesome Django**
       - [Awesome Django](https://github.com/wsvincent/awesome-django#readme)
   
   - #### FastAPI
 
     - **Book**
+
     - **Video**
       - [Python API Development - Comprehensive Course for Beginners by Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=0sOvCWFmrtA)
       - [FastAPI course by testdriven.io & talkpython.fm](https://testdriven.io/talkpython/)
+
     - **Documentation**
       - [FastAPI documentation](https://fastapi.tiangolo.com)
       - [FastAPI Utilities documentation](https://fastapi-utils.davidmontague.xyz/)
+
     - **Awesome FastAPI**
       - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme)
   
@@ -242,19 +243,24 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - **Book**
       - [Flask Web Development: Developing Web Applications with Python](https://www.amazon.de/Flask-Web-Development-Developing-Applications/dp/1491991739/)
       - [Flask Framework Cookbook](https://www.amazon.de/Flask-Framework-Cookbook-techniques-development/dp/1789951291/)
+
     - **Video**
       - [Flask Tutorial by Tech With Tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
       - [REST APIs with Flask and Python by Jose Salvatierra](https://www.udemy.com/course/rest-api-flask-and-python/)
+
     - **Documentation**
       - [Flask Document](https://flask.palletsprojects.com/)
 
   - #### Tornado
+
     - **Book**
       - [Introduction to Tornado by Michael Dory](https://www.amazon.com/Introduction-Tornado-Michael-Dory-2012-03-31/dp/B01FEK31OM)
+
     - **Video**
       - [Tornado, Coroutines and Concurrency by Bek Brace](https://www.youtube.com/watch?v=-gJ21qzpieA)
       - [Tornado in Depth by Oscar Vilaplana](https://www.youtube.com/watch?v=4Ztq-Yz1ero)
       - [More than just a pretty web framework, the Tornado IOLoop by Gavin M.Roy](https://www.youtube.com/watch?v=3BYN3ouwkRA)
+
     - **Documentation**
       - [Tornado Document](https://www.tornadoweb.org/en/stable/)
 
@@ -279,7 +285,6 @@ Python can be used in a lot of computer science fields. In this repository, we h
 - ### Hacking
 
   - **Book**
-
     - [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129)
 
 - ### Algorithmic Trading
@@ -350,9 +355,11 @@ Python can be used in a lot of computer science fields. In this repository, we h
   
     - **Documentation**
       - [Docker Documentation](https://docs.docker.com/)
+
     - **Book**
       - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
       - [Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF)
+
     - **Video**
       - [Docker Mastery With Django - very academy](https://www.youtube.com/watch?v=W5Ov0H7E_o4&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
       - [Docker Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-docker-course)
@@ -361,8 +368,10 @@ Python can be used in a lot of computer science fields. In this repository, we h
   
     - **Documentation**
       - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+
     - **Video**
       - ["Just me and Opensource" YouTube channel](https://www.youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0)
+
     - **Book**
       - [Kubernetes: Up and Running, 2nd Edition](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523)
       - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)
