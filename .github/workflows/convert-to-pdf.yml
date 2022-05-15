@@ -24,9 +24,6 @@ jobs:
         with:
           name: python-engineer-roadmap
           path: README.pdf
-      - uses: actions/download-artifact@v3
-        with:
-          name: python-engineer-roadmap
-      - name: Display structure of downloaded files
-        run: ls -R
+      - name: Add pdf file
+        run: git add README.pdf; git commit -m "Add PDF file"; git push
 
