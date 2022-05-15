@@ -374,6 +374,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - **Video**
       - [Docker Mastery With Django - very academy](https://www.youtube.com/watch?v=W5Ov0H7E_o4&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
       - [Docker Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-docker-course)
+      - [Docker Swarm Step by Step](https://www.youtube.com/watch?v=74p7csxKN8M)
 
   - #### Kubernetes
   
