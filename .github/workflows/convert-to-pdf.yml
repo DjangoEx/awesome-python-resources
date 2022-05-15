@@ -22,7 +22,7 @@ jobs:
           table_of_contents: false
       - uses: actions/upload-artifact@v3
         with:
-          name: python-engineer-roadmap-upload
+          name: python-engineer-roadmap
           path: README.pdf
       - uses: actions/download-artifact@v3
         with:
