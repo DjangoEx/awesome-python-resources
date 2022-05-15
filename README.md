@@ -210,6 +210,9 @@ Choose a library according to your project requirements and do not get confused 
   - **Book**
     - [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/) (English) (Paid)
 
+  - **Document**
+    - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/) (English) (Free)
+    
   - **Video**
     - [SQL Course by Mosh Hamedani](https://codewithmosh.com/p/complete-sql-mastery) (English) (Paid)
 
@@ -230,12 +233,13 @@ Choose a library according to your project requirements and do not get confused 
   - [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214) (English) (Free)
 
 ## Caching
-
-(In Progress)
-
+  - **Document**
+    - [what is caching](https://aws.amazon.com/caching/#:~:text=In%20computing%2C%20a%20cache%20is,the%20data's%20primary%20storage%20location.) (English) (Free)
+  - **Video**
+    - [What is Cache Memory?](https://www.youtube.com/watch?v=IA8au8Qr3lo) (English) (Free)
 ## Testing
  ### 1. Python unittest package
-  - Document
+  - Documents
     - [Testing in Python](https://docs.python.org/3/library/unittest.html) (English) (Free)
     - [Getting Started With Testing in Python](https://realpython.com/python-testing/) (English) (Free)
   ### 2. DRF test framework
@@ -244,6 +248,10 @@ Choose a library according to your project requirements and do not get confused 
 
   - Video
     - [Pytest Django and Django Rest Framework](https://www.youtube.com/watch?v=KIIdbVs7e8I&list=PLP1DxoSC17LZTTzgfq0Dimkm6eWJQC9ki) (English) (Free)
+  ### 3.Python coverage package
+  - Document
+    - [Python coverage](https://coverage.readthedocs.io/en/6.3.3/) (English) (Free)
+
 
 
 ## Container Platforms
