@@ -30,7 +30,10 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "Generate PDf file" -a
+          git add README.pdf
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Generate PDf file"
+          fi
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
