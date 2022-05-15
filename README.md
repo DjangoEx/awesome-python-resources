@@ -482,9 +482,15 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
   - **Book**
     - [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
+    - [Application_Security_Program_Handbook - a guide for software engineers](https://www.mysterylovescompany.com/book/9781633439818)
+    - [Designing secure software - a guide for devlopers](https://www.amazon.com/Designing-Secure-Software-Guide-Developers/dp/1718501927)
+    - [Hacking APIs Breaking Web Application Programming Interfaces](https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443)
+    - [Web Application Security Exploitation and Countermeasures for Modern Web Applications](https://www.amazon.com/Web-Application-Security-Exploitation-Countermeasures/dp/1492053112)
+    - [Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald/dp/1593279949)
   - **WebSite**
     - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
     - [OWASP Top 10 for Web with live training](https://application.security/free/owasp-top-10)
+    - [SANS SWAT Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)
 
 - ### Monitoring
   
