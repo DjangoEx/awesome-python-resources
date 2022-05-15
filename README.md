@@ -28,6 +28,7 @@
   - [DevOps](#devops)
   - [Hacking](#hacking)
   - [Algorithmic Trading](#algorithmic-trading)
+  - [Bot](#bot)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
     - [General](#general)
@@ -292,6 +293,12 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129)
 
 - ### Algorithmic Trading
+
+- ### Bot
+  - **Web**
+  - **Telegram**
+  - **Discord**
+
 
 ## Advanced Topics
 
