@@ -116,6 +116,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
   - **Video**
     - ✅ [Git Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-git-course)
+    - [Git and GitHub tutorial for beginners (2021)](https://www.youtube.com/watch?v=3fUbBnN_H2c)
+    - [Git and GitHub crash course by freeCodeCamp (2020)](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
   - **Book**
     - [Pro Git](https://git-scm.com/book/en/)
