@@ -1,4 +1,4 @@
-### Contribution Guide
+## Contribution Guide
 First of all, we do appreciate your love about contributing to open source; specifically this project. Your changes will help audiences to find their best choice of learning contents for sure. If you're planning to have contributions to this project, you're are at the right spot!
 
 ### Before you start..
