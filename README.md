@@ -10,6 +10,7 @@
   - [System Design](#system-design)
   - [Git](#git)
   - [Operating System](#operating-system)
+  - [Virtual Environment](#virtual-environment)
   - [Python](#python)
 - [Career Path](#career-path)
   - [Backend](#backend)
@@ -131,6 +132,12 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj)
   - **Platform**
     - [Linux Journey](https://linuxjourney.com/)
+
+- ### Virtual Environment
+
+  - **Documentation**
+
+    - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
 
 - ### Python
 
