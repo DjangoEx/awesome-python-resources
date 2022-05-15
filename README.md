@@ -105,6 +105,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
   - **Book**
     - ✅ [System Design Interview by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
     - [System Design Interview: Volume 2 by Alex Xu & Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)
+
   - **Course**
     - [Educative - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
@@ -112,6 +113,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
   
   - **Documentation**
     - [Git Documentation](https://git-scm.com/docs)
+
   - **Video**
     - ✅ [Git Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-git-course)
 
