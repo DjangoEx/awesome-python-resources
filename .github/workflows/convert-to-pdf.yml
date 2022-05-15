@@ -21,4 +21,6 @@ jobs:
           build_html: false
           table_of_contents: true
       - uses: actions/upload-artifact@v2
+        with:
+          path: .
 
