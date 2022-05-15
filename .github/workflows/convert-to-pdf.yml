@@ -13,7 +13,7 @@ jobs:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: baileyjm02/markdown-to-pdf@v1.1.0
         with:
           input_dir: .
@@ -27,5 +27,6 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           name: python-engineer-roadmap
-          path: README.pdf
+      - name: Display structure of downloaded files
+        run: ls -R
 
