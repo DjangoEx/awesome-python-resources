@@ -32,7 +32,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add README.pdf
           if ! git diff-index --quiet HEAD; then
-            git commit -m "Generate PDf file"
+            git commit -m "Generate PDF file"
           fi
       - name: Push changes
         uses: ad-m/github-push-action@master
