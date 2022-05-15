@@ -20,7 +20,8 @@ jobs:
           output_dir: .
           build_html: false
           table_of_contents: true
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
-          path: .
+          name: pdf-file
+          path: README.pdf
 
