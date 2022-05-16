@@ -134,6 +134,9 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
   - **Platform**
     - [Linux Journey](https://linuxjourney.com/)
+  - **Community**
+    - [Discord Linux group](https://discord.gg/discord-linux)
+    - [Linux For Everyone Community](https://t.me/linux4everyone)
 
 - ### Virtual Environment
 
@@ -198,6 +201,10 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - ✅ [RealPython](https://realpython.com/)
       - [Python-Course](https://python-course.eu/)
   
+  - **Community**
+    - [Python Discord group](https://discord.gg/python)
+    - [Python Telegram group](https://t.me/Python)
+  
 ## Career Path
 
 - ### Backend
@@ -226,7 +233,12 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
     - **Awesome Django**
       - [Awesome Django](https://github.com/wsvincent/awesome-django#readme)
-  
+    - **Community**
+      - [Django Discord group](https://discord.me/unofficial-django) 
+      - [Django Telegram group](https://t.me/django)
+
+
+
   - #### FastAPI
 
     - **Video**
@@ -239,6 +251,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
     - **Awesome FastAPI**
       - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme)
+    - **Community**
+      - [FastApi Discord group](https://discord.gg/sATRypy9)
   
   - #### Flask
   
@@ -283,6 +297,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
 - ### Deep Learning
 
 - ### DevOps
+  - **Community**
+    - [DevOps, SRE, & Infrastructure](https://discord.gg/devops)
 
 - ### Hacking
 
@@ -308,6 +324,9 @@ Python can be used in a lot of computer science fields. In this repository, we h
     
     - **Documentation**
       - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+
+    - **Community**
+      - [PostgreSQL Telegram group](https://t.me/pg_sql)
   
   - #### MongoDB
 
@@ -387,6 +406,8 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - **Book**
       - [Kubernetes: Up and Running, 2nd Edition](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523)
       - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)
+    - **Community**
+      - [Kubernetes Discord group](https://discord.gg/k8s-at-home)
 
 - ### Programming Paradigms
 
