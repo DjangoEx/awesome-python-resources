@@ -136,7 +136,11 @@ Python can be used in a lot of computer science fields. In this repository, we h
 - ### Virtual Environment
 
   - **Documentation**
+    - [venv](https://docs.python.org/3/library/venv.html)
     - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
+    - [pipenv](https://pipenv.pypa.io/en/latest/)
+    - [conda](https://docs.conda.io/en/latest/)
+    - [poetry-python](https://python-poetry.org/docs/)
 
 - ### Python
 
