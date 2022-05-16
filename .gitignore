@@ -4,6 +4,7 @@
 *.ipr
 *.iws
 .idea/
+.vscode/
 out/
 local.properties
 

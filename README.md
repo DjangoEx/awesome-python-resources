@@ -233,6 +233,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Django ORM Mastery - Very Academy](https://www.youtube.com/watch?v=iQF6pln3Gog&list=PLOLrQ9Pn6cazjoDEnwzcdWWf4SNS0QZml)
       - [Learn Django Class Base View - Very Academy](https://www.youtube.com/watch?v=GxA2I-n8NR8&list=PLOLrQ9Pn6caxNb9eFZJ6LfY29nZkKmmXT)
       - [Django Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-django-series)
+      - [Try Django 3.2 - Python Web Development Tutorial Series by Justin Mitchel](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL)
 
     - **Awesome Django**
       - [Awesome Django](https://github.com/wsvincent/awesome-django#readme)
