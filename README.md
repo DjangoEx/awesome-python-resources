@@ -120,6 +120,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
   - **Book**
     - [Pro Git](https://git-scm.com/book/en/)
     - [Git Notes for Professionals](https://books.goalkicker.com/GitBook/)
+
   - **Website**
     - [Learn Git Branching](https://learngitbranching.js.org/)
 
@@ -130,6 +131,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
   - **Video**
     - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj)
+
   - **Platform**
     - [Linux Journey](https://linuxjourney.com/)
 
@@ -226,8 +228,6 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Awesome Django](https://github.com/wsvincent/awesome-django#readme)
   
   - #### FastAPI
-
-    - **Book**
 
     - **Video**
       - [Python API Development - Comprehensive Course for Beginners by Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=0sOvCWFmrtA)
@@ -452,6 +452,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
   
     - **Documentation**
       - [NGINX Documentation](http://nginx.org/en/docs/)
+
     - **Book**
       - [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/)
 
@@ -459,6 +460,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
   
     - **Documentation**
       - [Apache Documentation](https://httpd.apache.org/docs/)
+
     - **Book**
       - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945)
 
@@ -482,6 +484,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
   - **Book**
     - [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
+
   - **WebSite**
     - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
     - [OWASP Top 10 for Web with live training](https://application.security/free/owasp-top-10)
