@@ -25,6 +25,8 @@
   - [Data Science](#data-science)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
+  - [Neural Networks](#neural-networks)
+  - [Image Processing](#image-processing)
   - [DevOps](#devops)
   - [Hacking](#hacking)
   - [Algorithmic Trading](#algorithmic-trading)
@@ -306,6 +308,10 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - [Machine Learning Course by Andrew Ng](https://coursera.org/learn/machine-learning)
 
 - ### Deep Learning
+
+- ### Neural Networks
+
+- ### Image Processing
 
 - ### DevOps
   - **Community**
