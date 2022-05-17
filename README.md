@@ -302,6 +302,9 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
 - ### Machine Learning
 
+  - **Video**
+    - [Machine Learning Course by Andrew Ng](https://coursera.org/learn/machine-learning)
+
 - ### Deep Learning
 
 - ### DevOps
