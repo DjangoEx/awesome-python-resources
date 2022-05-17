@@ -541,7 +541,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Hacking APIs Breaking Web Application Programming Interfaces](https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443)
     - [Web Application Security Exploitation and Countermeasures for Modern Web Applications](https://www.amazon.com/Web-Application-Security-Exploitation-Countermeasures/dp/1492053112)
     - [Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald/dp/1593279949)
-
+    - [Mastering Modern Web Penetration Testing](https://www.amazon.com/Mastering-Modern-Web-Penetration-Testing/dp/1785284584)
+  
   - **WebSite**
     - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
     - [OWASP Top 10 for Web with live training](https://application.security/free/owasp-top-10)
