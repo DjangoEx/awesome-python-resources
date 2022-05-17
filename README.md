@@ -121,12 +121,16 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - ✅ [Git Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-git-course)
     - [Git and GitHub tutorial for beginners by Amigoscode](https://www.youtube.com/watch?v=3fUbBnN_H2c)
     - [Git and GitHub crash course by freeCodeCamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
+    - [Git For Professionals course by Trevor Miller](https://egghead.io/courses/practical-git-for-everyday-professional-use)
 
   - **Book**
     - [Pro Git](https://git-scm.com/book/en/)
     - [Git Notes for Professionals](https://books.goalkicker.com/GitBook/)
 
   - **Website**
+    - [Git For Beginners by tutorialspoint](https://www.tutorialspoint.com/git/index.htm)
+    - [Git For Intermediates and Professionals by W3schools](https://www.w3schools.com/git/)
+    - [Advanced Git Tips by atlassian](https://www.atlassian.com/git/tutorials/advanced-overview)
     - [Learn Git Branching](https://learngitbranching.js.org/)
 
 - ### Operating System
