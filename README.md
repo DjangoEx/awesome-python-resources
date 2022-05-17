@@ -1,8 +1,9 @@
-# Python Engineer Roadmap
+## Python Engineer Roadmap [![README to PDF](https://github.com/DjangoEx/python-engineer-roadmap/actions/workflows/convert-to-pdf.yml/badge.svg)](README.pdf)
 
-## Table of Contents
+[Python](https://www.python.org/) can be used in a lot of computer science fields. In this repository, we have collected resources for each field of computer science that are related to Python.\
+**Not sure which source to choose?** You can follow the resources marked with a ✅ symbol, they are highly recommended by the community.
 
-💡 To navigate easily through the roadmap, use the table of contents below.
+### Table of Contents
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
@@ -76,11 +77,6 @@
   - [Where to Go Next?](#where-to-go-next)
 - [Contribution](#contribution)
 
-## Introduction
-
-Python can be used in a lot of computer science fields. In this repository, we have put together resources for each field of computer science that are related to Python.\
-**Not sure which source to choose?** You can follow the resources marked with a ✅ symbol, they are highly recommended by the community.
-
 ## Prerequisites
 
 - ### Algorithms and Data Structures
@@ -140,6 +136,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
   - **Platform**
     - [Linux Journey](https://linuxjourney.com/)
+
   - **Community**
     - [Discord Linux group](https://discord.gg/discord-linux)
     - [Linux For Everyone Community](https://t.me/linux4everyone)
@@ -175,8 +172,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
       - [Sololearn Python](https://www.sololearn.com/learning/1073)
 
-  - **Intermediate**
-  
+  - **Intermediate**  
     - **Book**
       - ✅ [Python Cookbook by David Beazley & Brian Jones](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377)
       - [Beyond the Basic Stuff with Python Best Practices for Writing Clean Code by Sweigart, Al](https://www.amazon.de/-/en/Al-Sweigart/dp/1593279663)
@@ -193,7 +189,6 @@ Python can be used in a lot of computer science fields. In this repository, we h
       - [Programiz](https://www.programiz.com/python-programming)
 
   - **Advanced**
-  
     - **Book**
       - ✅ [Architecture Patterns with Python by Harry Percival & Bob Gregory](https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205)
       - ✅ [Practices of the Python Pro by Dane Hillard](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082)
@@ -220,7 +215,6 @@ Python can be used in a lot of computer science fields. In this repository, we h
 - ### Backend
 
   - #### Django
-  
     - **Documentation**
       - [Django Documentation](https://www.djangoproject.com/) 
 
@@ -244,11 +238,10 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
     - **Awesome Django**
       - [Awesome Django](https://github.com/wsvincent/awesome-django#readme)
+
     - **Community**
       - [Django Discord group](https://discord.me/unofficial-django) 
       - [Django Telegram group](https://t.me/django)
-
-
 
   - #### FastAPI
 
@@ -262,6 +255,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
     - **Awesome FastAPI**
       - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme)
+
     - **Community**
       - [FastApi Discord group](https://discord.gg/sATRypy9)
   
@@ -315,6 +309,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
 - ### Image Processing
 
 - ### DevOps
+
   - **Community**
     - [DevOps, SRE, & Infrastructure](https://discord.gg/devops)
 
@@ -435,6 +430,7 @@ Python can be used in a lot of computer science fields. In this repository, we h
     - **Book**
       - [Kubernetes: Up and Running, 2nd Edition](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523)
       - [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)
+
     - **Community**
       - [Kubernetes Discord group](https://discord.gg/k8s-at-home)
 
