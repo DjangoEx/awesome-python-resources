@@ -35,6 +35,14 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Hacking](#hacking)
   - [Algorithmic Trading](#algorithmic-trading)
   - [Bot](#bot)
+    - [Web](#web)
+    - [Telegram](#telegram)
+      - [Telethon](#telethon)
+      - [Pyrogram](#pyrogram)
+      - [Python Telegram Bot](#python-telegram-bot)
+      - [AIOGram](#aiogram)
+      - [PyTelegramBotApi](#pytelegrambotapi)
+    - [Discord](#discord)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
     - [General](#general)
@@ -327,9 +335,29 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Algorithmic Trading
 
 - ### Bot
-  - **Web**
-  - **Telegram**
-  - **Discord**
+  - #### Web
+  - #### Telegram
+    - #### Telethon
+      - **Documentation**
+        - [Telethon official document](https://docs.telethon.dev/)
+        - [Telethon arabic document](https://arabic-telethon.readthedocs.io/)
+    
+    - #### Pyrogram
+      - **Documentation**
+        - [Pyrogram document](https://docs.pyrogram.org/)
+    
+    - #### Python Telegram Bot
+      - **Documentation**
+        - [python-telegram-bot document](htttps://python-telegram-bot.readthedocs.io/)
+    
+    - #### AIOGram
+      - **Documentation**
+        - [aiogram document](https://docs.aiogram.dev/)
+    
+    - #### PyTelegramBotApi
+      - **Documentation**
+        - [PyTelegramBotApi document](https://pytba.readthedocs.io/)
+  - #### Discord
 
 
 ## Advanced Topics
