@@ -43,7 +43,8 @@
   - [Clean Architecture](#clean-architecture)
   - [Caching](#caching)
   - [Testing](#testing)
-    - [Python unittest package](#python-unittest-package)
+    - [Python `unittest` Package](#python-unittest-package)
+    - [`PyTest` Testing Package](#pytest-testing-package)
     - [DRF Test Framework](#drf-test-framework)
   - [Container Platforms](#container-platforms)
     - [Docker](#docker)
@@ -388,11 +389,16 @@ Python can be used in a lot of computer science fields. In this repository, we h
 
 - ### Testing
 
-  - #### Python unittest package
+  - #### Python `unittest` package
   
     - **Documentation**
       - [Testing in Python](https://docs.python.org/3/library/unittest.html)
       - [Getting Started With Testing in Python](https://realpython.com/python-testing/)
+  
+  - #### `PyTest` Testing Package
+    
+    - **Documentation**
+      - [Official PyTest Documentation](https://docs.pytest.org/en/stable/index.html)
 
   - #### DRF Test Framework
 
