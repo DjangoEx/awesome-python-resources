@@ -498,6 +498,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Design Principles
 
   - #### SOLID
+    - **Article**
+        - [SOLID Conceptual Article](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
   - #### KISS
 
