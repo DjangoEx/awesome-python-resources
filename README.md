@@ -42,6 +42,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Python Telegram Bot](#python-telegram-bot)
       - [AIOGram](#aiogram)
       - [PyTelegramBotApi](#pytelegrambotapi)
+      - [TeleBot](#telebot)
     - [Discord](#discord)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
@@ -336,27 +337,32 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Bot
   - #### Web
+  
   - #### Telegram
+    
     - #### Telethon
-      - **Documentation**
-        - [Telethon official document](https://docs.telethon.dev/)
-        - [Telethon arabic document](https://arabic-telethon.readthedocs.io/)
+      - [Source](https://github.com/LonamiWebs/Telethon)
+      - [Documentation](https://docs.telethon.dev/)
     
     - #### Pyrogram
-      - **Documentation**
-        - [Pyrogram document](https://docs.pyrogram.org/)
+      - [Source](https://github.com/pyrogram/pyrogram)
+      - [Documentation](https://docs.pyrogram.org/)
     
     - #### Python Telegram Bot
-      - **Documentation**
-        - [python-telegram-bot document](htttps://python-telegram-bot.readthedocs.io/)
+      - [Source](https://github.com/python-telegram-bot/python-telegram-bot)
+      - [Documentation](https://python-telegram-bot.readthedocs.io/)
     
     - #### AIOGram
-      - **Documentation**
-        - [aiogram document](https://docs.aiogram.dev/)
+      - [Source](https://github.com/aiogram/aiogram)
+      - [Documentation](https://docs.aiogram.dev/)
     
     - #### PyTelegramBotApi
-      - **Documentation**
-        - [PyTelegramBotApi document](https://pytba.readthedocs.io/)
+      - [Source](https://github.com/eternnoir/pyTelegramBotAPI)
+      - [Documentation](https://pytba.readthedocs.io/)
+    
+    - #### TeleBot
+      - [Source](https://github.com/KyleJamesWalker/telebot)
+  
   - #### Discord
 
 
