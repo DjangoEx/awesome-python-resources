@@ -499,7 +499,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - #### SOLID
     - **Article**
-        - [SOLID Conceptual Article](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+        - [SOLID Principles In Python by Philip Norton](https://www.hashbangcode.com/article/solid-principles-python)
 
   - #### KISS
 
