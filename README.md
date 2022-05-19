@@ -498,6 +498,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Design Principles
 
   - #### SOLID
+    - **Article**
+        - [SOLID Principles In Python by Philip Norton](https://www.hashbangcode.com/article/solid-principles-python)
 
   - #### KISS
 
