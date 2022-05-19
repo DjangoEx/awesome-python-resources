@@ -139,6 +139,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Git For Intermediates and Professionals by W3schools](https://www.w3schools.com/git/)
     - [Advanced Git Tips by atlassian](https://www.atlassian.com/git/tutorials/advanced-overview)
     - [Learn Git Branching](https://learngitbranching.js.org/)
+  
+  - **Cheat Sheet**
+    - [Git cheat sheet](https://wac-cdn.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf?cdnVersion=353)
 
 - ### Operating System
 
@@ -154,6 +157,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Community**
     - [Discord Linux group](https://discord.gg/discord-linux)
     - [Linux For Everyone Community](https://t.me/linux4everyone)
+
+  - **Cheat Sheet**
+    - [Linux commands cheat sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 
 - ### Virtual Environment
 
@@ -223,6 +229,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Community**
     - [Python Discord group](https://discord.gg/python)
     - [Python Telegram group](https://t.me/Python)
+
+  - **Cheat Sheet**
+    - [Beginners Python cheat sheet](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf)
+    - [Python cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
   
 ## Career Path
 
@@ -257,6 +267,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Django Discord group](https://discord.me/unofficial-django) 
       - [Django Telegram group](https://t.me/django)
 
+    - **Cheat Sheet**
+      - [Django Cheat Sheet](https://cheatography.com/ogr/cheat-sheets/django/)
+      - [Django Models Cheat Sheet](https://cheatography.com/lewiseason/cheat-sheets/django-models/)
+      - [Django Class Based Views Cheat Sheet](https://cheatography.com/papousekp/cheat-sheets/django-class-based-views/)
+
   - #### FastAPI
 
     - **Video**
@@ -285,6 +300,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Documentation**
       - [Flask Document](https://flask.palletsprojects.com/)
+
+    - **Cheat Sheet**
+      - [Flask Cheat Sheet and Quick Reference](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)
 
   - #### Tornado
 
@@ -381,6 +399,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Community**
       - [PostgreSQL Telegram group](https://t.me/pg_sql)
   
+    - **Cheat Sheet**
+      - [PostgreSQL CHEAT SHEET](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf)
+      - [POSTGRESQL 8.3 PSQL CHEAT SHEET](http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf)
+  
   - #### MongoDB
 
     - **Documentation**
@@ -393,6 +415,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Documentation**
       - [Redis Documentation](https://redis.io/docs/)
+
+    - **Cheat Sheet**
+      - [Redis Cheat Sheet 1](https://cheatography.com/tasjaevan/cheat-sheets/redis/)
+      - [Redis Cheat Sheet 2](https://masonoise.files.wordpress.com/2010/03/redis-cheatsheet-v1.pdf)
 
   - #### MemCached
 
@@ -452,6 +478,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Docker Mastery With Django - very academy](https://www.youtube.com/watch?v=W5Ov0H7E_o4&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
       - [Docker Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-docker-course)
       - [Docker Swarm Step by Step](https://www.youtube.com/watch?v=74p7csxKN8M)
+
+    - **Cheat Sheet**
+      - [Docker Cheat Sheet](https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf)
 
   - #### Kubernetes
   
@@ -537,6 +566,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Book**
       - [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/)
+
+    - **Cheat Sheet**
+      - [NGINX CHEAT SHEET](https://kiza.dev/notes/nginx-cheat-sheet)
 
   - #### Apache
   
