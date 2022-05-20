@@ -74,6 +74,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Design Patterns](#design-patterns)
   - [Message Brokers](#message-brokers)
     - [RabbitMQ](#rabbitmq)
+  - [WSGI Servers](#wsgi-servers)
+    - [Gunicorn](#gunicorn)
+    - [uWSGI](#uwsgi)
+  - [ASGI Servers](#asgi-servers)
+    - [Uvicorn](#uvicorn)
+    - [Starlette](#starlette)
   - [Web Servers](#web-servers)
     - [Nginx](#nginx)
     - [Apache](#apache)
@@ -556,6 +562,30 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [RabbitMQ Routing](https://www.rabbitmq.com/tutorials/tutorial-four-python.html)
       - [RabbitMQ Topics](https://www.rabbitmq.com/tutorials/tutorial-five-python.html)
       - [RabbitMQ Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-python.html)
+
+- ### WSGI Servers
+
+  - #### Gunicorn
+  
+    - **Documentation**
+      - [Gunicorn Documentation](https://docs.gunicorn.org/en/stable/)
+
+  - #### uWSGI
+  
+    - **Documentation**
+      - [uWSGI Documentation](https://uwsgi-docs.readthedocs.io/en/latest/)
+
+- ### ASGI Servers
+
+  - #### Uvicorn
+  
+    - **Documentation**
+      - [Uvicorn Documentation](https://www.uvicorn.org/)
+    
+  - #### Starlette
+  
+    - **Documentation**
+      - [Starlette Documentation](https://www.starlette.io/)
 
 - ### Web Servers
 
