@@ -76,8 +76,7 @@
     - [codecademy Python 2](https://www.codecademy.com/learn/learn-python) (English) (Free)
     - [codecademy Python 3](https://www.codecademy.com/learn/learn-python-3) (English) (Paid)
    - **Video**
- 
-     - [Python Beginner. Ameneh shadlo](https://www.youtube.com/watch?v=10Mzt9FwX6E&list=PLTVKh59FSVphp5zp1FAmy12_dnygUJjix) (Persian) (Free)
+     - [Python Beginner. Ameneh shadlo](https://www.youtube.com/watch?v=10Mzt9FwX6E&list=PLTVKh59FSVphp5zp1FAmy12_dnygUJjix) (Persian) (Free)
     
 - **Intermediate**
   
@@ -138,8 +137,8 @@ Choose a library according to your project requirements and do not get confused 
     - [Django Super Course by Shahrokh Kiumarsy](https://www.youtube.com/watch?v=UnP4DmFMAxc&list=PLT4Mhd4PhxKD5uBkjzXymKARtViXWtwb7) (Persian) (Free)
     - [Django Course by Hêmn Hosseinpana](https://www.youtube.com/watch?v=VVbznmQ5YbE&list=PLJ9zDGwhhsByH5tcpM9H3VzdHYpne3bSa) (Persian) (Free)
     - [Django With Project by Ameneh shadlo](https://www.youtube.com/playlist?list=PLTVKh59FSVphLAMP-4kD6f-SP2qC28bkL) (Persian) (Free)
-    - [Django Panel Admin by Ameneh shadlo](https://www.youtube.com/playlist?list=PLTVKh59FSVphLAMP-4kD6f-SP2qC28bkL](https://www.youtube.com/playlist?list=PLTVKh59FSVpjFmz2-hj9Tl5uCR2880fQz) (Persian) (Free)
-    - [Django ORM by Ameneh shadlo](https://www.youtube.com/playlist?list=PLTVKh59FSVphLAMP-4kD6f-SP2qC28bkL](https://www.youtube.com/playlist?list=PLTVKh59FSVpjG_jtc1XuuaJg-FazI6DaE) (Persian) (Free)
+    - [Django Panel Admin by Ameneh shadlo](https://www.youtube.com/playlist?list=PLTVKh59FSVpjFmz2-hj9Tl5uCR2880fQz) (Persian) (Free)
+    - [Django ORM by Ameneh shadlo](https://www.youtube.com/playlist?list=PLTVKh59FSVpjG_jtc1XuuaJg-FazI6DaE) (Persian) (Free)
     
     
 - ### FastAPI
