@@ -22,6 +22,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [FastAPI](#fastapi)
     - [Flask](#flask)
     - [Tornado](#tornado)
+    - [Web2Py](#web2py)
     - [Sanic](#sanic)
     - [AIOHTTP](#aiohttp)
     - [Bottle](#bottle)
@@ -322,6 +323,15 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Documentation**
       - [Tornado Document](https://www.tornadoweb.org/en/stable/)
+
+  - #### Web2Py
+
+    - **Documentation**
+      - [Web2Py Document](https://web2py.readthedocs.io/en/latest/)
+
+    - **Book**
+      - [Complete Reference Manual by Massimo Di Pierro](http://www.web2py.com/book)
+      - [Killer Web Development by Marco Laspe](http://killer-web-development.com/)
 
   - #### Sanic
 
