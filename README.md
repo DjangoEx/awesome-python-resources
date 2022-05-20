@@ -22,6 +22,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [FastAPI](#fastapi)
     - [Flask](#flask)
     - [Tornado](#tornado)
+    - [Web2Py](#web2py)
     - [Sanic](#sanic)
     - [AIOHTTP](#aiohttp)
     - [Bottle](#bottle)
