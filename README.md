@@ -407,6 +407,14 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - ✅ [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
       - [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/)
 
+  - #### SQLite
+    
+    - **Documentation**
+      - [SQLite Documentation](https://www.sqlite.org/docs.html)
+    
+    - **Tutorials**
+      - [SQLite Tutorial](https://www.sqlitetutorial.net/)
+
   - #### PostgreSQL
     
     - **Documentation**
@@ -416,9 +424,26 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [PostgreSQL Telegram group](https://t.me/pg_sql)
   
     - **Cheat Sheet**
+      - [PostgreSQL Cheat Sheet By GoalKicker](https://books.goalkicker.com/PostgreSQLBook/PostgreSQLNotesForProfessionals.pdf)
       - [PostgreSQL CHEAT SHEET](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf)
       - [POSTGRESQL 8.3 PSQL CHEAT SHEET](http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf)
-  
+
+  - #### MySQL
+    
+    - **Documentation**
+      - [MySQL Documentation](https://dev.mysql.com/doc/)
+    
+    - **Tutorials**
+      - [MySQL Tutorial](https://www.mysqltutorial.org/)
+
+  - #### Oracle
+    
+    - **Documentation**
+      - [Oracle Documentation](https://docs.oracle.com/en/database/index.html)
+    
+    - **Tutorials**
+      - [Oracle Tutorial](https://www.oracletutorial.com/)
+
   - #### MongoDB
 
     - **Documentation**
