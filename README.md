@@ -439,6 +439,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Tutorials**
       - [MySQL Tutorial](https://www.mysqltutorial.org/)
 
+    - **Cheat Sheet**
+      - [MySQL Cheat Sheet by GoalKicker](https://books.goalkicker.com/MySQLBook/MySQLNotesForProfessionals.pdf)
+
   - #### Oracle
     
     - **Documentation**
@@ -446,6 +449,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     
     - **Tutorials**
       - [Oracle Tutorial](https://www.oracletutorial.com/)
+
+    - **Cheat Sheet**
+      - [Oracle Cheat Sheet by GoalKicker](https://books.goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf)
 
   - #### MongoDB
 
@@ -455,10 +461,16 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Tutorial**
       - [Python MongoDB](https://www.w3schools.com/python/python_mongodb_getstarted.asp)
 
+    - **Cheat Sheet**
+      - [MongoDB Cheat Sheet by GoalKicker](https://books.goalkicker.com/MongoDBBook/MongoDBNotesForProfessionals.pdf)
+
   - #### Redis
 
     - **Documentation**
       - [Redis Documentation](https://redis.io/docs/)
+
+    - **Article**
+      - [How to use redis with python by Brad Solomon](https://realpython.com/python-redis/)
 
     - **Cheat Sheet**
       - [Redis Cheat Sheet 1](https://cheatography.com/tasjaevan/cheat-sheets/redis/)
@@ -482,6 +494,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   (In Progress)
 
 - ### Caching
+
+  - **Article**
+    - [Caching in django with redis by Real Python](https://realpython.com/caching-in-django-with-redis/)
 
   - **Video**
     - [Redis Course - In-Memory Database Tutorial](https://www.youtube.com/watch?v=XCsS_NVAa1g)
