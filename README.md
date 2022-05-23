@@ -120,6 +120,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Repo**
     - ✅ [Coding University](https://github.com/jwasham/coding-interview-university)
 
+  - **Cheat Sheet**
+    - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
+
 - ### System Design
   
   - **Book**
@@ -675,6 +678,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Book**
       - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945)
+
+  - **Cheat Sheet**
+    - [Apache Cheat Sheet](http://www.cheat-sheets.org/saved-copy/apache-refcard-a4.pdf)
 
 - ### Availability and Reliability
 
