@@ -173,12 +173,26 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Virtual Environment
 
-  - **Documentation**
-    - [venv](https://docs.python.org/3/library/venv.html)
-    - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
-    - [pipenv](https://pipenv.pypa.io/en/latest/)
-    - [conda](https://docs.conda.io/en/latest/)
-    - [poetry-python](https://python-poetry.org/docs/)
+  - **VENV**
+  
+    - **Documentation**
+      - [VENV Documentation](https://docs.python.org/3/library/venv.html)
+  
+  - **VirtualEnvWrapper**
+    - **Documentation**
+      - [VirtualEnvWrapper Documentation](https://virtualenvwrapper.readthedocs.io/en/latest/)
+  
+  - **PipEnv**
+    - **Documentation**
+      - [PipEnv Documentation](https://pipenv.pypa.io/en/latest/)
+  
+  - **Conda**
+    - **Documentation**
+      - [Conda Documentation](https://docs.conda.io/en/latest/)
+  
+  - **Python-Poetry**
+    - **Documentation**
+      - [Python-Poetry Documentation](https://python-poetry.org/docs/)
 
 - ### Python
 
