@@ -355,6 +355,16 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - #### Sanic
 
+    - **Documentation**
+      - [Sanic Document](https://sanic.readthedocs.io/en/stable/index.html)
+      - [Sanic Guide](https://sanic.dev/en/guide/)
+    
+    - **Article**
+      - [Getting Started with Sanic for Python by Mukul Khanna](https://scoutapm.com/blog/go-fast-getting-started-with-sanic-for-python)
+
+    - **Video**
+      - [Async Web Apps with Sanic by Dougal Matthews](https://www.youtube.com/watch?v=wb0lk4e9DEg)
+
   - #### AIOHTTP
 
   - #### Bottle
