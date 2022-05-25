@@ -22,6 +22,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [FastAPI](#fastapi)
     - [Flask](#flask)
     - [Tornado](#tornado)
+    - [Web2Py](#web2py)
     - [Sanic](#sanic)
     - [AIOHTTP](#aiohttp)
     - [Bottle](#bottle)
@@ -47,7 +48,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
     - [General](#general)
+    - [SQLite](#sqlite)
     - [PostgreSQL](#postgresql)
+    - [MySQL](#mysql)
+    - [Oracle](#Oracle)
     - [MongoDB](#mongodb)
     - [Redis](#redis)
     - [MemCached](#memcached)
@@ -75,6 +79,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Design Patterns](#design-patterns)
   - [Message Brokers](#message-brokers)
     - [RabbitMQ](#rabbitmq)
+  - [WSGI Servers](#wsgi-servers)
+    - [Gunicorn](#gunicorn)
+    - [uWSGI](#uwsgi)
+  - [ASGI Servers](#asgi-servers)
+    - [Uvicorn](#uvicorn)
+    - [Starlette](#starlette)
   - [Web Servers](#web-servers)
     - [Nginx](#nginx)
     - [Apache](#apache)
@@ -111,6 +121,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Repo**
     - ✅ [Coding University](https://github.com/jwasham/coding-interview-university)
 
+  - **Cheat Sheet**
+    - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
+
 - ### System Design
   
   - **Book**
@@ -140,6 +153,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Git For Intermediates and Professionals by W3schools](https://www.w3schools.com/git/)
     - [Advanced Git Tips by atlassian](https://www.atlassian.com/git/tutorials/advanced-overview)
     - [Learn Git Branching](https://learngitbranching.js.org/)
+  
+  - **Cheat Sheet**
+    - [Git cheat sheet](https://wac-cdn.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf?cdnVersion=353)
 
 - ### Operating System
 
@@ -156,14 +172,31 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Discord Linux group](https://discord.gg/discord-linux)
     - [Linux For Everyone Community](https://t.me/linux4everyone)
 
+  - **Cheat Sheet**
+    - [Linux commands cheat sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
+
 - ### Virtual Environment
 
-  - **Documentation**
-    - [venv](https://docs.python.org/3/library/venv.html)
-    - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
-    - [pipenv](https://pipenv.pypa.io/en/latest/)
-    - [conda](https://docs.conda.io/en/latest/)
-    - [poetry-python](https://python-poetry.org/docs/)
+  - **VENV**
+  
+    - **Documentation**
+      - [VENV Documentation](https://docs.python.org/3/library/venv.html)
+  
+  - **VirtualEnvWrapper**
+    - **Documentation**
+      - [VirtualEnvWrapper Documentation](https://virtualenvwrapper.readthedocs.io/en/latest/)
+  
+  - **PipEnv**
+    - **Documentation**
+      - [PipEnv Documentation](https://pipenv.pypa.io/en/latest/)
+  
+  - **Conda**
+    - **Documentation**
+      - [Conda Documentation](https://docs.conda.io/en/latest/)
+  
+  - **Python-Poetry**
+    - **Documentation**
+      - [Python-Poetry Documentation](https://python-poetry.org/docs/)
 
 - ### Python
 
@@ -224,6 +257,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Community**
     - [Python Discord group](https://discord.gg/python)
     - [Python Telegram group](https://t.me/Python)
+
+  - **Cheat Sheet**
+    - [Beginners Python cheat sheet](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf)
+    - [Python cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
   
 ## Career Path
 
@@ -258,6 +295,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Django Discord group](https://discord.me/unofficial-django) 
       - [Django Telegram group](https://t.me/django)
 
+    - **Cheat Sheet**
+      - [Django Cheat Sheet](https://cheatography.com/ogr/cheat-sheets/django/)
+      - [Django Models Cheat Sheet](https://cheatography.com/lewiseason/cheat-sheets/django-models/)
+      - [Django Class Based Views Cheat Sheet](https://cheatography.com/papousekp/cheat-sheets/django-class-based-views/)
+
   - #### FastAPI
 
     - **Video**
@@ -287,6 +329,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Documentation**
       - [Flask Document](https://flask.palletsprojects.com/)
 
+    - **Cheat Sheet**
+      - [Flask Cheat Sheet and Quick Reference](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)
+
   - #### Tornado
 
     - **Book**
@@ -300,7 +345,26 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Documentation**
       - [Tornado Document](https://www.tornadoweb.org/en/stable/)
 
+  - #### Web2Py
+
+    - **Documentation**
+      - [Web2Py Document](https://web2py.readthedocs.io/en/latest/)
+
+    - **Book**
+      - [Complete Reference Manual by Massimo Di Pierro](http://www.web2py.com/book)
+      - [Killer Web Development by Marco Laspe](http://killer-web-development.com/)
+
   - #### Sanic
+
+    - **Documentation**
+      - [Sanic Document](https://sanic.readthedocs.io/en/stable/index.html)
+      - [Sanic Guide](https://sanic.dev/en/guide/)
+    
+    - **Article**
+      - [Getting Started with Sanic for Python by Mukul Khanna](https://scoutapm.com/blog/go-fast-getting-started-with-sanic-for-python)
+
+    - **Video**
+      - [Async Web Apps with Sanic by Dougal Matthews](https://www.youtube.com/watch?v=wb0lk4e9DEg)
 
   - #### AIOHTTP
 
@@ -379,6 +443,14 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - ✅ [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
       - [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/)
 
+  - #### SQLite
+    
+    - **Documentation**
+      - [SQLite Documentation](https://www.sqlite.org/docs.html)
+    
+    - **Tutorials**
+      - [SQLite Tutorial](https://www.sqlitetutorial.net/)
+
   - #### PostgreSQL
     
     - **Documentation**
@@ -387,6 +459,33 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Community**
       - [PostgreSQL Telegram group](https://t.me/pg_sql)
   
+    - **Cheat Sheet**
+      - [PostgreSQL Cheat Sheet By GoalKicker](https://books.goalkicker.com/PostgreSQLBook/PostgreSQLNotesForProfessionals.pdf)
+      - [PostgreSQL CHEAT SHEET](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf)
+      - [POSTGRESQL 8.3 PSQL CHEAT SHEET](http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf)
+
+  - #### MySQL
+    
+    - **Documentation**
+      - [MySQL Documentation](https://dev.mysql.com/doc/)
+    
+    - **Tutorials**
+      - [MySQL Tutorial](https://www.mysqltutorial.org/)
+
+    - **Cheat Sheet**
+      - [MySQL Cheat Sheet by GoalKicker](https://books.goalkicker.com/MySQLBook/MySQLNotesForProfessionals.pdf)
+
+  - #### Oracle
+    
+    - **Documentation**
+      - [Oracle Documentation](https://docs.oracle.com/en/database/index.html)
+    
+    - **Tutorials**
+      - [Oracle Tutorial](https://www.oracletutorial.com/)
+
+    - **Cheat Sheet**
+      - [Oracle Cheat Sheet by GoalKicker](https://books.goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf)
+
   - #### MongoDB
 
     - **Documentation**
@@ -395,10 +494,20 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Tutorial**
       - [Python MongoDB](https://www.w3schools.com/python/python_mongodb_getstarted.asp)
 
+    - **Cheat Sheet**
+      - [MongoDB Cheat Sheet by GoalKicker](https://books.goalkicker.com/MongoDBBook/MongoDBNotesForProfessionals.pdf)
+
   - #### Redis
 
     - **Documentation**
       - [Redis Documentation](https://redis.io/docs/)
+
+    - **Article**
+      - [How to use redis with python by Brad Solomon](https://realpython.com/python-redis/)
+
+    - **Cheat Sheet**
+      - [Redis Cheat Sheet 1](https://cheatography.com/tasjaevan/cheat-sheets/redis/)
+      - [Redis Cheat Sheet 2](https://masonoise.files.wordpress.com/2010/03/redis-cheatsheet-v1.pdf)
 
   - #### MemCached
 
@@ -418,6 +527,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   (In Progress)
 
 - ### Caching
+
+  - **Article**
+    - [Caching in django with redis by Real Python](https://realpython.com/caching-in-django-with-redis/)
 
   - **Video**
     - [Redis Course - In-Memory Database Tutorial](https://www.youtube.com/watch?v=XCsS_NVAa1g)
@@ -458,6 +570,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Docker Mastery With Django - very academy](https://www.youtube.com/watch?v=W5Ov0H7E_o4&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
       - [Docker Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-docker-course)
       - [Docker Swarm Step by Step](https://www.youtube.com/watch?v=74p7csxKN8M)
+
+    - **Cheat Sheet**
+      - [Docker Cheat Sheet](https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf)
 
   - #### Kubernetes
   
@@ -504,6 +619,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Design Principles
 
   - #### SOLID
+    - **Article**
+        - [SOLID Principles In Python by Philip Norton](https://www.hashbangcode.com/article/solid-principles-python)
+        - [Uncle Bob's SOLID principles made easy 🍀 - in Python!](https://www.youtube.com/watch?v=pTB30aXS77U)
 
   - #### KISS
 
@@ -532,6 +650,30 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [RabbitMQ Topics](https://www.rabbitmq.com/tutorials/tutorial-five-python.html)
       - [RabbitMQ Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-python.html)
 
+- ### WSGI Servers
+
+  - #### Gunicorn
+  
+    - **Documentation**
+      - [Gunicorn Documentation](https://docs.gunicorn.org/en/stable/)
+
+  - #### uWSGI
+  
+    - **Documentation**
+      - [uWSGI Documentation](https://uwsgi-docs.readthedocs.io/en/latest/)
+
+- ### ASGI Servers
+
+  - #### Uvicorn
+  
+    - **Documentation**
+      - [Uvicorn Documentation](https://www.uvicorn.org/)
+    
+  - #### Starlette
+  
+    - **Documentation**
+      - [Starlette Documentation](https://www.starlette.io/)
+
 - ### Web Servers
 
   - #### Nginx
@@ -542,6 +684,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Book**
       - [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/)
 
+    - **Cheat Sheet**
+      - [NGINX CHEAT SHEET](https://kiza.dev/notes/nginx-cheat-sheet)
+
   - #### Apache
   
     - **Documentation**
@@ -549,6 +694,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Book**
       - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945)
+
+  - **Cheat Sheet**
+    - [Apache Cheat Sheet](http://www.cheat-sheets.org/saved-copy/apache-refcard-a4.pdf)
 
 - ### Availability and Reliability
 
