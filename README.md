@@ -367,9 +367,19 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - #### AIOHTTP
 
+    - **Documentation**
+      - [AIOHTTP Document](https://docs.aiohttp.org/en/stable/)
+
   - #### Bottle
 
+    - **Documentation**
+      - [Bottle Document](https://bottlepy.org/docs/dev/)
+
   - #### Dash
+
+    - **Documentation**
+      - [Dash-Python Document](https://dash.plotly.com/introduction)
+
 
   - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
 
@@ -510,6 +520,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - #### Apache Cassandra
 
+    - **Documentation**
+      - [Apache Cassandra Documentation](https://cassandra.apache.org/_/index.html)
+
 - ### Clean Code
 
   - **Book**
@@ -613,6 +626,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Design Principles
 
   - #### SOLID
+
     - **Article**
         - [SOLID Principles In Python by Philip Norton](https://www.hashbangcode.com/article/solid-principles-python)
         - [Uncle Bob's SOLID principles made easy 🍀 - in Python!](https://www.youtube.com/watch?v=pTB30aXS77U)
