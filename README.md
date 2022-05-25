@@ -371,6 +371,16 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - #### Dash
 
+    - **Documentation**
+        - [Dash Document](https://dash.plotly.com/)
+        - Strongly related to [Plotly](#plotly)
+
+    - **Awesome Dash**
+      - [Awesome Dash](https://github.com/ucg8j/awesome-dash#readme)
+
+    - **Template**
+      - [Dash Clean Architecture Template](https://github.com/CzakoZoltan08/dash-clean-architecture-template)
+
   - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
 
 - ### Data Science
