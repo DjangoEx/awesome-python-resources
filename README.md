@@ -726,7 +726,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Refactoring
 
-  (In Progress)
+  - **Course**
+    - [Dive Into REFACTORING](https://refactoring.guru/refactoring/course)
 
 - ### Security
 
