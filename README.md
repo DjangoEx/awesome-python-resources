@@ -50,6 +50,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Python Telegram Bot](#python-telegram-bot)
       - [AIOGram](#aiogram)
       - [PyTelegramBotApi](#pytelegrambotapi)
+      - [TeleBot](#telebot)
     - [Discord](#discord)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
@@ -374,13 +375,18 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - #### AIOHTTP
 
+    - **Documentation**
+      - [AIOHTTP Document](https://docs.aiohttp.org/en/stable/)
+
   - #### Bottle
+
+    - **Documentation**
+      - [Bottle Document](https://bottlepy.org/docs/dev/)
 
   - #### Dash
 
     - **Documentation**
-        - [Dash Document](https://dash.plotly.com/)
-        - Strongly related to [Plotly](#plotly)
+      - [Dash-Python Document](https://dash.plotly.com/introduction)
 
     - **Awesome Dash**
       - [Awesome Dash](https://github.com/ucg8j/awesome-dash#readme)
@@ -446,27 +452,32 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Bot
   - #### Web
+  
   - #### Telegram
+    
     - #### Telethon
-      - **Documentation**
-        - [Telethon official document](https://docs.telethon.dev/)
-        - [Telethon arabic document](https://arabic-telethon.readthedocs.io/)
+      - [Source](https://github.com/LonamiWebs/Telethon)
+      - [Documentation](https://docs.telethon.dev/)
     
     - #### Pyrogram
-      - **Documentation**
-        - [Pyrogram document](https://docs.pyrogram.org/)
+      - [Source](https://github.com/pyrogram/pyrogram)
+      - [Documentation](https://docs.pyrogram.org/)
     
     - #### Python Telegram Bot
-      - **Documentation**
-        - [python-telegram-bot document](htttps://python-telegram-bot.readthedocs.io/)
+      - [Source](https://github.com/python-telegram-bot/python-telegram-bot)
+      - [Documentation](https://python-telegram-bot.readthedocs.io/)
     
     - #### AIOGram
-      - **Documentation**
-        - [aiogram document](https://docs.aiogram.dev/)
+      - [Source](https://github.com/aiogram/aiogram)
+      - [Documentation](https://docs.aiogram.dev/)
     
     - #### PyTelegramBotApi
-      - **Documentation**
-        - [PyTelegramBotApi document](https://pytba.readthedocs.io/)
+      - [Source](https://github.com/eternnoir/pyTelegramBotAPI)
+      - [Documentation](https://pytba.readthedocs.io/)
+    
+    - #### TeleBot
+      - [Source](https://github.com/KyleJamesWalker/telebot)
+  
   - #### Discord
 
 
@@ -555,6 +566,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [MemCached Wiki](https://github.com/memcached/memcached/wiki)
 
   - #### Apache Cassandra
+
+    - **Documentation**
+      - [Apache Cassandra Documentation](https://cassandra.apache.org/_/index.html)
 
 - ### Clean Code
 
@@ -659,6 +673,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Design Principles
 
   - #### SOLID
+
     - **Article**
         - [SOLID Principles In Python by Philip Norton](https://www.hashbangcode.com/article/solid-principles-python)
         - [Uncle Bob's SOLID principles made easy 🍀 - in Python!](https://www.youtube.com/watch?v=pTB30aXS77U)
