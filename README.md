@@ -28,6 +28,13 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Bottle](#bottle)
     - [Dash](#dash)
   - [Data Science](#data-science)
+    - [Data Analysis](#data-analysis)
+      - [Numpy](#numpy)
+      - [Scipy](#scipy)
+      - [Pandas](#pandas)
+    - [Data Visualization](#data-visualization)
+      - [Matplotlib](#matplotlib)
+      - [Plotly](#plotly)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
   - [Neural Networks](#neural-networks)
@@ -381,10 +388,44 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Documentation**
       - [Dash-Python Document](https://dash.plotly.com/introduction)
 
+    - **Awesome Dash**
+      - [Awesome Dash](https://github.com/ucg8j/awesome-dash#readme)
+
+    - **Template**
+      - [Dash Clean Architecture Template](https://github.com/CzakoZoltan08/dash-clean-architecture-template)
 
   - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
 
 - ### Data Science
+
+  - #### Data Analysis
+
+    - ##### Numpy
+      - **Documentation**
+        - [Numpy Document](https://numpy.org/doc/stable/user/index.html)
+  
+    - ##### Scipy
+
+      - **Documentation**
+        - [Scipy Document](https://docs.scipy.org/doc/scipy/tutorial/index.html)
+  
+    - ##### Pandas
+
+      - **Documentation**
+        - [Pandas Document](https://pandas.pydata.org/docs/user_guide/index.html)
+
+  - #### Data Visualization
+
+    - ##### Matplotlib
+
+      - **Documentation**
+        - [Matplotlib Document](https://matplotlib.org/stable/users/index.html)
+  
+    - ##### Plotly
+
+      - **Documentation**
+        - [Plotly Document](https://plotly.com/python-api-reference/)
+
 
 - ### Machine Learning
 
