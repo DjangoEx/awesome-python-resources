@@ -5,7 +5,7 @@
 
 
 ### Contribution
-Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions). ([Also available in Persian](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.fa.md))
+Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions).
 
 ### Table of Contents
 
