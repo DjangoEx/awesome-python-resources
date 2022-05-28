@@ -647,8 +647,16 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - #### Object-Oriented Programming
 
-    - **Book**
-      - [Python3 Object-Oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)
+      - **Tutorial**
+        - [Python Classes and Objects by W3Schools (Beginners)](https://www.w3schools.com/python/python_classes.asp)
+        - [Python Object Oriented Programming by programiz.com (Beginners)](https://www.programiz.com/python-programming/object-oriented-programming)
+
+      - **Article**
+        - [Python OOPs Concepts 3 by GeeksForGeeks (Beginners)](https://www.geeksforgeeks.org/python-oops-concepts/)
+        - [Object-Oriented Programming (OOP) in Python 3 by David Amos (Intermediate)](https://realpython.com/python3-object-oriented-programming/#:~:text=Programming%20with%20Python.-,What%20Is%20Object%2DOriented%20Programming%20in%20Python%3F,are%20bundled%20into%20individual%20objects.)
+
+      - **Book**
+        - [Python Object-Oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)
 
   - #### Functional Programming
 
@@ -750,8 +758,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Book**
       - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945)
 
-  - **Cheat Sheet**
-    - [Apache Cheat Sheet](http://www.cheat-sheets.org/saved-copy/apache-refcard-a4.pdf)
+    - **Cheat Sheet**
+      - [Apache Cheat Sheet](http://www.cheat-sheets.org/saved-copy/apache-refcard-a4.pdf)
 
 - ### Availability and Reliability
 
