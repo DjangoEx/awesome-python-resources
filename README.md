@@ -434,6 +434,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Deep Learning
 
+  - **Video**
+    - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+
 - ### Neural Networks
 
 - ### Image Processing
