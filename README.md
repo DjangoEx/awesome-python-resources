@@ -434,7 +434,15 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Deep Learning
 
+  - **Video**
+      - [Deep Learning Specialization](https://coursera.org/specializations/deep-learning)
+      - [AladdinPersson](https://www.youtube.com/c/AladdinPersson)
+
+
 - ### Neural Networks
+
+  - **Video**
+      - [Neural Networks and Calculus](https://www.youtube.com/c/3blue1brown)
 
 - ### Image Processing
 
