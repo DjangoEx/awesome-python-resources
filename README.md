@@ -756,6 +756,19 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Cheat Sheet**
     - [Apache Cheat Sheet](http://www.cheat-sheets.org/saved-copy/apache-refcard-a4.pdf)
 
+- ### API
+
+  - #### Design
+  
+    - **Guidelines and Best Practices**
+      - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+      - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
+
+  - #### Security
+
+    - **Checklist**
+      - [API Security Checklist](https://github.com/bobycloud/API-Security-Checklist/blob/master/README-en.md)
+
 - ### Availability and Reliability
 
   (In Progress)
