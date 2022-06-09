@@ -804,4 +804,4 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   (In Progress)
 
-<p align="right"><a href="#top"><img src="https://user-images.githubusercontent.com/29402115/172926198-13bacbbe-3fb0-40a0-8101-d30fcc4f8c1f.png" width=50 height=50 /></a></p>
+<p align="right"><a href="#top"><img src="https://raw.githubusercontent.com/DjangoEx/python-engineer-roadmap/main/statics/top.png" width=50 height=50 /></a></p>
