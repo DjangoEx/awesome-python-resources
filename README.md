@@ -46,7 +46,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Hacking](#hacking)
   - [Algorithmic Trading](#algorithmic-trading)
   - [Bot](#bot)
-    - [Web](#web)
     - [Telegram](#telegram)
       - [Telethon](#telethon)
       - [Pyrogram](#pyrogram)
@@ -454,8 +453,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Algorithmic Trading
 
 - ### Bot
-  - #### Web
-  
   - #### Telegram
     
     - #### Telethon
