@@ -1,3 +1,6 @@
+<a id="top"></a>
+<br />
+
 # Python Engineer Roadmap [![README to PDF](https://github.com/DjangoEx/python-engineer-roadmap/actions/workflows/convert-to-pdf.yml/badge.svg)](README.pdf)
 
 [Python](https://www.python.org/) can be used in a lot of computer science fields. In this repository, we have collected resources for each field of computer science that are related to Python.\
@@ -5,7 +8,7 @@
 
 
 ### Contribution
-Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions). ([Also available in Persian](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.fa.md))
+Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions).
 
 ### Table of Contents
 
@@ -28,6 +31,13 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Bottle](#bottle)
     - [Dash](#dash)
   - [Data Science](#data-science)
+    - [Data Analysis](#data-analysis)
+      - [Numpy](#numpy)
+      - [Scipy](#scipy)
+      - [Pandas](#pandas)
+    - [Data Visualization](#data-visualization)
+      - [Matplotlib](#matplotlib)
+      - [Plotly](#plotly)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
   - [Neural Networks](#neural-networks)
@@ -42,6 +52,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Python Telegram Bot](#python-telegram-bot)
       - [AIOGram](#aiogram)
       - [PyTelegramBotApi](#pytelegrambotapi)
+      - [TeleBot](#telebot)
     - [Discord](#discord)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
@@ -366,13 +377,57 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - #### AIOHTTP
 
+    - **Documentation**
+      - [AIOHTTP Document](https://docs.aiohttp.org/en/stable/)
+
   - #### Bottle
 
+    - **Documentation**
+      - [Bottle Document](https://bottlepy.org/docs/dev/)
+
   - #### Dash
+
+    - **Documentation**
+      - [Dash-Python Document](https://dash.plotly.com/introduction)
+
+    - **Awesome Dash**
+      - [Awesome Dash](https://github.com/ucg8j/awesome-dash#readme)
+
+    - **Template**
+      - [Dash Clean Architecture Template](https://github.com/CzakoZoltan08/dash-clean-architecture-template)
 
   - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
 
 - ### Data Science
+
+  - #### Data Analysis
+
+    - ##### Numpy
+      - **Documentation**
+        - [Numpy Document](https://numpy.org/doc/stable/user/index.html)
+  
+    - ##### Scipy
+
+      - **Documentation**
+        - [Scipy Document](https://docs.scipy.org/doc/scipy/tutorial/index.html)
+  
+    - ##### Pandas
+
+      - **Documentation**
+        - [Pandas Document](https://pandas.pydata.org/docs/user_guide/index.html)
+
+  - #### Data Visualization
+
+    - ##### Matplotlib
+
+      - **Documentation**
+        - [Matplotlib Document](https://matplotlib.org/stable/users/index.html)
+  
+    - ##### Plotly
+
+      - **Documentation**
+        - [Plotly Document](https://plotly.com/python-api-reference/)
+
 
 - ### Machine Learning
 
@@ -399,26 +454,30 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Bot
   - #### Telegram
+    
     - #### Telethon
-      - **Documentation**
-        - [Telethon Official Document](https://docs.telethon.dev/)
-        - [Telethon Arabic Document](https://arabic-telethon.readthedocs.io/)
+      - [Source](https://github.com/LonamiWebs/Telethon)
+      - [Documentation](https://docs.telethon.dev/)
     
     - #### Pyrogram
-      - **Documentation**
-        - [Pyrogram Document](https://docs.pyrogram.org/)
+      - [Source](https://github.com/pyrogram/pyrogram)
+      - [Documentation](https://docs.pyrogram.org/)
     
     - #### Python Telegram Bot
-      - **Documentation**
-        - [Python-Telegram-Bot Document](https://python-telegram-bot.readthedocs.io/)
+      - [Source](https://github.com/python-telegram-bot/python-telegram-bot)
+      - [Documentation](https://python-telegram-bot.readthedocs.io/)
     
     - #### AIOGram
-      - **Documentation**
-        - [Aiogram Document](https://docs.aiogram.dev/)
+      - [Source](https://github.com/aiogram/aiogram)
+      - [Documentation](https://docs.aiogram.dev/)
     
     - #### PyTelegramBotApi
-      - **Documentation**
-        - [PyTelegramBotApi Document](https://pytba.readthedocs.io/)
+      - [Source](https://github.com/eternnoir/pyTelegramBotAPI)
+      - [Documentation](https://pytba.readthedocs.io/)
+    
+    - #### TeleBot
+      - [Source](https://github.com/KyleJamesWalker/telebot)
+  
   - #### Discord
 
 
@@ -507,6 +566,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [MemCached Wiki](https://github.com/memcached/memcached/wiki)
 
   - #### Apache Cassandra
+
+    - **Documentation**
+      - [Apache Cassandra Documentation](https://cassandra.apache.org/_/index.html)
 
 - ### Clean Code
 
@@ -611,6 +673,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Design Principles
 
   - #### SOLID
+
     - **Article**
         - [SOLID Principles In Python by Philip Norton](https://www.hashbangcode.com/article/solid-principles-python)
         - [Uncle Bob's SOLID principles made easy 🍀 - in Python!](https://www.youtube.com/watch?v=pTB30aXS77U)
@@ -737,3 +800,5 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 ### Where to Go Next?
 
   (In Progress)
+
+<p align="right"><a href="#top"><img src="https://raw.githubusercontent.com/DjangoEx/python-engineer-roadmap/main/statics/top.png" width=50 height=50 /></a></p>
