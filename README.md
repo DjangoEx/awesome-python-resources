@@ -46,6 +46,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Hacking](#hacking)
   - [Algorithmic Trading](#algorithmic-trading)
   - [Bot](#bot)
+    - [Web](#web)
+      - [Selenium](#selenium)
+      - [WebBot](#webbot)
     - [Telegram](#telegram)
       - [Telethon](#telethon)
       - [Pyrogram](#pyrogram)
@@ -54,13 +57,16 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [PyTelegramBotApi](#pytelegrambotapi)
       - [TeleBot](#telebot)
     - [Discord](#discord)
+      - [DiscordPy](#discordpy)
+    - [Instagram](#instagram)
+      - [Instagram-Scraper](#instagram-scraper)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
     - [General](#general)
     - [SQLite](#sqlite)
     - [PostgreSQL](#postgresql)
     - [MySQL](#mysql)
-    - [Oracle](#Oracle)
+    - [Oracle](#oracle)
     - [MongoDB](#mongodb)
     - [Redis](#redis)
     - [MemCached](#memcached)
@@ -97,6 +103,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Web Servers](#web-servers)
     - [Nginx](#nginx)
     - [Apache](#apache)
+  - [API](#api)
+    - [Design](#design)
+    - [Security](#security)
   - [Availability and Reliability](#availability-and-reliability)
   - [Distributed Systems](#distributed-systems)
   - [Reactive Systems](#reactive-systems)
@@ -278,6 +287,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - #### Django
     - **Documentation**
       - [Django Documentation](https://www.djangoproject.com/) 
+      - [Django Tutorial - w3schools](https://www.w3schools.com/django/)
 
     - **Book**
       - [Django for Beginners by William S. Vincent](https://www.amazon.com/gp/product/1735467200)
@@ -460,6 +470,15 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Algorithmic Trading
 
 - ### Bot
+  - #### Web
+
+    - #### Selenium
+      - [Source](https://github.com/SeleniumHQ/selenium/tree/trunk/py)
+      - [Documentation](https://www.selenium.dev/selenium/docs/api/py/)
+  
+    - #### WebBot
+      - [Source](https://github.com/nateshmbhat/webbot)
+  
   - #### Telegram
     
     - #### Telethon
@@ -486,7 +505,13 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Source](https://github.com/KyleJamesWalker/telebot)
   
   - #### Discord
+    - #### DiscordPy
+      - [Source](https://github.com/Rapptz/discord.py)
+      - [Documentation](https://discordpy.readthedocs.io)
 
+  - #### Instagram
+    - #### Instagram-Scraper
+      - [Source](https://github.com/realsirjoe/instagram-scraper)
 
 ## Advanced Topics
 
@@ -783,6 +808,19 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Cheat Sheet**
       - [Apache Cheat Sheet](http://www.cheat-sheets.org/saved-copy/apache-refcard-a4.pdf)
+
+- ### API
+
+  - #### Design
+  
+    - **Guidelines and Best Practices**
+      - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+      - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
+
+  - #### Security
+
+    - **Checklist**
+      - [API Security Checklist](https://github.com/bobycloud/API-Security-Checklist/blob/master/README-en.md)
 
 - ### Availability and Reliability
 
