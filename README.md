@@ -278,6 +278,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - #### Django
     - **Documentation**
       - [Django Documentation](https://www.djangoproject.com/) 
+      - [Django Tutorial - w3schools](https://www.w3schools.com/django/)
 
     - **Book**
       - [Django for Beginners by William S. Vincent](https://www.amazon.com/gp/product/1735467200)
