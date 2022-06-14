@@ -46,6 +46,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Hacking](#hacking)
   - [Algorithmic Trading](#algorithmic-trading)
   - [Bot](#bot)
+    - [Web](#web)
+      - [Selenium](#selenium)
+      - [WebBot](#webbot)
     - [Telegram](#telegram)
       - [Telethon](#telethon)
       - [Pyrogram](#pyrogram)
@@ -54,13 +57,16 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [PyTelegramBotApi](#pytelegrambotapi)
       - [TeleBot](#telebot)
     - [Discord](#discord)
+      - [DiscordPy](#discordpy)
+    - [Instagram](#instagram)
+      - [Instagram-Scraper](#instagram-scraper)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
     - [General](#general)
     - [SQLite](#sqlite)
     - [PostgreSQL](#postgresql)
     - [MySQL](#mysql)
-    - [Oracle](#Oracle)
+    - [Oracle](#oracle)
     - [MongoDB](#mongodb)
     - [Redis](#redis)
     - [MemCached](#memcached)
@@ -464,6 +470,15 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Algorithmic Trading
 
 - ### Bot
+  - #### Web
+
+    - #### Selenium
+      - [Source](https://github.com/SeleniumHQ/selenium/tree/trunk/py)
+      - [Documentation](https://www.selenium.dev/selenium/docs/api/py/)
+  
+    - #### WebBot
+      - [Source](https://github.com/nateshmbhat/webbot)
+  
   - #### Telegram
     
     - #### Telethon
@@ -490,7 +505,13 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Source](https://github.com/KyleJamesWalker/telebot)
   
   - #### Discord
+    - #### DiscordPy
+      - [Source](https://github.com/Rapptz/discord.py)
+      - [Documentation](https://discordpy.readthedocs.io)
 
+  - #### Instagram
+    - #### Instagram-Scraper
+      - [Source](https://github.com/realsirjoe/instagram-scraper)
 
 ## Advanced Topics
 
