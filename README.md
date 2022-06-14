@@ -1,3 +1,6 @@
+<a id="top"></a>
+<br />
+
 # Python Engineer Roadmap [![README to PDF](https://github.com/DjangoEx/python-engineer-roadmap/actions/workflows/convert-to-pdf.yml/badge.svg)](README.pdf)
 
 [Python](https://www.python.org/) can be used in a lot of computer science fields. In this repository, we have collected resources for each field of computer science that are related to Python.\
@@ -100,6 +103,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Web Servers](#web-servers)
     - [Nginx](#nginx)
     - [Apache](#apache)
+  - [API](#api)
+    - [Design](#design)
+    - [Security](#security)
   - [Availability and Reliability](#availability-and-reliability)
   - [Distributed Systems](#distributed-systems)
   - [Reactive Systems](#reactive-systems)
@@ -281,6 +287,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - #### Django
     - **Documentation**
       - [Django Documentation](https://www.djangoproject.com/) 
+      - [Django Tutorial - w3schools](https://www.w3schools.com/django/)
 
     - **Book**
       - [Django for Beginners by William S. Vincent](https://www.amazon.com/gp/product/1735467200)
@@ -439,7 +446,14 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Deep Learning
 
+  - **Video**
+    - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+    - [AladdinPersson](https://www.youtube.com/c/AladdinPersson)
+
 - ### Neural Networks
+
+  - **Video**
+      - [Neural Networks and Calculus](https://www.youtube.com/c/3blue1brown)
 
 - ### Image Processing
 
@@ -665,8 +679,16 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - #### Object-Oriented Programming
 
-    - **Book**
-      - [Python3 Object-Oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)
+      - **Tutorial**
+        - [Python Classes and Objects by W3Schools (Beginners)](https://www.w3schools.com/python/python_classes.asp)
+        - [Python Object Oriented Programming by programiz.com (Beginners)](https://www.programiz.com/python-programming/object-oriented-programming)
+
+      - **Article**
+        - [Python OOPs Concepts 3 by GeeksForGeeks (Beginners)](https://www.geeksforgeeks.org/python-oops-concepts/)
+        - [Object-Oriented Programming (OOP) in Python 3 by David Amos (Intermediate)](https://realpython.com/python3-object-oriented-programming/#:~:text=Programming%20with%20Python.-,What%20Is%20Object%2DOriented%20Programming%20in%20Python%3F,are%20bundled%20into%20individual%20objects.)
+
+      - **Book**
+        - [Python Object-Oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)
 
   - #### Functional Programming
 
@@ -768,8 +790,21 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Book**
       - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945)
 
-  - **Cheat Sheet**
-    - [Apache Cheat Sheet](http://www.cheat-sheets.org/saved-copy/apache-refcard-a4.pdf)
+    - **Cheat Sheet**
+      - [Apache Cheat Sheet](http://www.cheat-sheets.org/saved-copy/apache-refcard-a4.pdf)
+
+- ### API
+
+  - #### Design
+  
+    - **Guidelines and Best Practices**
+      - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+      - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
+
+  - #### Security
+
+    - **Checklist**
+      - [API Security Checklist](https://github.com/bobycloud/API-Security-Checklist/blob/master/README-en.md)
 
 - ### Availability and Reliability
 
@@ -785,7 +820,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Refactoring
 
-  (In Progress)
+  - **Video**
+    - [Dive Into REFACTORING](https://refactoring.guru/refactoring/course)
 
 - ### Security
 
@@ -818,3 +854,5 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 ### Where to Go Next?
 
   (In Progress)
+
+<p align="right"><a href="#top"><img src="https://raw.githubusercontent.com/DjangoEx/python-engineer-roadmap/main/statics/top.png" width=50 height=50 /></a></p>
