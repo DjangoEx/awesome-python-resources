@@ -727,6 +727,15 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [RabbitMQ Cheat Sheet 1](https://cheatography.com/francisuk/cheat-sheets/rabbitmq/pdf/)
       - [RabbitMQ Cheat Sheet 2](https://lzone.de/cheat-sheet/RabbitMQ)
 
+  - #### Apache Kafka
+ 
+    - **Documentation**
+      - [Apache Kafka Documentation](https://kafka.apache.org/documentation/)
+
+    - **Cheat Sheet**
+      - [Apache Kafka Cheat Sheet 1](https://gist.github.com/sahilsk/d2a6ec384f5f2333e3fef40a581a97e1)
+      - [Apache Kafka Cheat Sheet 2](https://medium.com/@TimvanBaarsen/apache-kafka-cli-commands-cheat-sheet-a6f06eac01b)
+
 - ### WSGI Servers
 
   - #### Gunicorn
