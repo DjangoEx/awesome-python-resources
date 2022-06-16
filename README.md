@@ -861,7 +861,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Soft Skill
 
-  (In Progress)
+  - **Book**
+    - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
 - ### Public Cloud
 
