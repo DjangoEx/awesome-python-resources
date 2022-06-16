@@ -473,8 +473,19 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - #### Web
 
     - #### Selenium
+      - [Selenium (Main Home)](https://github.com/SeleniumHQ/selenium)
       - [Source](https://github.com/SeleniumHQ/selenium/tree/trunk/py)
       - [Documentation](https://www.selenium.dev/selenium/docs/api/py/)
+      - [Helium](https://github.com/mherrmann/selenium-python-helium)
+      - [Base](https://github.com/seleniumbase/SeleniumBase)
+      - [InstaPy](https://github.com/InstaPy/InstaPy)
+      - [AutoCrawler](https://github.com/YoongiKim/AutoCrawler)
+      - [Wire](https://github.com/wkeeling/selenium-wire)
+      - [Cucucumber](https://github.com/executeautomation/SeleniumWithCucucumber)
+      - [Requestium](https://github.com/tryolabs/requestium)
+      - [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
+  
+  
   
     - #### WebBot
       - [Source](https://github.com/nateshmbhat/webbot)
