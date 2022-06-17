@@ -883,6 +883,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - #### Concept
     - #### Protocol
+      - [Practical MQTT with Steve](http://www.steves-internet-guide.com/)
 
 ### Where to Go Next?
 
