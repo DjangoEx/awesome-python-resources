@@ -114,6 +114,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Monitoring](#monitoring)
   - [Soft Skill](#soft-skill)
   - [Public Cloud](#public-cloud)
+  - [IoT](#iot)
 - [Where to Go Next?](#where-to-go-next)
 
 ## Prerequisites
