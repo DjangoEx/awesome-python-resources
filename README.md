@@ -114,6 +114,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Monitoring](#monitoring)
   - [Soft Skill](#soft-skill)
   - [Public Cloud](#public-cloud)
+  - [IoT](#iot)
 - [Where to Go Next?](#where-to-go-next)
 
 ## Prerequisites
@@ -878,6 +879,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Public Cloud
 
   (In Progress)
+  
+- ### IoT
+
+    - #### Concept
+    - #### Protocol
+      - [Practical MQTT with Steve](http://www.steves-internet-guide.com/)
 
 ### Where to Go Next?
 
