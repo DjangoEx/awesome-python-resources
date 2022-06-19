@@ -60,6 +60,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [DiscordPy](#discordpy)
     - [Instagram](#instagram)
       - [Instagram-Scraper](#instagram-scraper)
+      - [InstaPy](#instagram-scraper)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
     - [General](#general)
@@ -524,6 +525,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - #### Instagram
     - #### Instagram-Scraper
       - [Source](https://github.com/realsirjoe/instagram-scraper)
+      - [InstaPy](https://github.com/InstaPy/InstaPy)
 
 ## Advanced Topics
 
