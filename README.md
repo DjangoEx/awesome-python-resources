@@ -598,6 +598,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Documentation**
       - [Redis Documentation](https://redis.io/docs/)
+    
+    - **Video**
+      - [Redis Crash Course 1](https://www.youtube.com/watch?v=Hbt56gFj998)
+      - [Redis Crash Course 2](https://www.youtube.com/watch?v=OqCK95AS-YE)
 
     - **Article**
       - [How to use redis with python by Brad Solomon](https://realpython.com/python-redis/)
