@@ -552,6 +552,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     
     - **Documentation**
       - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+    
+    - **Book**
+      - [Essential Postgres: Database Development using PostgreSQL](https://www.amazon.com/Essential-Postgres-Database-Development-PostgreSQL/dp/B08KH136G4)
 
     - **Community**
       - [PostgreSQL Telegram group](https://t.me/pg_sql)
