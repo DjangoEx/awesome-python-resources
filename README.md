@@ -320,6 +320,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Django Cheat Sheet](https://cheatography.com/ogr/cheat-sheets/django/)
       - [Django Models Cheat Sheet](https://cheatography.com/lewiseason/cheat-sheets/django-models/)
       - [Django Class Based Views Cheat Sheet](https://cheatography.com/papousekp/cheat-sheets/django-class-based-views/)
+      - [Django Class Based Views Cheat Sheet 2](https://ccbv.co.uk/)
 
   - #### FastAPI
 
