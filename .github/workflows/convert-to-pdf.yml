@@ -1,11 +1,11 @@
 name: README to PDF
 # This workflow is triggered on pushes to the repository.
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'README.md'
+#   push:
+#     branches:
+#       - main
+#     paths:
+#       - 'README.md'
     
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
