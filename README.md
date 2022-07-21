@@ -256,6 +256,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Platform**
       - [GeeksForGeeks](https://www.geeksforgeeks.org/python-programming-language)
       - [Programiz](https://www.programiz.com/python-programming)
+      - [Scaler Topics](https://www.scaler.com/topics/python/)
 
   - **Advanced**
     - **Book**
