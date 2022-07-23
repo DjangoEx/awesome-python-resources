@@ -96,6 +96,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Design Patterns](#design-patterns)
   - [Message Brokers](#message-brokers)
     - [RabbitMQ](#rabbitmq)
+    - [Apache Kafka](#apache-kafka)
   - [WSGI Servers](#wsgi-servers)
     - [Gunicorn](#gunicorn)
     - [uWSGI](#uwsgi)
