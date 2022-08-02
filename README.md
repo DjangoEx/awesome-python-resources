@@ -62,6 +62,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Instagram](#instagram)
       - [Instagram-Scraper](#instagram-scraper)
       - [InstaPy](#instapy)
+    - [Twitter](#twitter)
+      - [twitter](#twitter)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
     - [General](#general)
