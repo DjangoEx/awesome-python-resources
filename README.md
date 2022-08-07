@@ -343,8 +343,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - #### Flask
   
     - **Book**
-      - [Flask Web Development: Developing Web Applications with Python](https://www.amazon.de/Flask-Web-Development-Developing-Applications/dp/1491991739/)
+      - [Flask Web Development: Developing Web Applications with Python](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
       - [Flask Framework Cookbook](https://www.amazon.de/Flask-Framework-Cookbook-techniques-development/dp/1789951291/)
+      - [The New And Improved Flask Mega-Tutorial](https://www.amazon.com/New-Improved-Flask-Mega-Tutorial/dp/B09YQ33QYT)
 
     - **Video**
       - [Flask Tutorial by Tech With Tim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
