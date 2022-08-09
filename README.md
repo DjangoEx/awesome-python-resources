@@ -631,6 +631,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Clean Code
 
   - **Book**
+    - ✅ [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882)
     - ✅ [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214)
     - [Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve Mcconnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 
