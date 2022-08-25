@@ -52,6 +52,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [WebBot](#webbot)
     - [Telegram](#telegram)
       - [Telethon](#telethon)
+      - [Pygram](#pygram)
       - [Pyrogram](#pyrogram)
       - [Python Telegram Bot](#python-telegram-bot)
       - [AIOGram](#aiogram)
@@ -501,6 +502,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Source](https://github.com/LonamiWebs/Telethon)
       - [Documentation](https://docs.telethon.dev/)
     
+    - #### Pygram
+      - [Source](https://github.com/pygram/pygram)
+      - [Documentation](https://pygram.readthedocs.io/en/latest/)
     - #### Pyrogram
       - [Source](https://github.com/pyrogram/pyrogram)
       - [Documentation](https://docs.pyrogram.org/)
