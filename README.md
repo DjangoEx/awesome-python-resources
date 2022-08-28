@@ -469,6 +469,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Community**
     - [DevOps, SRE, & Infrastructure](https://discord.gg/devops)
 
+  - **CI/CD**
+    - [CI/CD Full Course | Continuous Integration And Continuous](https://www.youtube.com/watch?v=h9K1NnqwUvE)
+    - [GitLab CI CD Tutorial for Beginners](https://www.youtube.com/watch?v=qP8kir2GUgo)
+
 - ### Hacking
 
   - **Book**
