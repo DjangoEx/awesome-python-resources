@@ -133,6 +133,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Video**
     - [Data Structures And Algorithms Course by Mosh Hamedani](https://codewithmosh.com/p/data-structures-algorithms)
+    - [Data Structures And Algorithms Course by Ali Sharifi-Zarchi](https://maktabkhooneh.org/course/%D8%AF%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D9%87%D8%A7-%D9%88-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%87%D8%A7-mk376/)
 
   - **Platform**
     - ✅ [LeetCode](https://leetcode.com/)
