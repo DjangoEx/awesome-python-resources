@@ -239,6 +239,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Platform**
       - [W3schools](https://www.w3schools.com/python/default.asp)
+      - [scaler Topics](https://www.scaler.com/topics/python/)
       - [Codecademy Python 2](https://www.codecademy.com/learn/learn-python)
       - [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
       - [Sololearn Python](https://www.sololearn.com/learning/1073)
