@@ -331,7 +331,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Python API Development - Comprehensive Course for Beginners by Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=0sOvCWFmrtA)
       - [FastAPI course by testdriven.io & talkpython.fm](https://testdriven.io/talkpython/)
       - [Microservice Architecture and System Design with Python & Kubernetes – Full Course](https://www.youtube.com/watch?v=hmkF77F9TLw)
-      - [E-commerce API with Fastapi using Tortoise] - (https://www.youtube.com/playlist?list=PLU7aW4OZeUzymX37MosNIT44FLnF-OKdB)
+      - [E-commerce API with Fastapi using Tortoise] (https://www.youtube.com/playlist?list=PLU7aW4OZeUzymX37MosNIT44FLnF-OKdB)
 
     - **Documentation**
       - [FastAPI documentation](https://fastapi.tiangolo.com)
