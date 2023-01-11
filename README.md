@@ -467,7 +467,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### DevOps
 
   - **Community**
-    - [DevOps, SRE, & Infrastructure](https://discord.gg/devops)
+    - [DevOps, SRE, & Infrastructure](https://discord.com/invite/VEEnHkPzY6)
 
   - **CI/CD**
     - [CI/CD Full Course | Continuous Integration And Continuous](https://www.youtube.com/watch?v=h9K1NnqwUvE)
@@ -767,6 +767,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Video**
     - [Design Patterns Course by Mosh Hamedani](https://codewithmosh.com/p/design-patterns)
+    - [Become a better software developer](https://www.youtube.com/c/ArjanCodes)
 
 - ### Message Brokers
 
