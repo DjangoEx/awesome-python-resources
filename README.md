@@ -767,6 +767,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Video**
     - [Design Patterns Course by Mosh Hamedani](https://codewithmosh.com/p/design-patterns)
+    - [Become a better software developer](https://www.youtube.com/c/ArjanCodes)
 
 - ### Message Brokers
 
