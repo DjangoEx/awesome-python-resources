@@ -285,6 +285,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Cheat Sheet**
     - [Beginners Python cheat sheet](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf)
     - [Python cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+    - [Python Developer Roadmap](https://roadmap.sh/python)
   
 ## Career Path
 
