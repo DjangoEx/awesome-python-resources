@@ -31,6 +31,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [AIOHTTP](#aiohttp)
     - [Bottle](#bottle)
     - [Dash](#dash)
+    - [BlackSheep](#blacksheep)
   - [Data Science](#data-science)
     - [Data Analysis](#data-analysis)
       - [Numpy](#numpy)
@@ -49,6 +50,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Bot](#bot)
     - [Web](#web)
       - [Selenium](#selenium)
+      - [PlayWright](#playwright)
       - [WebBot](#webbot)
       - [Browser](#mozbase)
     - [Telegram](#telegram)
@@ -255,11 +257,13 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Video**
       - [Python Intermediate Tutorial by NeuralNine](https://www.youtube.com/playlist?list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1)
       - [Intermediate Python Tutorials by Tech with Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv) 
+      - [Python3: Variables, Functions and Functional Programming, Closures, Decorators, Modules and Packages](https://www.udemy.com/course/python-3-deep-dive-part-2/)
   
     - **Platform**
       - [GeeksForGeeks](https://www.geeksforgeeks.org/python-programming-language)
       - [Programiz](https://www.programiz.com/python-programming)
       - [Scaler Topics](https://www.scaler.com/topics/python/)
+    
 
   - **Advanced**
     - **Book**
@@ -273,7 +277,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Python Notes for Professionals](https://books.goalkicker.com/PythonBook/)
 
     - **Video**
-      - [Python3: Deep Dive (4 Parts)](https://www.udemy.com/course/python-3-deep-dive-part-1/)
+      - ✅ [Python3: Deep dive Iteration, Generators](https://www.udemy.com/course/python-3-deep-dive-part-2/)
+      - ✅ [Python3: Deep dive Dictionaries, Sets, Related Data Structures, Serialization/Deserialization](https://www.udemy.com/course/python-3-deep-dive-part-3/)
+      - ✅ [Python3: Deep dive Object Oriented Programming (OOP)](https://www.udemy.com/course/python-3-deep-dive-part-4/)
 
     - **Platform**
       - ✅ [RealPython](https://realpython.com/)
@@ -332,6 +338,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Video**
       - [Python API Development - Comprehensive Course for Beginners by Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=0sOvCWFmrtA)
       - [FastAPI course by testdriven.io & talkpython.fm](https://testdriven.io/talkpython/)
+      - [FastAPI - The Complete Course 2023 (Beginner + Advanced)](https://www.udemy.com/course/fastapi-the-complete-course/)
+      - [Microservice Architecture and System Design with Python & Kubernetes – Full Course](https://www.youtube.com/watch?v=hmkF77F9TLw)
 
     - **Documentation**
       - [FastAPI documentation](https://fastapi.tiangolo.com)
@@ -341,7 +349,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme)
 
     - **Community**
-      - [FastApi Discord group](https://discord.gg/sATRypy9)
+      - [FastApi Discord group](https://discord.gg/VQjSZaeJmf)
+      - [FastApi Gitter](https://gitter.im/tiangolo/fastapi)
   
   - #### Flask
   
@@ -414,6 +423,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Template**
       - [Dash Clean Architecture Template](https://github.com/CzakoZoltan08/dash-clean-architecture-template)
+  
+  - #### BlackSheep
+
+    - **Documentation**
+      - [BlackSheep Document](https://neoteroi.dev/blacksheep/)
 
   - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
 
@@ -487,6 +501,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - #### Selenium
       - [Selenium (Main Home)](https://github.com/SeleniumHQ/selenium)
+      - [CDP Documentation](https://chromedevtools.github.io/devtools-protocol/)
       - [Source](https://github.com/SeleniumHQ/selenium/tree/trunk/py)
       - [Documentation](https://www.selenium.dev/selenium/docs/api/py/)
       - [Helium](https://github.com/mherrmann/selenium-python-helium)
@@ -497,6 +512,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Cucucumber](https://github.com/executeautomation/SeleniumWithCucucumber)
       - [Requestium](https://github.com/tryolabs/requestium)
       - [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
+
+    
+    - #### PlayWright
+      - [Source](https://github.com/microsoft/playwright-python)
+      - [Documentation](https://playwright.dev/python/docs/intro)  
   
   
 
@@ -583,6 +603,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [PostgreSQL Cheat Sheet By GoalKicker](https://books.goalkicker.com/PostgreSQLBook/PostgreSQLNotesForProfessionals.pdf)
       - [PostgreSQL CHEAT SHEET](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf)
       - [POSTGRESQL 8.3 PSQL CHEAT SHEET](http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf)
+    
+    - **Video**
+      - [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/)
 
   - #### MySQL
     
@@ -731,6 +754,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
       - **Book**
         - [Python Object-Oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)
+        
 
   - #### Functional Programming
 
