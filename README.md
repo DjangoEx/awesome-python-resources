@@ -50,6 +50,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Web](#web)
       - [Selenium](#selenium)
       - [WebBot](#webbot)
+      - [Browser](#mozbase)
     - [Telegram](#telegram)
       - [Telethon](#telethon)
       - [Pygram](#pygram)
@@ -498,12 +499,17 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
   
   
+
+    - #### Browser
+      - [Source](https://wiki.mozilla.org/Auto-tools/Projects/Mozbase)
+      - [Documentation](https://firefox-source-docs.mozilla.org/mozbase/index.html)
+  
   
     - #### WebBot
       - [Source](https://github.com/nateshmbhat/webbot)
   
+  
   - #### Telegram
-    
     - #### Telethon
       - [Source](https://github.com/LonamiWebs/Telethon)
       - [Documentation](https://docs.telethon.dev/)
