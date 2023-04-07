@@ -31,6 +31,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [AIOHTTP](#aiohttp)
     - [Bottle](#bottle)
     - [Dash](#dash)
+    - [BlackSheep](#blacksheep)
   - [Data Science](#data-science)
     - [Data Analysis](#data-analysis)
       - [Numpy](#numpy)
@@ -40,7 +41,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Matplotlib](#matplotlib)
       - [Plotly](#plotly)
   - [Machine Learning](#machine-learning)
-  - [Deep Learning](#deep-learning)
+  - [Deep Learning](#deep-learning)E-
   - [Neural Networks](#neural-networks)
   - [Image Processing](#image-processing)
   - [DevOps](#devops)
@@ -49,6 +50,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Bot](#bot)
     - [Web](#web)
       - [Selenium](#selenium)
+      - [PlayWright](#playwright)
       - [WebBot](#webbot)
       - [Browser](#mozbase)
     - [Telegram](#telegram)
@@ -273,7 +275,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Python Notes for Professionals](https://books.goalkicker.com/PythonBook/)
 
     - **Video**
-      - [Python3: Deep Dive (4 Parts)](https://www.udemy.com/course/python-3-deep-dive-part-1/)
+      - ✅ [Python3: Deep dive Iteration, Generators](https://www.udemy.com/course/python-3-deep-dive-part-2/)
+      - ✅ [Python3: Deep dive Dictionaries, Sets, Related Data Structures, Serialization/Deserialization](https://www.udemy.com/course/python-3-deep-dive-part-3/)
+      - ✅ [Python3: Deep dive Object Oriented Programming (OOP)](https://www.udemy.com/course/python-3-deep-dive-part-4/)
 
     - **Platform**
       - ✅ [RealPython](https://realpython.com/)
@@ -332,6 +336,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Video**
       - [Python API Development - Comprehensive Course for Beginners by Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=0sOvCWFmrtA)
       - [FastAPI course by testdriven.io & talkpython.fm](https://testdriven.io/talkpython/)
+      - [Microservice Architecture and System Design with Python & Kubernetes – Full Course](https://www.youtube.com/watch?v=hmkF77F9TLw)
+      - [FastAPI - The Complete Course 2023 (Beginner + Advanced)](https://www.udemy.com/course/fastapi-the-complete-course/)
+
 
     - **Documentation**
       - [FastAPI documentation](https://fastapi.tiangolo.com)
@@ -341,7 +348,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme)
 
     - **Community**
-      - [FastApi Discord group](https://discord.gg/sATRypy9)
+      - [FastApi Discord group](https://discord.gg/VQjSZaeJmf)
+      - [FastApi Gitter](https://gitter.im/tiangolo/fastapi)
   
   - #### Flask
   
@@ -414,8 +422,16 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Template**
       - [Dash Clean Architecture Template](https://github.com/CzakoZoltan08/dash-clean-architecture-template)
+    
+
+  - #### BlackSheep
+
+    - **Documentation**
+      - [BlackSheep Document](https://neoteroi.dev/blacksheep/)
+
 
   - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
+  
 
 - ### Data Science
 
@@ -497,7 +513,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Cucucumber](https://github.com/executeautomation/SeleniumWithCucucumber)
       - [Requestium](https://github.com/tryolabs/requestium)
       - [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
-  
+    
+
+
+    - #### PlayWright
+      - [Source](https://github.com/microsoft/playwright-python)
+      - [Documentation](https://playwright.dev/python/docs/intro)  
   
 
     - #### Browser
@@ -583,6 +604,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [PostgreSQL Cheat Sheet By GoalKicker](https://books.goalkicker.com/PostgreSQLBook/PostgreSQLNotesForProfessionals.pdf)
       - [PostgreSQL CHEAT SHEET](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf)
       - [POSTGRESQL 8.3 PSQL CHEAT SHEET](http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf)
+    
+    - **Video**
+      - [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/)
+
+    - 
 
   - #### MySQL
     
