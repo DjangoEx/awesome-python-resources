@@ -346,7 +346,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme)
 
     - **Community**
-      - [FastApi Discord group](https://discord.gg/sATRypy9)
+      - [FastApi Discord group](https://discord.gg/VQjSZaeJmf)
       - [FastApi Gitter](https://gitter.im/tiangolo/fastapi)
   
   - #### Flask
