@@ -77,6 +77,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Redis](#redis)
     - [MemCached](#memcached)
     - [Apache Cassandra](#apache-cassandra)
+  - [ORM](#orm)
+    - [SQLAlchemy](#sqlalchemy)
+    - [Django ORM](#django-orm)
+    - [Tortoise](#tortoise)
+    - [Peewee](#peewee)
+    - [Pony ORM](#pony)
   - [Clean Code](#clean-code)
   - [Clean Architecture](#clean-architecture)
   - [Caching](#caching)
@@ -672,6 +678,61 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - ✅ [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882)
     - ✅ [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214)
     - [Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve Mcconnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+
+
+- ### ORM
+
+  - ### SQLAlchemy
+
+    - **Documentation**
+        - [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/14/)
+      
+    - **Tutorial**
+        - [SQLAlchemy tutorials](https://www.sqlalchemy.org/library.html#tutorials)
+        - [SQLAlchemy ORM tutorial](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)
+
+
+  - ### Django-ORM
+
+    - **Book**
+        - [Django ORM cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/) (by Agiliq)
+        
+    - **Documentation**
+        - [Django ORM documentation](https://docs.djangoproject.com/en/4.2/topics/db/)
+      
+    - **Tutorial**
+        - [Django ORM examples](https://github.com/django/django/tree/main/tests/queries) (in Django's official GitHub repository)
+        - [Using Django ORM Outside Of Framework](https://abdus.dev/posts/django-orm-standalone/)
+        - [How to use FastAPI with Django ORM and Admin](https://nsikakimoh.com/blog/fastapi-and-django-orm)
+
+  - ### Tortoise
+
+    - **Documentation**
+        - [Tortoise ORM documentation](https://tortoise-orm.readthedocs.io/en/latest/)
+      
+    - **Tutorial**
+      - [Tortoise ORM tutorial](https://tortoise-orm.readthedocs.io/en/latest/examples.html)
+
+  - ### Peewee
+  
+    - **Documentation**
+      - [Peewee documentation](http://docs.peewee-orm.com/en/latest/index.html)
+      
+    - **Tutorial**
+      - [Peewee tutorial](http://docs.peewee-orm.com/en/latest/peewee/quickstart.html)
+      - [Peewee ORM examples](https://github.com/coleifer/peewee/tree/master/examples)
+
+  - ### Pony
+
+    - **Documentation**
+      - [Pony ORM documentation](https://docs.ponyorm.org/)
+      
+    - **Tutorial**
+      - [Pony ORM tutorial](https://docs.ponyorm.org/tutorials/first-steps.html)
+      - [Pony ORM examples](https://github.com/ponyorm/pony/tree/master/examples)
+
+
+
 
 - ### Clean Architecture
 
