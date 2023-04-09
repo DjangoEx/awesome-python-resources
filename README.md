@@ -1,6 +1,4 @@
 <a id="top"></a>
-<br />
-
 
 # Python Engineer Roadmap [![README to PDF](https://github.com/DjangoEx/python-engineer-roadmap/actions/workflows/convert-to-pdf.yml/badge.svg)](README.pdf)
 
@@ -341,7 +339,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme)
 
     - **Community**
-      - [FastApi Discord group](https://discord.gg/sATRypy9)
+      - [FastApi Discord group](https://discord.gg/VQjSZaeJmf)
   
   - #### Flask
   
@@ -917,8 +915,4 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - #### Protocol
       - [Practical MQTT with Steve](http://www.steves-internet-guide.com/)
 
-### Where to Go Next?
-
-  (In Progress)
-
-<p align="right"><a href="#top"><img src="https://raw.githubusercontent.com/DjangoEx/python-engineer-roadmap/main/statics/top.png" width=50 height=50 /></a></p>
+##### [BACK TO TOP](#top)
