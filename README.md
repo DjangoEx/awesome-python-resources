@@ -64,6 +64,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Instagram](#instagram)
       - [Instagram-Scraper](#instagram-scraper)
       - [InstaPy](#instapy)
+      - [Instaloader](#instaloader)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
     - [General](#general)
@@ -546,6 +547,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Source](https://github.com/realsirjoe/instagram-scraper)
     - #### InstaPy  
       - [Source](https://github.com/InstaPy/InstaPy)
+    - ### Instaloader
+      - [Documentation](https://instaloader.github.io)
 
 ## Advanced Topics
 
