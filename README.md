@@ -43,12 +43,13 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Neural Networks](#neural-networks)
   - [Image Processing](#image-processing)
   - [DevOps](#devops)
-  - [Hacking](#hacking)
+  - [CyberSecurity](#cybersecurity)
   - [Algorithmic Trading](#algorithmic-trading)
-  - [Bot](#bot)
+  - [Automation](#automation)
     - [Web](#web)
       - [Selenium](#selenium)
       - [PlayWright](#playwright)
+      - [Scrapy](#scrapy)
       - [WebBot](#webbot)
       - [Browser](#mozbase)
     - [Telegram](#telegram)
@@ -64,6 +65,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Instagram](#instagram)
       - [Instagram-Scraper](#instagram-scraper)
       - [InstaPy](#instapy)
+    - [Robot](#robot)
+
+  - [Game Development](#game)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
     - [General](#general)
@@ -574,21 +578,57 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [GitLab CI CD Tutorial for Beginners](https://www.youtube.com/watch?v=qP8kir2GUgo)
 </details>
 
-<details>
-<summary id="hacking">Hacking</summary> <br> 
-
-- **Book**
-  - [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129)
-</details>
 
 <details>
 <summary id="algorithmic-trading">Algorithmic Trading</summary> <br> 
 
 </details>
 
-- ### Bot
+
+<details>
+<summary id="cybersecurity">CyberSecurity</summary> <br> 
+  
+- **Book**
+  - [Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
+  - [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129)
+
+
+- **Tutorials**
+  - [Python for Ethical Hacking: A Complete Course](https://www.udemy.com/course/python-for-ethical-hacking/)
+  - [Python for Cybersecurity](https://www.udemy.com/course/python-for-cybersecurity/)
+  - [Python Penetration Testing Essentials](https://www.packtpub.com/product/python-penetration-testing-essentials/9781784398583)
+  - [Zero to Hero: A Practical Network Penetration Testing Course Using Python](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
+
+
+- **Tools and Frameworks**
+  - [Scapy](https://scapy.net/)
+  - [OWASP ZAP](https://www.zaproxy.org/)
+
+
+</details>
+
+
+
+<details>
+<summary id="game">Game Development</summary> <br> 
+
+- **Library**
+  - [Pygame](https://www.pygame.org/news)
+
+- **Tutorial**
+  - [Pygame Tutorial for Beginners - Python Game Development Course](https://www.youtube.com/watch?v=FfWpgLFMI7w)
+
+- **Book**
+  - [Python Game Programming by Example](https://www.amazon.com/Python-Programming-Example-Alejandro-Rodas/dp/1785281534)
+
+</details>
+
+
+
+- ### Automation
+
   - #### Web
-  </details>
+
 
   <details>
   <summary id="selenium">Selenium</summary> <br> 
@@ -607,11 +647,33 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
   </details>
 
+
   <details>
   <summary id="playwright">PlayWright</summary> <br> 
 
     - [Source](https://github.com/microsoft/playwright-python)
     - [Documentation](https://playwright.dev/python/docs/intro)  
+  </details>
+
+  <details>
+  <summary id="selenium">Scrapy</summary> <br> 
+
+    - **Documentation**
+      - [Scrapy Documentation](https://docs.scrapy.org/en/latest/)
+      
+    - **Tutorials**
+      - [Scrapy Tutorial for Beginners](https://www.datacamp.com/community/tutorials/making-web-crawlers-scrapy-python)
+      - [Advanced Web Scraping with Python using Scrapy & Splash](https://www.udemy.com/course/advanced-web-scraping-with-python-using-scrapy-splash/)
+      
+    - **Books**
+      - [Learning Scrapy: Learn the art of efficienct web scraping and crawling with Python](https://www.amazon.com/Learning-Scrapy-Dimitrios-Kouzis-Loukas/dp/1784399787)
+      - [Web Scraping with Python: Collecting More Data from the Modern Web](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491985577)
+            
+    - **Frameworks and Libraries**
+      - [ScrapyRT: Real-time web scraping for Scrapy](https://github.com/scrapy/scrapyrt)
+      - [Splash: A Javascript rendering service for Scrapy](https://splash.readthedocs.io/en/stable/)
+      - [Portia: A visual scraping tool for Scrapy](https://github.com/scrapinghub/portia)
+
   </details>
 
   <details>
@@ -626,7 +688,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - [Source](https://github.com/nateshmbhat/webbot)
   </details>
-
 
 
   - #### Telegram
@@ -704,6 +765,18 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - [Source](https://github.com/InstaPy/InstaPy)
   </details>
+
+  <details>
+  <summary id="robot">Robot</summary> <br> 
+  
+    - [Robot Framework Official Website](https://robotframework.org/)
+    - [Robot Framework Official Repository](https://github.com/robotframework/robotframework)
+
+    - **Tutorials**
+      - [Robot Framework Test Automation - Level 2](https://www.udemy.com/course/robot-framework-2/)
+
+  </details>
+
 
 ## Advanced Topics
 
