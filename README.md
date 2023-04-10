@@ -129,8 +129,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - [Where to Go Next?](#where-to-go-next)
 
 ## Prerequisites
-
-- ### Algorithms and Data Structures
+<details>
+  <summary id="algorithms-and-data-structures">Algorithms and Data Structures</summary> <br> 
   
   - **Book**
     - ✅ [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
@@ -153,17 +153,23 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Cheat Sheet**
     - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
+</details>  
 
-- ### System Design
-  
+
+<details>
+  <summary id="system-design">System Design</summary> <br> 
+
   - **Book**
     - ✅ [System Design Interview by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
     - [System Design Interview: Volume 2 by Alex Xu & Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)
 
   - **Course**
     - [Educative - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+</details>
 
-- ### Git
+
+<details>
+  <summary id="git">Git</summary> <br> 
   
   - **Documentation**
     - [Git Documentation](https://git-scm.com/docs)
@@ -186,8 +192,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   
   - **Cheat Sheet**
     - [Git cheat sheet](https://wac-cdn.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf?cdnVersion=353)
+</details>
 
-- ### Operating System
+<details>
+  <summary id="operating-system">Operating System</summary> <br> 
 
   - **Book**
     - ✅ [LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 102 by Roderick W. Smith](https://www.amazon.com/LPIC-1-Linux-Professional-Institute-Certification/dp/1118495632)
@@ -204,11 +212,13 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Cheat Sheet**
     - [Linux commands cheat sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
+</details>
 
-- ### Virtual Environment
+
+<details>
+  <summary id="virtual-environment">Virtual Environment</summary> <br> 
 
   - **VENV**
-  
     - **Documentation**
       - [VENV Documentation](https://docs.python.org/3/library/venv.html)
   
@@ -227,8 +237,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Python-Poetry**
     - **Documentation**
       - [Python-Poetry Documentation](https://python-poetry.org/docs/)
+</details>
 
-- ### Python
+
+<details>
+  <summary id="python">Python</summary> <br> 
 
   - **Documentation**
     - [Python Documentation](https://docs.python.org/3/)
@@ -296,12 +309,19 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Cheat Sheet**
     - [Beginners Python cheat sheet](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf)
     - [Python cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
-  
+</details>
+
+
 ## Career Path
 
 - ### Backend
+  - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
+  <br>
 
-  - #### Django
+
+  <details>
+    <summary id="django">Django</summary> <br> 
+
     - **Documentation**
       - [Django Documentation](https://www.djangoproject.com/) 
       - [Django Tutorial - w3schools](https://www.w3schools.com/django/)
@@ -336,8 +356,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Django Models Cheat Sheet](https://cheatography.com/lewiseason/cheat-sheets/django-models/)
       - [Django Class Based Views Cheat Sheet](https://cheatography.com/papousekp/cheat-sheets/django-class-based-views/)
       - [Django Class Based Views Cheat Sheet 2](https://ccbv.co.uk/)
+  </details>
 
-  - #### FastAPI
+
+
+  <details>
+  <summary id="fastapi">Fast API</summary> <br> 
 
     - **Video**
       - [Python API Development - Comprehensive Course for Beginners by Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=0sOvCWFmrtA)
@@ -355,9 +379,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Community**
       - [FastApi Discord group](https://discord.gg/VQjSZaeJmf)
       - [FastApi Gitter](https://gitter.im/tiangolo/fastapi)
+  </details>
   
-  - #### Flask
-  
+
+  <details>
+  <summary id="flask">Flask</summary> <br>   
+
     - **Book**
       - [Flask Web Development: Developing Web Applications with Python](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
       - [Flask Framework Cookbook](https://www.amazon.de/Flask-Framework-Cookbook-techniques-development/dp/1789951291/)
@@ -372,8 +399,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Cheat Sheet**
       - [Flask Cheat Sheet and Quick Reference](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)
-
-  - #### Tornado
+  </details>
+  
+  
+  <details>
+  <summary id="tornado">Tornado</summary> <br> 
 
     - **Book**
       - [Introduction to Tornado by Michael Dory](https://www.amazon.com/Introduction-Tornado-Michael-Dory-2012-03-31/dp/B01FEK31OM)
@@ -385,8 +415,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Documentation**
       - [Tornado Document](https://www.tornadoweb.org/en/stable/)
+  </details>
 
-  - #### Web2Py
+
+  <details>
+  <summary id="web2py">Web2Py</summary> <br> 
 
     - **Documentation**
       - [Web2Py Document](https://web2py.readthedocs.io/en/latest/)
@@ -394,8 +427,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Book**
       - [Complete Reference Manual by Massimo Di Pierro](http://www.web2py.com/book)
       - [Killer Web Development by Marco Laspe](http://killer-web-development.com/)
-
-  - #### Sanic
+  </details>
+  
+  
+  <details>
+  <summary id="sanic">Sanic</summary> <br> 
 
     - **Documentation**
       - [Sanic Document](https://sanic.readthedocs.io/en/stable/index.html)
@@ -406,18 +442,27 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Video**
       - [Async Web Apps with Sanic by Dougal Matthews](https://www.youtube.com/watch?v=wb0lk4e9DEg)
+  </details>
 
-  - #### AIOHTTP
+
+  <details>
+  <summary id="aiohttp">AIOHTTP</summary> <br>
 
     - **Documentation**
       - [AIOHTTP Document](https://docs.aiohttp.org/en/stable/)
+  </details>
 
-  - #### Bottle
+
+  <details>
+  <summary id="bottle">Bottle</summary> <br> 
 
     - **Documentation**
       - [Bottle Document](https://bottlepy.org/docs/dev/)
+  </details>
 
-  - #### Dash
+
+  <details>
+  <summary id="dash">Dash</summary> <br>
 
     - **Documentation**
       - [Dash-Python Document](https://dash.plotly.com/introduction)
@@ -427,172 +472,269 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Template**
       - [Dash Clean Architecture Template](https://github.com/CzakoZoltan08/dash-clean-architecture-template)
-  
-  - #### BlackSheep
+  </details>
+
+
+  <details>
+  <summary id="blacksheep">BlackSheep</summary> <br>
 
     - **Documentation**
       - [BlackSheep Document](https://neoteroi.dev/blacksheep/)
 
-  - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
+  </details>
+
 
 - ### Data Science
 
-  - #### Data Analysis
+  <details>
+    <summary id="data-analysis">Data Analysis</summary> <br>
 
-    - ##### Numpy
-      - **Documentation**
-        - [Numpy Document](https://numpy.org/doc/stable/user/index.html)
-  
-    - ##### Scipy
+    <details>
+    <summary id="numpy"> Numpy</summary> <br>
 
-      - **Documentation**
-        - [Scipy Document](https://docs.scipy.org/doc/scipy/tutorial/index.html)
-  
-    - ##### Pandas
+    - **Documentation**
+      - [Numpy Document](https://numpy.org/doc/stable/user/index.html)
+    </details>
 
-      - **Documentation**
-        - [Pandas Document](https://pandas.pydata.org/docs/user_guide/index.html)
+    <details>
+    <summary id="scipy"> Scipy</summary> <br>
 
-  - #### Data Visualization
+    - **Documentation**
+      - [Scipy Document](https://docs.scipy.org/doc/scipy/tutorial/index.html)
+    </details>
 
-    - ##### Matplotlib
-
-      - **Documentation**
-        - [Matplotlib Document](https://matplotlib.org/stable/users/index.html)
-  
-    - ##### Plotly
-
-      - **Documentation**
-        - [Plotly Document](https://plotly.com/python-api-reference/)
+    <details>
+    <summary id="pandas"> Pandas</summary> <br>
 
 
-- ### Machine Learning
+    - **Documentation**
+      - [Pandas Document](https://pandas.pydata.org/docs/user_guide/index.html)
+    </details>
+  </details>
 
-  - **Video**
-    - [Machine Learning Course by Andrew Ng](https://coursera.org/learn/machine-learning)
 
-- ### Deep Learning
+  <details>
+    <summary id="data-visualization">Data Visualization</summary> <br>   
+    
+    <details>
+    <summary id="matplotlib"> Matplotlib</summary> <br> 
 
-  - **Video**
-    - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
-    - [AladdinPersson](https://www.youtube.com/c/AladdinPersson)
+    - **Documentation**
+      - [Matplotlib Document](https://matplotlib.org/stable/users/index.html)
+    </details>
 
-- ### Neural Networks
+    <details>
+    <summary id="plotly"> Plotly</summary> <br> 
 
-  - **Video**
-      - [Neural Networks and Calculus](https://www.youtube.com/c/3blue1brown)
+    - **Documentation**
+      - [Plotly Document](https://plotly.com/python-api-reference/)
+    </details>
+  </details>
 
-- ### Image Processing
 
-- ### DevOps
 
-  - **Community**
-    - [DevOps, SRE, & Infrastructure](https://discord.com/invite/VEEnHkPzY6)
+<details>
+<summary id="machine-learning">Machine Learning</summary> <br> 
 
-  - **CI/CD**
-    - [CI/CD Full Course | Continuous Integration And Continuous](https://www.youtube.com/watch?v=h9K1NnqwUvE)
-    - [GitLab CI CD Tutorial for Beginners](https://www.youtube.com/watch?v=qP8kir2GUgo)
+- **Video**
+  - [Machine Learning Course by Andrew Ng](https://coursera.org/learn/machine-learning)
+</details>
 
-- ### Hacking
 
-  - **Book**
-    - [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129)
+<details>
+<summary id="deep-learning">Deep Learning</summary> <br> 
 
-- ### Algorithmic Trading
+- **Video**
+  - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+  - [AladdinPersson](https://www.youtube.com/c/AladdinPersson)
+</details>
+
+<details>
+<summary id="neural-networks">Neural Networks</summary> <br> 
+
+- **Video**
+    - [Neural Networks and Calculus](https://www.youtube.com/c/3blue1brown)
+</details>
+
+<details>
+<summary id="image-processing">Image Processing</summary> <br> 
+
+</details>
+
+
+
+<details>
+<summary id="devops">DevOps</summary> <br> 
+
+- **Community**
+  - [DevOps, SRE, & Infrastructure](https://discord.com/invite/VEEnHkPzY6)
+
+- **CI/CD**
+  - [CI/CD Full Course | Continuous Integration And Continuous](https://www.youtube.com/watch?v=h9K1NnqwUvE)
+  - [GitLab CI CD Tutorial for Beginners](https://www.youtube.com/watch?v=qP8kir2GUgo)
+</details>
+
+<details>
+<summary id="hacking">Hacking</summary> <br> 
+
+- **Book**
+  - [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129)
+</details>
+
+<details>
+<summary id="algorithmic-trading">Algorithmic Trading</summary> <br> 
+
+</details>
 
 - ### Bot
   - #### Web
+  </details>
 
-    - #### Selenium
-      - [Selenium (Main Home)](https://github.com/SeleniumHQ/selenium)
-      - [CDP Documentation](https://chromedevtools.github.io/devtools-protocol/)
-      - [Source](https://github.com/SeleniumHQ/selenium/tree/trunk/py)
-      - [Documentation](https://www.selenium.dev/selenium/docs/api/py/)
-      - [Helium](https://github.com/mherrmann/selenium-python-helium)
-      - [Base](https://github.com/seleniumbase/SeleniumBase)
-      - [InstaPy](https://github.com/InstaPy/InstaPy)
-      - [AutoCrawler](https://github.com/YoongiKim/AutoCrawler)
-      - [Wire](https://github.com/wkeeling/selenium-wire)
-      - [Cucucumber](https://github.com/executeautomation/SeleniumWithCucucumber)
-      - [Requestium](https://github.com/tryolabs/requestium)
-      - [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
+  <details>
+  <summary id="selenium">Selenium</summary> <br> 
 
-    
-    - #### PlayWright
-      - [Source](https://github.com/microsoft/playwright-python)
-      - [Documentation](https://playwright.dev/python/docs/intro)  
-  
-  
+    - [Selenium (Main Home)](https://github.com/SeleniumHQ/selenium)
+    - [CDP Documentation](https://chromedevtools.github.io/devtools-protocol/)
+    - [Source](https://github.com/SeleniumHQ/selenium/tree/trunk/py)
+    - [Documentation](https://www.selenium.dev/selenium/docs/api/py/)
+    - [Helium](https://github.com/mherrmann/selenium-python-helium)
+    - [Base](https://github.com/seleniumbase/SeleniumBase)
+    - [InstaPy](https://github.com/InstaPy/InstaPy)
+    - [AutoCrawler](https://github.com/YoongiKim/AutoCrawler)
+    - [Wire](https://github.com/wkeeling/selenium-wire)
+    - [Cucucumber](https://github.com/executeautomation/SeleniumWithCucucumber)
+    - [Requestium](https://github.com/tryolabs/requestium)
+    - [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
+  </details>
 
-    - #### Browser
-      - [Source](https://wiki.mozilla.org/Auto-tools/Projects/Mozbase)
-      - [Documentation](https://firefox-source-docs.mozilla.org/mozbase/index.html)
-  
-  
-    - #### WebBot
-      - [Source](https://github.com/nateshmbhat/webbot)
-  
-  
+  <details>
+  <summary id="playwright">PlayWright</summary> <br> 
+
+    - [Source](https://github.com/microsoft/playwright-python)
+    - [Documentation](https://playwright.dev/python/docs/intro)  
+  </details>
+
+  <details>
+  <summary id="mozbase">Browser</summary> <br> 
+
+    - [Source](https://wiki.mozilla.org/Auto-tools/Projects/Mozbase)
+    - [Documentation](https://firefox-source-docs.mozilla.org/mozbase/index.html)
+  </details>
+
+  <details>
+  <summary id="webbot">WebBot</summary> <br> 
+
+    - [Source](https://github.com/nateshmbhat/webbot)
+  </details>
+
+
+
   - #### Telegram
-    - #### Telethon
-      - [Source](https://github.com/LonamiWebs/Telethon)
-      - [Documentation](https://docs.telethon.dev/)
-    
-    - #### Pygram
-      - [Source](https://github.com/pygram/pygram)
-      - [Documentation](https://pygram.readthedocs.io/en/latest/)
-    - #### Pyrogram
-      - [Source](https://github.com/pyrogram/pyrogram)
-      - [Documentation](https://docs.pyrogram.org/)
-    
-    - #### Python Telegram Bot
-      - [Source](https://github.com/python-telegram-bot/python-telegram-bot)
-      - [Documentation](https://python-telegram-bot.readthedocs.io/)
-    
-    - #### AIOGram
-      - [Source](https://github.com/aiogram/aiogram)
-      - [Documentation](https://docs.aiogram.dev/)
-    
-    - #### PyTelegramBotApi
-      - [Source](https://github.com/eternnoir/pyTelegramBotAPI)
-      - [Documentation](https://pytba.readthedocs.io/)
-    
-    - #### TeleBot
-      - [Source](https://github.com/KyleJamesWalker/telebot)
+
+
+  <details>
+  <summary id="telethon">Telethon</summary> <br>
+
+    - [Source](https://github.com/LonamiWebs/Telethon)
+    - [Documentation](https://docs.telethon.dev/)
+  </details>
+
+
+  <details>
+  <summary id="pygram">Pygram</summary> <br> 
+
+    - [Source](https://github.com/pygram/pygram)
+    - [Documentation](https://pygram.readthedocs.io/en/latest/)
+  </details>
+
+  <details>
+  <summary id="pyrogram">Pyrogram</summary> <br>  
+
+    - [Source](https://github.com/pyrogram/pyrogram)
+    - [Documentation](https://docs.pyrogram.org/)
+  </details>
+
+  <details>
+  <summary id="python-telegram-bot">Python Telegram Bot</summary> <br> 
   
+    - [Source](https://github.com/python-telegram-bot/python-telegram-bot)
+    - [Documentation](https://python-telegram-bot.readthedocs.io/)
+  </details>
+
+  <details>
+  <summary id="aiogram">AIOGram</summary> <br> 
+
+    - [Source](https://github.com/aiogram/aiogram)
+    - [Documentation](https://docs.aiogram.dev/)
+  </details>
+
+  <details>
+  <summary id="pytelegrambotapi">PyTelegramBotApi</summary> <br> 
+
+    - [Source](https://github.com/eternnoir/pyTelegramBotAPI)
+    - [Documentation](https://pytba.readthedocs.io/)
+  </details>
+
+  <details>
+  <summary id="telebot">TeleBot</summary> <br> 
+
+    - [Source](https://github.com/KyleJamesWalker/telebot)
+  </details>
+
+
   - #### Discord
-    - #### DiscordPy
-      - [Source](https://github.com/Rapptz/discord.py)
-      - [Documentation](https://discordpy.readthedocs.io)
+  <details>
+  <summary id="discordpy">DiscordPy</summary> <br>
+
+    - [Source](https://github.com/Rapptz/discord.py)
+    - [Documentation](https://discordpy.readthedocs.io)
+  </details>
+
 
   - #### Instagram
-    - #### Instagram-Scraper
-      - [Source](https://github.com/realsirjoe/instagram-scraper)
-    - #### InstaPy  
-      - [Source](https://github.com/InstaPy/InstaPy)
+
+  <details>
+  <summary id="instagram-scraper">Instagram-Scraper</summary> <br> 
+
+    - [Source](https://github.com/realsirjoe/instagram-scraper)
+  </details>
+
+  <details>
+  <summary id="instapy">InstaPy</summary> <br>   
+
+    - [Source](https://github.com/InstaPy/InstaPy)
+  </details>
 
 ## Advanced Topics
 
   ⚠️ The following topics don't have any order or priority of learning.\
   🔥 Choose topics that you are **interested in** or **suit your needs**.
 
+
 - ### Databases
 
-  - #### General
-  
+  <details>
+  <summary id="general">General</summary> <br>
+
     - **Book**
       - ✅ [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
       - [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/)
+  </details>
 
-  - #### SQLite
-    
+
+  <details>
+  <summary id="sqlite">SQLite</summary> <br> 
+
     - **Documentation**
       - [SQLite Documentation](https://www.sqlite.org/docs.html)
     
     - **Tutorials**
       - [SQLite Tutorial](https://www.sqlitetutorial.net/)
+  </details>
 
-  - #### PostgreSQL
+
+  <details>
+  <summary id="postgresql">PostgreSQL</summary> <br> 
     
     - **Documentation**
       - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
@@ -610,9 +752,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     
     - **Video**
       - [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/)
+  </details>
 
-  - #### MySQL
-    
+
+  <details>
+  <summary id="mysql">MySQL</summary> <br>
+
     - **Documentation**
       - [MySQL Documentation](https://dev.mysql.com/doc/)
     
@@ -621,8 +766,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Cheat Sheet**
       - [MySQL Cheat Sheet by GoalKicker](https://books.goalkicker.com/MySQLBook/MySQLNotesForProfessionals.pdf)
+  </details>
 
-  - #### Oracle
+
+  <details>
+  <summary id="oracle">Oracle</summary> <br> 
     
     - **Documentation**
       - [Oracle Documentation](https://docs.oracle.com/en/database/index.html)
@@ -632,8 +780,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Cheat Sheet**
       - [Oracle Cheat Sheet by GoalKicker](https://books.goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf)
+  </details>
 
-  - #### MongoDB
+  <details>
+  <summary id="mongodb">MongoDB</summary> <br> 
 
     - **Documentation**
       - [MongoDB Documentation](https://www.mongodb.com/docs/)
@@ -643,9 +793,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Cheat Sheet**
       - [MongoDB Cheat Sheet by GoalKicker](https://books.goalkicker.com/MongoDBBook/MongoDBNotesForProfessionals.pdf)
+  </details>
 
-  - #### Redis
-
+  <details>
+  <summary id="redis">Redis</summary> <br>
+  
     - **Documentation**
       - [Redis Documentation](https://redis.io/docs/)
     
@@ -659,28 +811,38 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Cheat Sheet**
       - [Redis Cheat Sheet 1](https://cheatography.com/tasjaevan/cheat-sheets/redis/)
       - [Redis Cheat Sheet 2](https://masonoise.files.wordpress.com/2010/03/redis-cheatsheet-v1.pdf)
+  </details>
 
-  - #### MemCached
+  <details>
+  <summary id="memcached">MemCached</summary> <br> 
 
     - **Documentation**
       - [MemCached Wiki](https://github.com/memcached/memcached/wiki)
+  </details>
 
-  - #### Apache Cassandra
+  <details>
+  <summary id="apache-cassandra">Apache Cassandra</summary> <br>
 
     - **Documentation**
       - [Apache Cassandra Documentation](https://cassandra.apache.org/_/index.html)
+  </details>
 
-- ### Clean Code
+
+<details>
+<summary id="clean-code">Clean Code</summary> <br>
 
   - **Book**
     - ✅ [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882)
     - ✅ [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214)
     - [Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve Mcconnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 
+</details>
+
 
 - ### ORM
 
-  - ### SQLAlchemy
+  <details>
+  <summary id="sqlalchemy">SQLAlchemy</summary> <br>
 
     - **Documentation**
         - [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/14/)
@@ -689,8 +851,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
         - [SQLAlchemy tutorials](https://www.sqlalchemy.org/library.html#tutorials)
         - [SQLAlchemy ORM tutorial](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)
 
+  </details>
 
-  - ### Django-ORM
+  <details>
+  <summary id="django-orm">Django-ORM</summary>
 
     - **Book**
         - [Django ORM cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/) (by Agiliq)
@@ -702,16 +866,20 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
         - [Django ORM examples](https://github.com/django/django/tree/main/tests/queries) (in Django's official GitHub repository)
         - [Using Django ORM Outside Of Framework](https://abdus.dev/posts/django-orm-standalone/)
         - [How to use FastAPI with Django ORM and Admin](https://nsikakimoh.com/blog/fastapi-and-django-orm)
+  </details>
 
-  - ### Tortoise
+  <details>
+  <summary id="tortoise">Tortoise</summary>
 
     - **Documentation**
         - [Tortoise ORM documentation](https://tortoise-orm.readthedocs.io/en/latest/)
       
     - **Tutorial**
       - [Tortoise ORM tutorial](https://tortoise-orm.readthedocs.io/en/latest/examples.html)
+  </details>
 
-  - ### Peewee
+  <details>
+  <summary id="peewee">Peewee</summary>
   
     - **Documentation**
       - [Peewee documentation](http://docs.peewee-orm.com/en/latest/index.html)
@@ -719,8 +887,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Tutorial**
       - [Peewee tutorial](http://docs.peewee-orm.com/en/latest/peewee/quickstart.html)
       - [Peewee ORM examples](https://github.com/coleifer/peewee/tree/master/examples)
+  </details>
 
-  - ### Pony
+  <details>
+  <summary id="pony">Pony</summary>
 
     - **Documentation**
       - [Pony ORM documentation](https://docs.ponyorm.org/)
@@ -729,6 +899,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Pony ORM tutorial](https://docs.ponyorm.org/tutorials/first-steps.html)
       - [Pony ORM examples](https://github.com/ponyorm/pony/tree/master/examples)
 
+  </details>
 
 
 
@@ -736,39 +907,56 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   (In Progress)
 
-- ### Caching
+
+
+<details>
+<summary id="caching">Caching</summary>
 
   - **Article**
     - [Caching in django with redis by Real Python](https://realpython.com/caching-in-django-with-redis/)
 
   - **Video**
     - [Redis Course - In-Memory Database Tutorial](https://www.youtube.com/watch?v=XCsS_NVAa1g)
+</details>
+
+
 
 - ### Testing
 
-  - #### Python `unittest` package
+  <details>
+  <summary id="python-unittest-package">Python `unittest` package</summary> <br>
   
     - **Documentation**
       - [Testing in Python](https://docs.python.org/3/library/unittest.html)
       - [Getting Started With Testing in Python](https://realpython.com/python-testing/)
-  
-  - #### `PyTest` Testing Package
+  </details>
+
+
+  <details>
+  <summary id="pytest-testing-package">`PyTest` Testing Package</summary> <br>
     
     - **Documentation**
       - [Official PyTest Documentation](https://docs.pytest.org/en/stable/index.html)
+  </details>
 
-  - #### DRF Test Framework
+
+  <details>
+  <summary id="drf-test-framework">DRF Test Framework</summary> <br>
 
     - **Documentation**
       - [Testing - Django REST framework](https://www.django-rest-framework.org/api-guide/testing/)
 
     - **Video**
       - [Pytest Django and Django Rest Framework](https://www.youtube.com/watch?v=KIIdbVs7e8I&list=PLP1DxoSC17LZTTzgfq0Dimkm6eWJQC9ki)
+  </details>
+
+
 
 - ### Container Platforms
 
-  - #### Docker
-  
+  <details>
+  <summary id="docker">Docker</summary> <br>
+
     - **Documentation**
       - [Docker Documentation](https://docs.docker.com/)
 
@@ -783,9 +971,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Cheat Sheet**
       - [Docker Cheat Sheet](https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf)
+  </details>
 
-  - #### Kubernetes
-  
+
+  <details>
+  <summary id="kubernetes">Kubernetes</summary> <br>
+
     - **Documentation**
       - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 
@@ -798,57 +989,84 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Community**
       - [Kubernetes Discord group](https://discord.gg/k8s-at-home)
+  </details>
+
+
 
 - ### Programming Paradigms
 
-  - #### Object-Oriented Programming
 
-      - **Tutorial**
-        - [Python Classes and Objects by W3Schools (Beginners)](https://www.w3schools.com/python/python_classes.asp)
-        - [Python Object Oriented Programming by programiz.com (Beginners)](https://www.programiz.com/python-programming/object-oriented-programming)
+  <details>
+  <summary id="object-oriented-programming">Object-Oriented Programming</summary> <br>
 
-      - **Article**
-        - [Python OOPs Concepts 3 by GeeksForGeeks (Beginners)](https://www.geeksforgeeks.org/python-oops-concepts/)
-        - [Object-Oriented Programming (OOP) in Python 3 by David Amos (Intermediate)](https://realpython.com/python3-object-oriented-programming/#:~:text=Programming%20with%20Python.-,What%20Is%20Object%2DOriented%20Programming%20in%20Python%3F,are%20bundled%20into%20individual%20objects.)
-
-      - **Book**
-        - [Python Object-Oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)
-        
-
-  - #### Functional Programming
+    - **Tutorial**
+      - [Python Classes and Objects by W3Schools (Beginners)](https://www.w3schools.com/python/python_classes.asp)
+      - [Python Object Oriented Programming by programiz.com (Beginners)](https://www.programiz.com/python-programming/object-oriented-programming)
 
     - **Article**
+      - [Python OOPs Concepts 3 by GeeksForGeeks (Beginners)](https://www.geeksforgeeks.org/python-oops-concepts/)
+      - [Object-Oriented Programming (OOP) in Python 3 by David Amos (Intermediate)](https://realpython.com/python3-object-oriented-programming/#:~:text=Programming%20with%20Python.-,What%20Is%20Object%2DOriented%20Programming%20in%20Python%3F,are%20bundled%20into%20individual%20objects.)
+
+    - **Book**
+      - [Python Object-Oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)
+      
+  </details>
+
+
+  <details>
+  <summary id="functional-programming">Functional Programming</summary> <br>
+    
+    - **Article**
       - [Functional Programming in Python](https://realpython.com/python-functional-programming/)
+
+  </details>
+
 
 
 - ### Architectural Patterns
 
-  - #### Microservice
+  <details>
+  <summary id="microservice">Microservice</summary> <br> 
 
     - **Book**
       - [Microservice Architecture](https://www.oreilly.com/library/view/microservice-architecture/9781491956328)
       - [Building Microservices, 2nd Edition](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
+  </details>
 
-  - #### Enterprise Applications
+  <details>
+  <summary id="enterprise-applications">Enterprise Applications</summary> <br>
 
     - **Book**
       - [Patterns of Enterprise Application Architecture](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
       - [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.de/-/en/Gregor-Hohpe/dp/0321200683/)
+  </details>
+
+
 
 - ### Design Principles
 
-  - #### SOLID
+
+  <details>
+  <summary id="solid">SOLID</summary> <br>
 
     - **Article**
         - [SOLID Principles In Python by Philip Norton](https://www.hashbangcode.com/article/solid-principles-python)
         - [Uncle Bob's SOLID principles made easy 🍀 - in Python!](https://www.youtube.com/watch?v=pTB30aXS77U)
+  </details>
 
-  - #### KISS
+  <details>
+  <summary id="kiss">KISS</summary> <br>
 
-  - #### DRY
+  </details>
+
+  <details>
+  <summary id="dry">DRY</summary> <br>
+
+  </details>
 
 
-- ### Design Patterns
+<details>
+<summary id="design-patterns">Design Patterns</summary> <br>
 
   - **Book**
     - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
@@ -858,11 +1076,16 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Video**
     - [Design Patterns Course by Mosh Hamedani](https://codewithmosh.com/p/design-patterns)
     - [Become a better software developer](https://www.youtube.com/c/ArjanCodes)
+  </details>
+
+
+
 
 - ### Message Brokers
 
-  - #### RabbitMQ
-
+  <details>
+  <summary id="rabbitmq">RabbitMQ</summary> <br>
+    
     - **Documentation**
       - [RabbitMQ Documentation](https://www.rabbitmq.com/documentation.html)
 
@@ -877,43 +1100,64 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Cheat Sheet**
       - [RabbitMQ Cheat Sheet 1](https://cheatography.com/francisuk/cheat-sheets/rabbitmq/pdf/)
       - [RabbitMQ Cheat Sheet 2](https://lzone.de/cheat-sheet/RabbitMQ)
+  </details>
 
-  - #### Apache Kafka
- 
+  <details>
+  <summary id="apache-kafka">Apache Kafka</summary> <br>
+   
     - **Documentation**
       - [Apache Kafka Documentation](https://kafka.apache.org/documentation/)
 
     - **Cheat Sheet**
       - [Apache Kafka Cheat Sheet 1](https://gist.github.com/sahilsk/d2a6ec384f5f2333e3fef40a581a97e1)
       - [Apache Kafka Cheat Sheet 2](https://medium.com/@TimvanBaarsen/apache-kafka-cli-commands-cheat-sheet-a6f06eac01b)
+  </details>
 
+  
+  
+   
 - ### WSGI Servers
 
-  - #### Gunicorn
-  
+  <details>
+  <summary id="gunicorn">Gunicorn</summary> <br>
+    
     - **Documentation**
       - [Gunicorn Documentation](https://docs.gunicorn.org/en/stable/)
+  </details>
 
-  - #### uWSGI
-  
+  <details>
+  <summary id="uwsgi">uWSGI</summary> <br>
+    
     - **Documentation**
       - [uWSGI Documentation](https://uwsgi-docs.readthedocs.io/en/latest/)
+  </details>
 
-- ### ASGI Servers
-
-  - #### Uvicorn
   
+   
+- ### ASGI Servers
+  </details>
+
+  <details>
+  <summary id="uvicorn">Uvicorn</summary> <br>
+    
     - **Documentation**
       - [Uvicorn Documentation](https://www.uvicorn.org/)
+  </details>
+
+  <details>
+  <summary id="starlette">Starlette</summary> <br>
     
-  - #### Starlette
-  
     - **Documentation**
       - [Starlette Documentation](https://www.starlette.io/)
+  </details>
 
+  
+   
 - ### Web Servers
+  </details>
 
-  - #### Nginx
+  <details>
+  <summary id="nginx">Nginx</summary> <br>
   
     - **Documentation**
       - [NGINX Documentation](http://nginx.org/en/docs/)
@@ -923,9 +1167,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Cheat Sheet**
       - [NGINX CHEAT SHEET](https://kiza.dev/notes/nginx-cheat-sheet)
+  </details>
 
-  - #### Apache
-  
+  <details>
+  <summary id="apache">Apache</summary> <br>
+    
     - **Documentation**
       - [Apache Documentation](https://httpd.apache.org/docs/)
 
@@ -934,38 +1180,56 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Cheat Sheet**
       - [Apache Cheat Sheet](http://www.cheat-sheets.org/saved-copy/apache-refcard-a4.pdf)
+  </details>
 
+  
+   
 - ### API
 
-  - #### Design
+
+  <details>
+  <summary id="design">Design</summary> <br>
   
     - **Guidelines and Best Practices**
       - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
       - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
+  </details>
 
-  - #### Security
-
+  <details>
+  <summary id="security">Security</summary> <br>
+  
     - **Checklist**
       - [API Security Checklist](https://github.com/bobycloud/API-Security-Checklist/blob/master/README-en.md)
+  </details>
 
+  
+   
 - ### Availability and Reliability
 
   (In Progress)
-
+  
+   
 - ### Distributed Systems
 
   (In Progress)
-
+  
+   
 - ### Reactive Systems
 
   (In Progress)
 
-- ### Refactoring
 
+<details>
+<summary id="refactoring">Refactoring</summary> <br>  
+   
   - **Video**
     - [Dive Into REFACTORING](https://refactoring.guru/refactoring/course)
+</details>
 
-- ### Security
+  
+  
+<details>
+<summary id="security">Security</summary> <br>  
 
   - **Book**
     - [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
@@ -980,23 +1244,35 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
     - [OWASP Top 10 for Web with live training](https://application.security/free/owasp-top-10)
     - [SANS SWAT Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)
+  </details>
 
+   
 - ### Monitoring
   
   (In Progress)
 
-- ### Soft Skill
+
+
+<details>
+<summary id="soft-skill">Soft Skill</summary> <br>
 
   - **Book**
     - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+  </details>
 
+  
+   
 - ### Public Cloud
 
   (In Progress)
-  
-- ### IoT
+  </details>
 
-    - #### Concept
+     
+- ### IoT
+     
+  <details>
+  <summary id="concept">Concept</summary> <br>
+
     - #### Protocol
       - [Practical MQTT with Steve](http://www.steves-internet-guide.com/)
 
