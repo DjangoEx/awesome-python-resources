@@ -39,6 +39,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Plotly](#plotly)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
+  - [Reinforcement Learning](#reinforcement-learning)
   - [Neural Networks](#neural-networks)
   - [Image Processing](#image-processing)
   - [DevOps](#devops)
@@ -455,8 +456,16 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Video**
     - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+    - [MIT-Intoduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
     - [AladdinPersson](https://www.youtube.com/c/AladdinPersson)
+    
 
+- ### Reinforcement Learning
+  - **Video**
+    - [Foundations of Deep RL](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
+    - [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
+    - [Stanford-Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+    
 - ### Neural Networks
 
   - **Video**
