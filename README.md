@@ -548,7 +548,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - #### InstaPy  
       - [Source](https://github.com/InstaPy/InstaPy)
     - ### Instaloader
-      - [Documentation](https://instaloader.github.io)
+      - [Source](https://github.com/instaloader/instaloader)
 
 ## Advanced Topics
 
