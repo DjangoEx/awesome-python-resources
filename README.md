@@ -69,6 +69,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Video**
     - [Data Structures And Algorithms Course by Mosh Hamedani](https://codewithmosh.com/p/data-structures-algorithms)
+    - [Algorithms and Data Structures for Beginners by NeetCode](https://neetcode.io/courses/dsa-for-beginners/0)
+    - [Advanced Algorithms by NeetCode](https://neetcode.io/courses/advanced-algorithms/0)
 
   - **Platform**
     - ✅ [LeetCode](https://leetcode.com/)
@@ -91,6 +93,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Course**
     - [Educative - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+    - [NeetCode - System Design for Beginners](https://neetcode.io/courses/system-design-for-beginners/0)
+    - [NeetCode - System Design Interview](https://neetcode.io/courses/system-design-interview/0)
 
 - ### Git
   
