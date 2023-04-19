@@ -1,6 +1,4 @@
 <a id="top"></a>
-<br />
-
 
 # Python Engineer Roadmap [![README to PDF](https://github.com/DjangoEx/python-engineer-roadmap/actions/workflows/convert-to-pdf.yml/badge.svg)](README.pdf)
 
@@ -22,23 +20,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Python](#python)
 - [Career Path](#career-path)
   - [Backend](#backend)
-    - [Django](#django)
-    - [FastAPI](#fastapi)
-    - [Flask](#flask)
-    - [Tornado](#tornado)
-    - [Web2Py](#web2py)
-    - [Sanic](#sanic)
-    - [AIOHTTP](#aiohttp)
-    - [Bottle](#bottle)
-    - [Dash](#dash)
   - [Data Science](#data-science)
-    - [Data Analysis](#data-analysis)
-      - [Numpy](#numpy)
-      - [Scipy](#scipy)
-      - [Pandas](#pandas)
-    - [Data Visualization](#data-visualization)
-      - [Matplotlib](#matplotlib)
-      - [Plotly](#plotly)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
   - [Neural Networks](#neural-networks)
@@ -47,71 +29,23 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Hacking](#hacking)
   - [Algorithmic Trading](#algorithmic-trading)
   - [Bot](#bot)
-    - [Web](#web)
-      - [Selenium](#selenium)
-      - [WebBot](#webbot)
-      - [Browser](#mozbase)
-    - [Telegram](#telegram)
-      - [Telethon](#telethon)
-      - [Pygram](#pygram)
-      - [Pyrogram](#pyrogram)
-      - [Python Telegram Bot](#python-telegram-bot)
-      - [AIOGram](#aiogram)
-      - [PyTelegramBotApi](#pytelegrambotapi)
-      - [TeleBot](#telebot)
-    - [Discord](#discord)
-      - [DiscordPy](#discordpy)
-    - [Instagram](#instagram)
-      - [Instagram-Scraper](#instagram-scraper)
-      - [InstaPy](#instapy)
-      - [Instaloader](#instaloader)
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
-    - [General](#general)
-    - [SQLite](#sqlite)
-    - [PostgreSQL](#postgresql)
-    - [MySQL](#mysql)
-    - [Oracle](#oracle)
-    - [MongoDB](#mongodb)
-    - [Redis](#redis)
-    - [MemCached](#memcached)
-    - [Apache Cassandra](#apache-cassandra)
+  - [ORM](#orm)
   - [Clean Code](#clean-code)
   - [Clean Architecture](#clean-architecture)
   - [Caching](#caching)
   - [Testing](#testing)
-    - [Python `unittest` Package](#python-unittest-package)
-    - [`PyTest` Testing Package](#pytest-testing-package)
-    - [DRF Test Framework](#drf-test-framework)
   - [Container Platforms](#container-platforms)
-    - [Docker](#docker)
-    - [Kubernetes](#kubernetes)
   - [Programming Paradigms](#programming-paradigms)
-    - [Object-Oriented Programming](#object-oriented-programming)
-    - [Functional Programming](#functional-programming)
   - [Architectural Patterns](#architectural-patterns)
-    - [Microservice](#microservice)
-    - [Enterprise Applications](#enterprise-applications)
   - [Design Principles](#design-principles)
-    - [SOLID](#solid)
-    - [KISS](#kiss)
-    - [DRY](#dry)
   - [Design Patterns](#design-patterns)
   - [Message Brokers](#message-brokers)
-    - [RabbitMQ](#rabbitmq)
-    - [Apache Kafka](#apache-kafka)
   - [WSGI Servers](#wsgi-servers)
-    - [Gunicorn](#gunicorn)
-    - [uWSGI](#uwsgi)
   - [ASGI Servers](#asgi-servers)
-    - [Uvicorn](#uvicorn)
-    - [Starlette](#starlette)
   - [Web Servers](#web-servers)
-    - [Nginx](#nginx)
-    - [Apache](#apache)
   - [API](#api)
-    - [Design](#design)
-    - [Security](#security)
   - [Availability and Reliability](#availability-and-reliability)
   - [Distributed Systems](#distributed-systems)
   - [Reactive Systems](#reactive-systems)
@@ -256,11 +190,13 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Video**
       - [Python Intermediate Tutorial by NeuralNine](https://www.youtube.com/playlist?list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1)
       - [Intermediate Python Tutorials by Tech with Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv) 
+      - [Python3: Variables, Functions and Functional Programming, Closures, Decorators, Modules and Packages](https://www.udemy.com/course/python-3-deep-dive-part-2/)
   
     - **Platform**
       - [GeeksForGeeks](https://www.geeksforgeeks.org/python-programming-language)
       - [Programiz](https://www.programiz.com/python-programming)
       - [Scaler Topics](https://www.scaler.com/topics/python/)
+    
 
   - **Advanced**
     - **Book**
@@ -274,7 +210,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Python Notes for Professionals](https://books.goalkicker.com/PythonBook/)
 
     - **Video**
-      - [Python3: Deep Dive (4 Parts)](https://www.udemy.com/course/python-3-deep-dive-part-1/)
+      - ✅ [Python3: Deep dive Iteration, Generators](https://www.udemy.com/course/python-3-deep-dive-part-2/)
+      - ✅ [Python3: Deep dive Dictionaries, Sets, Related Data Structures, Serialization/Deserialization](https://www.udemy.com/course/python-3-deep-dive-part-3/)
+      - ✅ [Python3: Deep dive Object Oriented Programming (OOP)](https://www.udemy.com/course/python-3-deep-dive-part-4/)
 
     - **Platform**
       - ✅ [RealPython](https://realpython.com/)
@@ -333,6 +271,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Video**
       - [Python API Development - Comprehensive Course for Beginners by Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=0sOvCWFmrtA)
       - [FastAPI course by testdriven.io & talkpython.fm](https://testdriven.io/talkpython/)
+      - [FastAPI - The Complete Course 2023 (Beginner + Advanced)](https://www.udemy.com/course/fastapi-the-complete-course/)
+      - [Microservice Architecture and System Design with Python & Kubernetes – Full Course](https://www.youtube.com/watch?v=hmkF77F9TLw)
 
     - **Documentation**
       - [FastAPI documentation](https://fastapi.tiangolo.com)
@@ -342,7 +282,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme)
 
     - **Community**
-      - [FastApi Discord group](https://discord.gg/sATRypy9)
+      - [FastApi Discord group](https://discord.gg/VQjSZaeJmf)
+      - [FastApi Gitter](https://gitter.im/tiangolo/fastapi)
   
   - #### Flask
   
@@ -415,6 +356,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Template**
       - [Dash Clean Architecture Template](https://github.com/CzakoZoltan08/dash-clean-architecture-template)
+  
+  - #### BlackSheep
+
+    - **Documentation**
+      - [BlackSheep Document](https://neoteroi.dev/blacksheep/)
 
   - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
 
@@ -488,6 +434,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - #### Selenium
       - [Selenium (Main Home)](https://github.com/SeleniumHQ/selenium)
+      - [CDP Documentation](https://chromedevtools.github.io/devtools-protocol/)
       - [Source](https://github.com/SeleniumHQ/selenium/tree/trunk/py)
       - [Documentation](https://www.selenium.dev/selenium/docs/api/py/)
       - [Helium](https://github.com/mherrmann/selenium-python-helium)
@@ -498,6 +445,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Cucucumber](https://github.com/executeautomation/SeleniumWithCucucumber)
       - [Requestium](https://github.com/tryolabs/requestium)
       - [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
+
+    
+    - #### PlayWright
+      - [Source](https://github.com/microsoft/playwright-python)
+      - [Documentation](https://playwright.dev/python/docs/intro)  
   
   
 
@@ -586,6 +538,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [PostgreSQL Cheat Sheet By GoalKicker](https://books.goalkicker.com/PostgreSQLBook/PostgreSQLNotesForProfessionals.pdf)
       - [PostgreSQL CHEAT SHEET](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/PostgreSQL-Cheat-Sheet.pdf)
       - [POSTGRESQL 8.3 PSQL CHEAT SHEET](http://www.postgresonline.com/downloads/special_feature/postgresql83_psql_cheatsheet.pdf)
+    
+    - **Video**
+      - [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/)
 
   - #### MySQL
     
@@ -652,6 +607,62 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - ✅ [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882)
     - ✅ [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214)
     - [Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve Mcconnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+    - [Clean Python: Elegant Coding in Python by Sunil Kapil](https://www.amazon.com/Clean-Python-Elegant-Coding/dp/1484248775)
+
+
+- ### ORM
+
+  - ### SQLAlchemy
+
+    - **Documentation**
+        - [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/14/)
+      
+    - **Tutorial**
+        - [SQLAlchemy tutorials](https://www.sqlalchemy.org/library.html#tutorials)
+        - [SQLAlchemy ORM tutorial](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)
+
+
+  - ### Django-ORM
+
+    - **Book**
+        - [Django ORM cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/) (by Agiliq)
+        
+    - **Documentation**
+        - [Django ORM documentation](https://docs.djangoproject.com/en/4.2/topics/db/)
+      
+    - **Tutorial**
+        - [Django ORM examples](https://github.com/django/django/tree/main/tests/queries) (in Django's official GitHub repository)
+        - [Using Django ORM Outside Of Framework](https://abdus.dev/posts/django-orm-standalone/)
+        - [How to use FastAPI with Django ORM and Admin](https://nsikakimoh.com/blog/fastapi-and-django-orm)
+
+  - ### Tortoise
+
+    - **Documentation**
+        - [Tortoise ORM documentation](https://tortoise-orm.readthedocs.io/en/latest/)
+      
+    - **Tutorial**
+      - [Tortoise ORM tutorial](https://tortoise-orm.readthedocs.io/en/latest/examples.html)
+
+  - ### Peewee
+  
+    - **Documentation**
+      - [Peewee documentation](http://docs.peewee-orm.com/en/latest/index.html)
+      
+    - **Tutorial**
+      - [Peewee tutorial](http://docs.peewee-orm.com/en/latest/peewee/quickstart.html)
+      - [Peewee ORM examples](https://github.com/coleifer/peewee/tree/master/examples)
+
+  - ### Pony
+
+    - **Documentation**
+      - [Pony ORM documentation](https://docs.ponyorm.org/)
+      
+    - **Tutorial**
+      - [Pony ORM tutorial](https://docs.ponyorm.org/tutorials/first-steps.html)
+      - [Pony ORM examples](https://github.com/ponyorm/pony/tree/master/examples)
+
+
+
 
 - ### Clean Architecture
 
@@ -734,6 +745,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
       - **Book**
         - [Python Object-Oriented Programming](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852/ref=pd_sbs_sccl_2_2/138-1551814-9810765?pd_rd_w=jzyei&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=MFK3P1Y675XM2K837YAX&pd_rd_r=392af586-64f4-4790-83f3-4b2ba1954b3d&pd_rd_wg=0Wk4G&pd_rd_i=1789615852&psc=1)
+        
 
   - #### Functional Programming
 
@@ -920,8 +932,4 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - #### Protocol
       - [Practical MQTT with Steve](http://www.steves-internet-guide.com/)
 
-### Where to Go Next?
-
-  (In Progress)
-
-<p align="right"><a href="#top"><img src="https://raw.githubusercontent.com/DjangoEx/python-engineer-roadmap/main/statics/top.png" width=50 height=50 /></a></p>
+##### [BACK TO TOP](#top)
