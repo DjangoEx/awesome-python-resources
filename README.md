@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-# Python Engineer Roadmap [![README to PDF](https://github.com/DjangoEx/python-engineer-roadmap/actions/workflows/convert-to-pdf.yml/badge.svg)](README.pdf)
+# Python Engineer Roadmap [![README to PDF](https://github.com/DjangoEx/awesome-python-resources/actions/workflows/convert-to-pdf.yml/badge.svg)](README.pdf)
 
 [Python](https://www.python.org/) can be used in a lot of computer science fields. In this repository, we have collected resources for each field of computer science that are related to Python.\
 **Not sure which source to choose?** You can follow the resources marked with a ✅ symbol, they are highly recommended by the community.
