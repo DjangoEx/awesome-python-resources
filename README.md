@@ -499,6 +499,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Source](https://github.com/realsirjoe/instagram-scraper)
     - #### InstaPy  
       - [Source](https://github.com/InstaPy/InstaPy)
+    - ### Instaloader
+      - [Source](https://github.com/instaloader/instaloader)
 
 ## Advanced Topics
 
