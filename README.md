@@ -261,7 +261,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Django Telegram group](https://t.me/django)
 
     - **Cheat Sheet**
-      - [Beginners Django cheat sheet](https://edu.anarcho- copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf)
+      - [Beginners Django cheat sheet](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf)
       - [Django Cheat Sheet](https://cheatography.com/ogr/cheat-sheets/django/)
       - [Django Models Cheat Sheet](https://cheatography.com/lewiseason/cheat-sheets/django-models/)
       - [Django Class Based Views Cheat Sheet](https://cheatography.com/papousekp/cheat-sheets/django-class-based-views/)
