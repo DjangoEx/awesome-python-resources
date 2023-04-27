@@ -81,6 +81,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Repo**
     - ✅ [Coding University](https://github.com/jwasham/coding-interview-university)
+    - [Algorithm solution and summary of Grokking book](https://github.com/msdundar/notes-algorithms)
 
   - **Cheat Sheet**
     - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
@@ -227,7 +228,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Python Telegram group](https://t.me/Python)
 
   - **Cheat Sheet**
-    - [Beginners Python cheat sheet](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf)
     - [Python cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
   
 ## Career Path
@@ -265,6 +265,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Django Telegram group](https://t.me/django)
 
     - **Cheat Sheet**
+      - [Beginners Django cheat sheet](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf)
       - [Django Cheat Sheet](https://cheatography.com/ogr/cheat-sheets/django/)
       - [Django Models Cheat Sheet](https://cheatography.com/lewiseason/cheat-sheets/django-models/)
       - [Django Class Based Views Cheat Sheet](https://cheatography.com/papousekp/cheat-sheets/django-class-based-views/)
