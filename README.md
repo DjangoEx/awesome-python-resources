@@ -920,7 +920,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Monitoring
   
-  (In Progress)
+  - **Article**
+    - [log vs metric vs trace](https://microsoft.github.io/code-with-engineering-playbook/observability/log-vs-metric-vs-trace/)
+    - [things to know about observability mechanisms](https://medium.com/@surfd1001/things-to-know-about-observability-mechanisms-a52876e421c7)
+    - [The 3 pillars of observability: Logs, metrics and traces](https://www.techtarget.com/searchitoperations/tip/The-3-pillars-of-observability-Logs-metrics-and-traces)
+    - [ Logging vs Tracing: Why Logs Aren’t Enough to Debug Your Microservices ](https://dev.to/aspecto/logging-vs-tracing-why-logs-aren-t-enough-to-debug-your-microservices-4jgi)
 
 - ### Soft Skill
 
