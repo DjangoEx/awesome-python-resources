@@ -20,7 +20,24 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Python](#python)
 - [Career Path](#career-path)
   - [Backend](#backend)
+    - [Django](#django)
+    - [FastAPI](#fastapi)
+    - [Flask](#flask)
+    - [Tornado](#tornado)
+    - [Web2Py](#web2py)
+    - [Sanic](#sanic)
+    - [AIOHTTP](#aiohttp)
+    - [Bottle](#bottle)
+    - [Dash](#dash)
+    - [BlackSheep](#blacksheep)
   - [Data Science](#data-science)
+    - [Data Analysis](#data-analysis)
+      - [Numpy](#numpy)
+      - [Scipy](#scipy)
+      - [Pandas](#pandas)
+    - [Data Visualization](#data-visualization)
+      - [Matplotlib](#matplotlib)
+      - [Plotly](#plotly)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
   - [Neural Networks](#neural-networks)
@@ -48,27 +65,65 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Instagram](#instagram)
       - [Instagram-Scraper](#instagram-scraper)
       - [InstaPy](#instapy)
+      - [InstaLoader](#instaLoader)
+    - [Linkedin](#linkedin)
+      - [Linkedin Job Finder](#linkedin-scraper)
     - [Robot](#robot)
 
   - [Game Development](#game)
-
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
+    - [General](#general)
+    - [SQLite](#sqlite)
+    - [PostgreSQL](#postgresql)
+    - [MySQL](#mysql)
+    - [Oracle](#oracle)
+    - [MongoDB](#mongodb)
+    - [Redis](#redis)
+    - [MemCached](#memcached)
+    - [Apache Cassandra](#apache-cassandra)
   - [ORM](#orm)
+    - [SQLAlchemy](#sqlalchemy)
+    - [Django ORM](#django-orm)
+    - [Tortoise](#tortoise)
+    - [Peewee](#peewee)
+    - [Pony ORM](#pony)
   - [Clean Code](#clean-code)
   - [Clean Architecture](#clean-architecture)
   - [Caching](#caching)
   - [Testing](#testing)
+    - [Python `unittest` Package](#python-unittest-package)
+    - [`PyTest` Testing Package](#pytest-testing-package)
+    - [DRF Test Framework](#drf-test-framework)
   - [Container Platforms](#container-platforms)
+    - [Docker](#docker)
+    - [Kubernetes](#kubernetes)
   - [Programming Paradigms](#programming-paradigms)
+    - [Object-Oriented Programming](#object-oriented-programming)
+    - [Functional Programming](#functional-programming)
   - [Architectural Patterns](#architectural-patterns)
+    - [Microservice](#microservice)
+    - [Enterprise Applications](#enterprise-applications)
   - [Design Principles](#design-principles)
+    - [SOLID](#solid)
+    - [KISS](#kiss)
+    - [DRY](#dry)
   - [Design Patterns](#design-patterns)
   - [Message Brokers](#message-brokers)
+    - [RabbitMQ](#rabbitmq)
+    - [Apache Kafka](#apache-kafka)
   - [WSGI Servers](#wsgi-servers)
+    - [Gunicorn](#gunicorn)
+    - [uWSGI](#uwsgi)
   - [ASGI Servers](#asgi-servers)
+    - [Uvicorn](#uvicorn)
+    - [Starlette](#starlette)
   - [Web Servers](#web-servers)
+    - [Nginx](#nginx)
+    - [Apache](#apache)
   - [API](#api)
+    - [Design](#design)
+    - [Security](#security)
   - [Availability and Reliability](#availability-and-reliability)
   - [Distributed Systems](#distributed-systems)
   - [Reactive Systems](#reactive-systems)
@@ -79,6 +134,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Public Cloud](#public-cloud)
   - [IoT](#iot)
 - [Where to Go Next?](#where-to-go-next)
+
 
 ## Prerequisites
 <details>
@@ -122,9 +178,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Educative - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
     - [NeetCode - System Design for Beginners](https://neetcode.io/courses/system-design-for-beginners/0)
     - [NeetCode - System Design Interview](https://neetcode.io/courses/system-design-interview/0)
+</details>
+
 <details>
-
-
   <summary id="git">Git</summary> <br> 
   
   - **Documentation**
@@ -272,8 +328,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Backend
   - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
   <br>
-
-
   <details>
     <summary id="django">Django</summary> <br> 
 
@@ -731,6 +785,14 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Tutorials**
       - [Robot Framework Test Automation - Level 2](https://www.udemy.com/course/robot-framework-2/)
+  </details>
+
+
+    - #### Linkedin
+  <details>
+  <summary id="linkedin-scraper">Linkedin Job Finder</summary> <br> 
+
+    - [Source](https://github.com/ManiMozaffar/linkedIn-scraper)
   </details>
 
 
