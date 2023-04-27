@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-# Python Engineer Roadmap [![README to PDF](https://github.com/DjangoEx/python-engineer-roadmap/actions/workflows/convert-to-pdf.yml/badge.svg)](README.pdf)
+# Python Engineer Roadmap [![README to PDF](https://github.com/DjangoEx/awesome-python-resources/actions/workflows/convert-to-pdf.yml/badge.svg)](README.pdf)
 
 [Python](https://www.python.org/) can be used in a lot of computer science fields. In this repository, we have collected resources for each field of computer science that are related to Python.\
 **Not sure which source to choose?** You can follow the resources marked with a ✅ symbol, they are highly recommended by the community.
@@ -20,24 +20,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Python](#python)
 - [Career Path](#career-path)
   - [Backend](#backend)
-    - [Django](#django)
-    - [FastAPI](#fastapi)
-    - [Flask](#flask)
-    - [Tornado](#tornado)
-    - [Web2Py](#web2py)
-    - [Sanic](#sanic)
-    - [AIOHTTP](#aiohttp)
-    - [Bottle](#bottle)
-    - [Dash](#dash)
-    - [BlackSheep](#blacksheep)
   - [Data Science](#data-science)
-    - [Data Analysis](#data-analysis)
-      - [Numpy](#numpy)
-      - [Scipy](#scipy)
-      - [Pandas](#pandas)
-    - [Data Visualization](#data-visualization)
-      - [Matplotlib](#matplotlib)
-      - [Plotly](#plotly)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
   - [Neural Networks](#neural-networks)
@@ -68,59 +51,24 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Robot](#robot)
 
   - [Game Development](#game)
+
 - [Advanced Topics](#advanced-topics)
   - [Databases](#databases)
-    - [General](#general)
-    - [SQLite](#sqlite)
-    - [PostgreSQL](#postgresql)
-    - [MySQL](#mysql)
-    - [Oracle](#oracle)
-    - [MongoDB](#mongodb)
-    - [Redis](#redis)
-    - [MemCached](#memcached)
-    - [Apache Cassandra](#apache-cassandra)
   - [ORM](#orm)
-    - [SQLAlchemy](#sqlalchemy)
-    - [Django ORM](#django-orm)
-    - [Tortoise](#tortoise)
-    - [Peewee](#peewee)
-    - [Pony ORM](#pony)
   - [Clean Code](#clean-code)
   - [Clean Architecture](#clean-architecture)
   - [Caching](#caching)
   - [Testing](#testing)
-    - [Python `unittest` Package](#python-unittest-package)
-    - [`PyTest` Testing Package](#pytest-testing-package)
-    - [DRF Test Framework](#drf-test-framework)
   - [Container Platforms](#container-platforms)
-    - [Docker](#docker)
-    - [Kubernetes](#kubernetes)
   - [Programming Paradigms](#programming-paradigms)
-    - [Object-Oriented Programming](#object-oriented-programming)
-    - [Functional Programming](#functional-programming)
   - [Architectural Patterns](#architectural-patterns)
-    - [Microservice](#microservice)
-    - [Enterprise Applications](#enterprise-applications)
   - [Design Principles](#design-principles)
-    - [SOLID](#solid)
-    - [KISS](#kiss)
-    - [DRY](#dry)
   - [Design Patterns](#design-patterns)
   - [Message Brokers](#message-brokers)
-    - [RabbitMQ](#rabbitmq)
-    - [Apache Kafka](#apache-kafka)
   - [WSGI Servers](#wsgi-servers)
-    - [Gunicorn](#gunicorn)
-    - [uWSGI](#uwsgi)
   - [ASGI Servers](#asgi-servers)
-    - [Uvicorn](#uvicorn)
-    - [Starlette](#starlette)
   - [Web Servers](#web-servers)
-    - [Nginx](#nginx)
-    - [Apache](#apache)
   - [API](#api)
-    - [Design](#design)
-    - [Security](#security)
   - [Availability and Reliability](#availability-and-reliability)
   - [Distributed Systems](#distributed-systems)
   - [Reactive Systems](#reactive-systems)
@@ -144,6 +92,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Video**
     - [Data Structures And Algorithms Course by Mosh Hamedani](https://codewithmosh.com/p/data-structures-algorithms)
+    - [Algorithms and Data Structures for Beginners by NeetCode](https://neetcode.io/courses/dsa-for-beginners/0)
+    - [Advanced Algorithms by NeetCode](https://neetcode.io/courses/advanced-algorithms/0)
 
   - **Platform**
     - ✅ [LeetCode](https://leetcode.com/)
@@ -154,6 +104,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Repo**
     - ✅ [Coding University](https://github.com/jwasham/coding-interview-university)
+    - [Algorithm solution and summary of Grokking book](https://github.com/msdundar/notes-algorithms)
 
   - **Cheat Sheet**
     - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
@@ -169,10 +120,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Course**
     - [Educative - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
-</details>
-
-
+    - [NeetCode - System Design for Beginners](https://neetcode.io/courses/system-design-for-beginners/0)
+    - [NeetCode - System Design Interview](https://neetcode.io/courses/system-design-interview/0)
 <details>
+
+
   <summary id="git">Git</summary> <br> 
   
   - **Documentation**
@@ -311,7 +263,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [Python Telegram group](https://t.me/Python)
 
   - **Cheat Sheet**
-    - [Beginners Python cheat sheet](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf)
     - [Python cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 </details>
 
@@ -356,6 +307,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Django Telegram group](https://t.me/django)
 
     - **Cheat Sheet**
+      - [Beginners Django cheat sheet](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf)
       - [Django Cheat Sheet](https://cheatography.com/ogr/cheat-sheets/django/)
       - [Django Models Cheat Sheet](https://cheatography.com/lewiseason/cheat-sheets/django-models/)
       - [Django Class Based Views Cheat Sheet](https://cheatography.com/papousekp/cheat-sheets/django-class-based-views/)
@@ -753,7 +705,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 
   - #### Instagram
-
   <details>
   <summary id="instagram-scraper">Instagram-Scraper</summary> <br> 
 
@@ -765,6 +716,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - [Source](https://github.com/InstaPy/InstaPy)
   </details>
+  
+  <details>
+  <summary id="instaloader">Instaloader</summary> <br>   
+
+    - [Source](https://github.com/instaloader/instaloader)
+  </details>
 
   <details>
   <summary id="robot">Robot</summary> <br> 
@@ -774,7 +731,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - **Tutorials**
       - [Robot Framework Test Automation - Level 2](https://www.udemy.com/course/robot-framework-2/)
-
   </details>
 
 
@@ -908,6 +864,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - ✅ [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/gp/product/0132350882)
     - ✅ [Clean Code in Python by Mariano Anaya](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214)
     - [Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve Mcconnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+    - [Clean Python: Elegant Coding in Python by Sunil Kapil](https://www.amazon.com/Clean-Python-Elegant-Coding/dp/1484248775)
 
 </details>
 
@@ -1322,7 +1279,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
    
 - ### Monitoring
   
-  (In Progress)
+  - **Article**
+    - [log vs metric vs trace](https://microsoft.github.io/code-with-engineering-playbook/observability/log-vs-metric-vs-trace/)
+    - [things to know about observability mechanisms](https://medium.com/@surfd1001/things-to-know-about-observability-mechanisms-a52876e421c7)
+    - [The 3 pillars of observability: Logs, metrics and traces](https://www.techtarget.com/searchitoperations/tip/The-3-pillars-of-observability-Logs-metrics-and-traces)
+    - [ Logging vs Tracing: Why Logs Aren’t Enough to Debug Your Microservices ](https://dev.to/aspecto/logging-vs-tracing-why-logs-aren-t-enough-to-debug-your-microservices-4jgi)
 
 
 
