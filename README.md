@@ -60,7 +60,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 ## Prerequisites
 
-- ### Algorithms and Data Structures
+<details>
+<summary id="algorithms-and-data-structures">Algorithms and Data Structures</summary> <br> 
   
   - **Book**
     - ✅ [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
@@ -86,6 +87,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Cheat Sheet**
     - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
+
+  </details>
 
 - ### System Design
   
