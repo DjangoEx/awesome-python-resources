@@ -184,6 +184,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Codecademy Python 2](https://www.codecademy.com/learn/learn-python)
       - [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
       - [Sololearn Python](https://www.sololearn.com/learning/1073)
+      - [Wiingy](https://wiingy.com/learn/python/python-tutorial/)
 
   - **Intermediate**  
     - **Book**
