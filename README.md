@@ -813,14 +813,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Documentation**
       - [RabbitMQ Documentation](https://www.rabbitmq.com/documentation.html)
 
-    - **Article**
-      - [RabbitMQ Hello World](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
-      - [RabbitMQ Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
-      - [RabbitMQ Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-python.html)
-      - [RabbitMQ Routing](https://www.rabbitmq.com/tutorials/tutorial-four-python.html)
-      - [RabbitMQ Topics](https://www.rabbitmq.com/tutorials/tutorial-five-python.html)
-      - [RabbitMQ Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-python.html)
-
     - **Cheat Sheet**
       - [RabbitMQ Cheat Sheet 1](https://cheatography.com/francisuk/cheat-sheets/rabbitmq/pdf/)
       - [RabbitMQ Cheat Sheet 2](https://lzone.de/cheat-sheet/RabbitMQ)
