@@ -47,7 +47,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [ASGI Servers](#asgi-servers)
   - [Web Servers](#web-servers)
   - [API](#api)
-  - [Availability and Reliability](#availability-and-reliability)
+  - [Availability and Reliability](#reliability)
   - [Distributed Systems](#distributed-systems)
   - [Reactive Systems](#reactive-systems)
   - [Refactoring](#refactoring)
@@ -895,9 +895,13 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - **Checklist**
       - [API Security Checklist](https://github.com/bobycloud/API-Security-Checklist/blob/master/README-en.md)
 
-- ### Availability and Reliability
+- ### Reliability
 
-  (In Progress)
+    - **Book**
+      - [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.amazon.com/Building-Secure-Reliable-Systems-Implementing/dp/1492083127)
+      - [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
+      - [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505)
+      - [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869)
 
 - ### Distributed Systems
 
