@@ -47,7 +47,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [ASGI Servers](#asgi-servers)
   - [Web Servers](#web-servers)
   - [API](#api)
-  - [Availability and Reliability](#reliability)
+  - [Reliability](#reliability)
   - [Distributed Systems](#distributed-systems)
   - [Reactive Systems](#reactive-systems)
   - [Refactoring](#refactoring)
