@@ -879,7 +879,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - #### Design
   
     - **Guidelines and Best Practices**
-      - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+      - ✅ [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
       - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
 
   - #### Security
@@ -890,7 +890,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Reliability
 
     - **Book**
-      - [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.amazon.com/Building-Secure-Reliable-Systems-Implementing/dp/1492083127)
+      - ✅ [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.amazon.com/Building-Secure-Reliable-Systems-Implementing/dp/1492083127)
       - [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
       - [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505)
       - [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869)
@@ -905,8 +905,15 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Refactoring
 
+  - **Book**
+    - ✅ [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+    - [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.amazon.nl/Software-Architecture-Distributed-Architectures-Trade-Off/dp/1492086894/)
+
+  - **Platform**
+    - ✅ [Refactoring.guru](https://refactoring.guru/refactoring)
+
   - **Video**
-    - [Dive Into REFACTORING](https://refactoring.guru/refactoring/course)
+    - [Dive Into Refactoring](https://refactoring.guru/refactoring/course)
 
 - ### Security
 
@@ -943,7 +950,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   
 - ### IoT
 
-    - #### Concept
     - #### Protocol
       - [Practical MQTT with Steve](http://www.steves-internet-guide.com/)
 
