@@ -899,11 +899,17 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Distributed Systems
 
-  (In Progress)
+  - **Book**
+    - [Distributed Systems: Principles and Paradigms](https://www.amazon.nl/-/en/Maarten-Van-Steen/dp/153028175X)
+    - [Scalability Patterns: Best Practices for Designing High Volume Websites](https://www.amazon.com/Scalability-Patterns-Practices-Designing-Websites/dp/1484210743)
+    - [Distributed Computing with Python](https://www.oreilly.com/library/view/distributed-computing-with/9781785889691/)
 
 - ### Reactive Systems
 
-  (In Progress)
+  - **Book**
+    - [Reactive Microservices Architecture](https://www.oreilly.com/library/view/reactive-microservices-architecture/9781491975664/)
+    - [Hands-On Reactive Programming with Python: Event-driven development unraveled with RxPY](https://www.amazon.nl/Hands-Reactive-Programming-Python-Event-driven/dp/1789138728)
+    - [Reactive Application Development](https://www.manning.com/books/reactive-application-development)
 
 - ### Refactoring
 
