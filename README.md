@@ -681,7 +681,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Clean Architecture
 
-  (In Progress)
+  - **Book**
+    - [Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+    - [Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices](https://www.amazon.nl/Architecture-Patterns-Python-Domain-Driven-Microservices-ebook/dp/B085KB31X3)
 
 - ### Caching
 
