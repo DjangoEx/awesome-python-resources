@@ -430,6 +430,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### DevOps
 
+  - **Book**
+    - [Python for DevOps: Learn Ruthlessly Effective Automation](https://www.amazon.nl/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X)
+
   - **Community**
     - [DevOps, SRE, & Infrastructure](https://discord.com/invite/VEEnHkPzY6)
 
@@ -954,7 +957,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### Public Cloud
 
-  (In Progress)
+  - **Book**
+    - [AWS Certified Solutions Architect Study Guide with 900 Practice Test Questions: Associate (SAA-C03)](https://www.amazon.nl/Certified-Solutions-Architect-Practice-Questions/dp/1119982626)
+    - [Cloud Native Python](https://www.oreilly.com/library/view/cloud-native-python/9781787129313/)
+
+  - **Course**
+    - [Learn AWS Automation with Boto3, Python, and Lambda Functions](https://www.packtpub.com/product/learn-aws-automation-with-boto3-python-and-lambda-functions-video/9781803245317)
   
 - ### IoT
 
