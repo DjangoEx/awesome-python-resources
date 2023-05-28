@@ -214,6 +214,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Python for Programmers by Deitel Developer Series](https://deitel.com/python-for-programmers-book/)
       - [Serious Python by Julien Danjou](https://serious-python.com/)
       - [Python Notes for Professionals](https://books.goalkicker.com/PythonBook/)
+      - [Python Anti-patterns](https://frostyx.fedorapeople.org/The-Little-Book-of-Python-Anti-Patterns-1.0.pdf)
 
     - **Video**
       - ✅ [Python3: Deep dive Iteration, Generators](https://www.udemy.com/course/python-3-deep-dive-part-2/)
