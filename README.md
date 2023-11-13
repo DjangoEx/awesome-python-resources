@@ -462,6 +462,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Wire](https://github.com/wkeeling/selenium-wire)
       - [Cucucumber](https://github.com/executeautomation/SeleniumWithCucucumber)
       - [Requestium](https://github.com/tryolabs/requestium)
+      - [Splinter](https://github.com/cobrateam/splinter) 
       - [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 
     
