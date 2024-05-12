@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Awesome Python Resources
 
 [Python](https://www.python.org/) can be used in a lot of computer science fields. In this repository, we have collected resources for each field of computer science that are related to Python.\
@@ -969,5 +967,3 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - #### Protocol
       - [Practical MQTT with Steve](http://www.steves-internet-guide.com/)
-
-##### [BACK TO TOP](#top)
