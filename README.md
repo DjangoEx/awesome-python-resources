@@ -953,6 +953,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   - **Book**
     - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+    - [No Hard Feelings](https://www.amazon.com/No-Hard-Feelings-Emotions-Succeed/dp/0241328705)
 
 - ### Public Cloud
 
