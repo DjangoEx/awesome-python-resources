@@ -1,4 +1,4 @@
-# Awesome Python Resources
+# Awesome Python Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [Python](https://www.python.org/) can be used in a lot of computer science fields. In this repository, we have collected resources for each field of computer science that are related to Python.\
 **Not sure which source to choose?** You can follow the resources marked with a ✅ symbol, they are highly recommended by the community.
