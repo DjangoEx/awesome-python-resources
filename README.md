@@ -1,13 +1,10 @@
 # Awesome Python Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Python](https://www.python.org/) can be used in a lot of computer science fields. In this repository, we have collected resources for each field of computer science that are related to Python.\
-**Not sure which source to choose?** You can follow the resources marked with a ✅ symbol, they are highly recommended by the community.
+An expertly curated list of top-tier resources for Python in science and technical fields.
 
+Titles marked with the "✅" emoji are highly recommended community-approved resources. Consider checking them out first.
 
-### Contribution
-Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions).
-
-### Table of Contents
+## Table of Contents
 
 - [Prerequisites](#prerequisites)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
@@ -54,6 +51,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Soft Skill](#soft-skill)
   - [Public Cloud](#public-cloud)
   - [IoT](#iot)
+- [Contributing](#contributing)
 
 ## Prerequisites
 
@@ -520,9 +518,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Source](https://github.com/instaloader/instaloader)
 
 ## Advanced Topics
-
-  ⚠️ The following topics don't have any order or priority of learning.\
-  🔥 Choose topics that you are **interested in** or **suit your needs**.
+The following topics don't have any order or priority of learning. Choose topics that you are **interested in** or **meet your needs**.
 
 - ### Databases
 
@@ -678,9 +674,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Pony ORM tutorial](https://docs.ponyorm.org/tutorials/first-steps.html)
       - [Pony ORM examples](https://github.com/ponyorm/pony/tree/master/examples)
 
-
-
-
 - ### Clean Architecture
 
   - **Book**
@@ -797,7 +790,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - #### KISS
 
   - #### DRY
-
 
 - ### Design Patterns
 
@@ -968,3 +960,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
     - #### Protocol
       - [Practical MQTT with Steve](http://www.steves-internet-guide.com/)
+
+## Contributing
+Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. Please note that this repository is maintained with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
