@@ -794,10 +794,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
         - [SOLID Principles In Python by Philip Norton](https://www.hashbangcode.com/article/solid-principles-python)
         - [Uncle Bob's SOLID principles made easy 🍀 - in Python!](https://www.youtube.com/watch?v=pTB30aXS77U)
 
-  - #### KISS
-
-  - #### DRY
-
 
 - ### Design Patterns
 
