@@ -484,9 +484,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Source](https://github.com/LonamiWebs/Telethon)
       - [Documentation](https://docs.telethon.dev/)
     
-    - #### Pygram
-      - [Source](https://github.com/pygram/pygram)
-      - [Documentation](https://pygram.readthedocs.io/en/latest/)
     - #### Pyrogram
       - [Source](https://github.com/pyrogram/pyrogram)
       - [Documentation](https://docs.pyrogram.org/)
@@ -655,10 +652,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - ### Tortoise
 
     - **Documentation**
-        - [Tortoise ORM documentation](https://tortoise-orm.readthedocs.io/en/latest/)
+        - [Tortoise ORM documentation](https://tortoise.github.io/)
       
     - **Tutorial**
-      - [Tortoise ORM tutorial](https://tortoise-orm.readthedocs.io/en/latest/examples.html)
+      - [Tortoise ORM tutorial](https://tortoise.github.io/examples.html)
 
   - ### Peewee
   
@@ -831,7 +828,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - #### Gunicorn
   
     - **Documentation**
-      - [Gunicorn Documentation](https://docs.gunicorn.org/en/stable/)
+      - [Gunicorn Documentation](https://gunicorn.org/)
 
   - #### uWSGI
   
