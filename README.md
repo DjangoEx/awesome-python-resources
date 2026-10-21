@@ -159,6 +159,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Python-Poetry**
     - **Documentation**
       - [Python-Poetry Documentation](https://python-poetry.org/docs/)
+     
+  - **uv**
+    - **Documentation**
+      - [uv Documentation](https://docs.astral.sh/uv/)
+    - **Article**
+      - [uv vs pip vs Poetry: Which Python Package Manager](https://devtoolhub.com/uv-vs-pip-vs-poetry/)
 
 - ### Python
 
