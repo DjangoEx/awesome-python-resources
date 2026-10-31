@@ -171,6 +171,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       - [Head First Python by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide/dp/1449382673)
       - [Learn Python the Hard Way by Zed Shaw](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914)
       - [Essential Python Tools](https://books.agiliq.com/projects/essential-python-tools/en/latest/)
+      - [Coffee Break Python by Christian Mayer](https://www.amazon.com/dp/B07GSTJPFD)
 
     - **Video**
       - [Python Beginner Tutorial by NeuralNine](https://www.youtube.com/playlist?list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc)
