@@ -91,7 +91,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [System Design Interview: Volume 2 by Alex Xu & Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)
 
   - **Course**
-    - [Educative - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+    - [Design Gurus - Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
     - [NeetCode - System Design for Beginners](https://neetcode.io/courses/system-design-for-beginners/0)
     - [NeetCode - System Design Interview](https://neetcode.io/courses/system-design-interview/0)
 
