@@ -704,6 +704,20 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     
     - **Documentation**
       - [Official PyTest Documentation](https://docs.pytest.org/en/stable/index.html)
+      - [How to Use PyTest Fixtures](https://docs.pytest.org/en/stable/how-to/fixtures.html)
+
+    - **Book**
+      - ✅ [Python Testing with pytest, Second Edition by Brian Okken](https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/)
+
+  - #### Python `mock` Package
+
+    - **Documentation**
+      - [unittest.mock — Mock Object Library](https://docs.python.org/3/library/unittest.mock.html)
+
+  - #### `Hypothesis` Property-Based Testing Package
+
+    - **Documentation**
+      - [Official Hypothesis Documentation](https://hypothesis.readthedocs.io/en/latest/)
 
   - #### DRF Test Framework
 
