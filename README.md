@@ -933,6 +933,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
     - [OWASP Top 10 for Web with live training](https://application.security/free/owasp-top-10)
     - [SANS SWAT Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)
+    - [Python Open-Source Supply-Chain Review Benchmark](https://slopcodemonitor.ai/benchmark-language-python.html)
 
 - ### Monitoring
   
